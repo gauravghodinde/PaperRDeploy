@@ -1,0 +1,1875 @@
+[
+    {
+        "paper": "Paper2",
+        "headlines": [
+            "Plasmonic Nanomaterials: Bridging Science and Medicine",
+            "Nanotechnology Anchored in Medicine: A 20-Year Review",
+            "Engineering the Future: Plasmonics in Biomedical Innovation",
+            "From Lab to Clinic: How Nanoscience Powers Modern Medicine",
+            "Physico-Chemical Frontiers in Nanomedicine Explored"
+        ],
+        "abstract": "Background\nPlasmonic nanomaterials as noble metal-based materials have unique optical characteristic upon exposure to incident light with an appropriate wavelength. Today, generated plasmon by nanoparticles has received increasing attention in nanomedicine; from diagnosis, tissue and tumor imaging to therapeutic and biomedical engineering.\nAim of review\nDue to rapid growing of knowledge in the inorganic nanomaterial field, this paper aims to be a comprehensive and authoritative, critical, and broad interest to the scientific community. Here, we introduce basic physicochemical properties of plasmonic nanoparticles and their applications in biomedical and tissue engineering The first part of each division explain the basic physico-chemical properties of each nanomaterial with a graphical abstract. In the second part, concepts by describing classic examples taken from the biomedical and biomedical engineering literature are illustrated. The selected case studies are intended to give an overview of the different systems and mechanisms utilized in nanomedicine.\nKey Scientific Concepts of review\nIn this communication, we have tried to introduce the needed concepts of plasmonic nanomaterials and their implication in a particular part of biomedical over the last 20 years. Moreover, in each part with insist on limitations, a perspective is presented which can guide a researcher how they can develop or modify new scaffolds for biomedical engineering.",
+        "supplementary_details": [
+            {
+                "information": "Representation of disciplines (Physics, Chemistry, Biology)",
+                "justification": "Supports the text that discusses \"physico-chemical properties\" and interdisciplinary nature."
+            },
+            {
+                "information": "Mention of \"Medicine\" as the application",
+                "justification": "Aligns with the text emphasizing applications in \"biomedical and tissue engineering.\""
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Central chain from \"NANO\" connecting disciplines",
+                "justification": "Visually enhances understanding of nanoscience as a unifying field across disciplines\u2014adds insight not stated directly."
+            },
+            {
+                "information": "Anchor symbol dragging medicine",
+                "justification": "A metaphor showing nanoscience as a tool \"anchoring\" medicine\u2014this symbolic link isn't stated in text but adds depth."
+            }
+        ]
+    },
+    {
+        "paper": "Paper3",
+        "headlines": [
+            "Healing Joints with Hydrogels: A Breakthrough in Rheumatoid Arthritis Care",
+            "From Inflammation to Recovery: How Functional Hydrogels Are Changing RA Treatment",
+            "Inject, Regrow, Recover: The Promise of Smart Hydrogels in RA Therapy",
+            "Hydrogels That Heal: New Strategies for Autoimmune Joint Disease",
+            "Targeted Treatment for RA: Hydrogels Mimicking Synovial Fluid Show Hope"
+        ],
+        "abstract": "Rheumatoid Arthritis (RA) is an autoimmune disorder that hinders the normal functioning of bones and joints and reduces the quality of human life. Every year, millions of people are diagnosed with RA worldwide, particularly among elderly individuals and women. Therefore, there is a global need to develop new biomaterials, medicines and therapeutic methods for treating RA. This will improve the Healthcare Access and Quality Index and also relieve administrative and financial burdens on healthcare service providers at a global scale. Hydrogels are soft and cross-linked polymeric materials that can store a chunk of fluids, drugs and biomolecules for hydration and therapeutic applications. Hydrogels are biocompatible and exhibit excellent mechanical properties, such as providing elastic cushions to articulating joints by mimicking the natural synovial fluid. Hence, hydrogels create a natural biological environment within the synovial cavity to reduce autoimmune reactions and friction. Hydrogels also lubricate the articulating joint surfaces to prevent degradation of synovial surfaces of bones and cartilage, thus exhibiting high potential for treating RA. This work reviews the progress in injectable and implantable hydrogels, synthesis methods, types of drugs, advantages and challenges. Additionally, it discusses the role of hydrogels in targeted drug delivery, mechanistic behaviour and tribological performance for RA treatment.",
+        "supplementary_details": [
+            {
+                "information": "Depiction of Rheumatoid Arthritis (RA) in the knee joint",
+                "justification": "This visual aligns with the textual explanation of RA affecting bones and joints, particularly in the knee."
+            },
+            {
+                "information": "Use of tablets and injectable hydrogels as treatment options",
+                "justification": "The image shows both conventional and advanced hydrogel therapies, reinforcing details from the textual abstract."
+            },
+            {
+                "information": "Concept of complete and partial recovery vs. continued arthritis",
+                "justification": "Visual representation of recovery stages echoes the discussion of hydrogel benefits and treatment outcomes."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual showing \"Functionalized hydrogel assisted osteoregeneration & immunomodulation\"",
+                "justification": "Adds detail not explicitly stated in the abstract\u2014mechanism of action of hydrogels in modulating immune response and regeneration."
+            },
+            {
+                "information": "Arrows indicating treatment pathway and outcomes",
+                "justification": "The flow from RA to recovery, recovery to outcomes (completely recovered / arthritic), complements text by visualizing progression."
+            }
+        ]
+    },
+    {
+        "paper": "Paper4",
+        "headlines": [
+            "\u201cMXenes in Medicine: The 2D Powerhouse Revolutionizing Biomedical Tech\u201d",
+            "\u201cFrom Sensors to Healing: MXenes Redefine Biomedicine\u2019s Future\u201d",
+            "\u201cThe Next Frontier: MXenes in Bioelectronics and Therapeutics\u201d",
+            "\u201cSmart Materials, Smarter Healthcare: The Rise of MXenes\u201d",
+            "\u201cMXenes Unleashed: Multidimensional Biomedical Applications on the Horizon\u201d"
+        ],
+        "abstract": "The unique combination of physical and chemical properties of MXenes has propelled a growing number of applications in biomedicine and healthcare. The expanding library of MXenes with tunable properties is paving the way for high-performance, application-specific MXene-based sensing and therapeutic platforms. In this article, we highlight the emerging biomedical applications of MXenes with specific emphasis on bioelectronics, biosensors, tissue engineering, and therapeutics. We present examples of MXenes and their composites enabling novel technological platforms and therapeutic strategies, and elucidate potential avenues for further developments. Finally, we discuss the materials, manufacturing, and regulatory challenges that need to be synergistically addressed for the clinical translation of MXene-based biomedical technologies.\n",
+        "supplementary_details": [
+            {
+                "information": "MXene\u2019s role in biosensing",
+                "justification": "The textual abstract mentions MXene-based sensors; the diagram expands with specific modalities like DNA sensing."
+            },
+            {
+                "information": "MXene in tissue engineering",
+                "justification": "The textual abstract references tissue engineering; the graphic shows applications like stem cell engineering and artificial organs."
+            },
+            {
+                "information": "MXene in therapeutics",
+                "justification": "Therapeutic uses like drug delivery, wound healing, and synergistic therapy support what\u2019s briefly mentioned in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Detailed subcategories like intraocular lenses, dialysis, regenerative medicine",
+                "justification": "These aren\u2019t mentioned explicitly in the textual abstract but extend understanding of MXene\u2019s potential."
+            },
+            {
+                "information": "Anti-microbial uses (antiviral, antibacterial)",
+                "justification": "Antimicrobial roles aren\u2019t described in the text but the diagram introduces this novel use case."
+            },
+            {
+                "information": "Electrophysiology (wearable electronics, photothermal stimulation)",
+                "justification": "These applications provide a new lens on bioelectronics not detailed in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper5",
+        "headlines": [
+            "\u201cBridging Lab to Clinic: A Review on Iron Oxide Nanoparticles\u201d",
+            "\u201cFrom Synthesis to Solutions: Biomedical Roles of IONPs\u201d",
+            "\u201cYin-Yang of IONPs: Balancing Preparation and Application\u201d",
+            "\u201cIONPs in Medicine: Promise, Pitfalls, and Progress\u201d",
+            "\u201cSmarter Nanoparticles for a Healthier Tomorrow\u201d"
+        ],
+        "abstract": "The iron oxide nanoparticles (IONPs), possessing both magnetic behavior and semiconductor property, have been extensively used in multifunctional biomedical fields due to their biocompatible, biodegradable and low toxicity, such as anticancer, antibacterial, cell labelling activities. Nevertheless, there are few IONPs in clinical use at present. Some IONPs approved for clinical use have been withdrawn due to insufficient understanding of its biomedical applications. Therefore, a systematic summary of IONPs\u2019 preparation and biomedical applications is crucial for the next step of entering clinical practice from experimental stage. This review summarized the existing research in the past decade on the biological interaction of IONPs with animal/cells models, and their clinical applications in human. This review aims to provide cutting-edge knowledge involved with IONPs\u2019 biological effects in vivo and in vitro, and improve their smarter design and application in biomedical research and clinic trials.",
+        "supplementary_details": [
+            {
+                "information": "IONPs used in anticancer, antibacterial...",
+                "justification": "Graphical abstract visually supports this by showing DNA, brain, and human figures implying medical use."
+            },
+            {
+                "information": "Preparation focus in review",
+                "justification": "Lower part of the Yin-Yang diagram labeled \"Preparation\" with different particle structures supports this."
+            },
+            {
+                "information": "Medical applications are emphasized",
+                "justification": "Top-right labeled \u201cApplications\u201d and \u201cMedical\u201d illustrates intended biomedical applications."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Yin-Yang Symbolic Layout",
+                "justification": "The Yin-Yang visual metaphor isn't described in the abstract but enriches the understanding of the balance between preparation and application."
+            },
+            {
+                "information": "Specific organs (e.g., brain, DNA strand)",
+                "justification": "These visuals are not explicitly mentioned in the textual abstract but hint at neurological and genetic use cases."
+            },
+            {
+                "information": "Diversity of nanoparticle morphologies",
+                "justification": "Graph shows different NP shapes\u2014providing more detailed insight into NP variety than the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper6",
+        "headlines": [
+            "Absorbable Metals: Shaping the Future of Temporary Medical Implants",
+            "From Corrosion to Cure: Revolutionizing Implants with Absorbable Metals",
+            "Visualizing Degradation: The Promise of Absorbable Stents and Screws",
+            "Biodegradable Implants: A New Era in Cardiovascular and Orthopedic Care"
+        ],
+        "abstract": "Absorbable metals, metals that corrode in physiological environment, constitute a new class of biomaterials intended for temporary medical implant applications. The introduction of these metals has shifted the established paradigm of metal implants from preventing corrosion to its direct application. Interest toward absorbable metals has been growing in the past decade. This is proved by the rapid increase in scientific publication, progressive development of standards, and launching the first commercial products. Iron, magnesium, zinc, and their alloys are the current three absorbable metals families. Magnesium-based metals are the most progressing family with a large data set obtained from both basic and translational research. Iron-based metals are still facing a major challenge of low in vivo corrosion rate despite the significant efforts that have been put to overcome its weakness. Zinc-based metals are the new alternative absorbable metals with moderate corrosion rates that fall between those of iron and magnesium. This manuscript provides a brief review on the latest progress in the research and development of absorbable metals, the most important findings, the remaining challenges, and the perspective on the future direction.",
+        "supplementary_details": [
+            {
+                "information": "Mention of absorbable metals (text and image)",
+                "justification": "Both text and visuals emphasize that these metals are meant to degrade in the body, reinforcing the primary theme."
+            },
+            {
+                "information": "Images of stent and bone screws",
+                "justification": "These devices are examples of the \u201ctemporary medical implants\u201d mentioned in the abstract, adding context to the concept."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual of absorbable coronary stent and pre-/post-procedure intravascular ultrasound",
+                "justification": "While the text discusses absorbable metals in general, the image adds depth by showing a specific medical application (coronary stents) and their impact via imaging data."
+            },
+            {
+                "information": "Pre-op to 12-month x-rays of absorbable bone screws",
+                "justification": "The image demonstrates the degradation timeline visually, which complements the abstract\u2019s discussion of corrosion rates and temporary implant application."
+            },
+            {
+                "information": "Usage of magnesium alloy-based screws in bones (likely magnesium-based from corrosion rate shown)",
+                "justification": "This isn't explicitly stated in the abstract, but the visual progression helps interpret how a moderate corrosion metal like magnesium performs over time in a clinical use."
+            }
+        ]
+    },
+    {
+        "paper": "Paper7",
+        "headlines": [
+            "\u201c2D Nanomaterials: A New Frontier in Neuroscience and Neurotherapy\u201d",
+            "\u201cHealing the Brain with Sheets of Atoms: 2D Nanomaterials in Action\u201d",
+            "\u201cFrom Synapse to Glioma: Biomedical Advances with 2D Nanomaterials\u201d",
+            "\u201cSmart Nanomaterials for Smarter Brains: The Rise of 2D Synaptic Devices\u201d",
+            "\u201cSheet-Engineered Healing: 2D Nanomaterials in Neural Repair and Delivery\u201d"
+        ],
+        "abstract": "Two-dimensional (2D) nanomaterials, such as graphene, black phosphorus and transition metal dichalcogenides, have attracted increasing attention in biology and biomedicine. Their high mechanical stiffness, excellent electrical conductivity, optical transparency, and biocompatibility have led to rapid advances. Neuroscience is a complex field with many challenges, such as nervous system is difficult to repair and regenerate, as well as the early diagnosis and treatment of neurological diseases are also challenged. This review mainly focuses on the application of 2D nanomaterials in neuroscience. Firstly, we introduced various types of 2D nanomaterials. Secondly, due to the repairment and regeneration of nerve is an important problem in the field of neuroscience, we summarized the studies of 2D nanomaterials applied in neural repairment and regeneration based on their unique physicochemical properties and excellent biocompatibility. We also discussed the potential of 2D nanomaterial-based synaptic devices to mimic connections among neurons in the human brain due to their low-power switching capabilities and high mobility of charge carriers. In addition, we also reviewed the potential clinical application of various 2D nanomaterials in diagnosing and treating neurodegenerative diseases, neurological system disorders, as well as glioma. Finally, we discussed the challenge and future directions of 2D nanomaterials in neuroscience.",
+        "supplementary_details": [
+            {
+                "information": "Center circle listing types of 2D nanomaterials (e.g., Graphene, BP, TMDCs, etc.)",
+                "justification": "Supports the text where it mentions the types of 2D nanomaterials being introduced in the review."
+            },
+            {
+                "information": "Visual of synapse repair using 2D materials",
+                "justification": "Matches the text discussing neural repairment/regeneration and their biocompatibility and electrical properties."
+            },
+            {
+                "information": "Application in glioma treatment and depiction of strategies",
+                "justification": "Reflects textual mention of 2D nanomaterials in glioma diagnosis and treatment."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Drug delivery system using 2D nanomaterials",
+                "justification": "Not explicitly emphasized in the text, this introduces drug delivery mechanisms as a key biomedical application."
+            },
+            {
+                "information": "Artificial synapse creation with 2D nanomaterials",
+                "justification": "Adds depth to the idea of synaptic devices by visually representing how 2D materials mimic brain connections."
+            },
+            {
+                "information": "Neurodegenerative disease treatment mechanisms",
+                "justification": "Provides more detailed visual scenarios of disease modeling, treatment, and diagnosis, beyond the general text summary."
+            }
+        ]
+    },
+    {
+        "paper": "Paper8",
+        "headlines": [
+            "Hierarchically-Engineered Silica Nanoparticles Pave New Paths in Biomedicine",
+            "From Lab to Clinic: The Evolving Role of MSNs in Drug Delivery and Beyond",
+            "Smart Nanocarriers: Tunable, Targeted, and Transformative MSNs for Biomedical Use",
+            "Revolutionizing Biomedicine with Janus and Flower-like MSNs",
+            "Multifunctional MSNs: One Platform, Many Possibilities"
+        ],
+        "abstract": "Despite exceptional morphological and physicochemical attributes, mesoporous silica nanoparticles (MSNs) are often employed as carriers or vectors. Moreover, these conventional MSNs often suffer from various limitations in biomedicine, such as reduced drug encapsulation efficacy, deprived compatibility, and poor degradability, resulting in poor therapeutic outcomes. To address these limitations, several modifications have been corroborated to fabricating hierarchically-engineered MSNs in terms of tuning the pore sizes, modifying the surfaces, and engineering of siliceous networks. Interestingly, the further advancements of engineered MSNs lead to the generation of highly complex and nature-mimicking structures, such as Janus-type, multi-podal, and flower-like architectures, as well as streamlined tadpole-like nanomotors. In this review, we present explicit discussions relevant to these advanced hierarchical architectures in different fields of biomedicine, including drug delivery, bioimaging, tissue engineering, and miscellaneous applications, such as photoluminescence, artificial enzymes, peptide enrichment, DNA detection, and biosensing, among others. Initially, we give a brief overview of diverse, innovative stimuli-responsive (pH, light, ultrasound, and thermos)- and targeted drug delivery strategies, along with discussions on recent advancements in cancer immune therapy and applicability of advanced MSNs in other ailments related to cardiac, vascular, and nervous systems, as well as diabetes. Then, we provide initiatives taken so far in clinical translation of various silica-based materials and their scope towards clinical translation. Finally, we summarize the review with interesting perspectives on lessons learned in exploring the biomedical applications of advanced MSNs and further requirements to be explored.",
+        "supplementary_details": [
+            {
+                "information": "Drug Delivery",
+                "justification": "Already discussed in the text, the graphic shows drug delivery methods visually."
+            },
+            {
+                "information": "Tissue Engineering",
+                "justification": "Mentioned in the abstract as a key application area; illustration adds visual clarity."
+            },
+            {
+                "information": "Precise Imaging",
+                "justification": "Imaging is explicitly noted in the text; graphic shows bioimaging use in mice."
+            },
+            {
+                "information": "Miscellaneous Applications (biosensing, etc.)",
+                "justification": "The image highlights broad \"miscellaneous functions\" which aligns with the abstract examples."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Tunable Porosity",
+                "justification": "The visual highlights pore tuning as a core feature, enriching the text's brief mention."
+            },
+            {
+                "information": "Surface Modification",
+                "justification": "While briefly mentioned, the visual brings attention to it as a major design strategy."
+            },
+            {
+                "information": "Specialized Designs (e.g., Janus, flower-like)",
+                "justification": "The image shows examples of these shapes, which aren't deeply elaborated on in the abstract."
+            },
+            {
+                "information": "Reengineering Framework",
+                "justification": "This concept isn\u2019t explicitly named in the text but relates to engineering siliceous networks."
+            }
+        ]
+    },
+    {
+        "paper": "Paper9",
+        "headlines": [
+            "Smartphone Imaging Devices: Revolutionizing Diagnostics from Home to Clinic",
+            "Pocket-Sized Power: Deep Learning-Enhanced Smartphone Imaging Devices",
+            "From Bacteria to Bananas: The Diverse Uses of Smartphone Imaging Devices",
+            "Smart Diagnostics Anywhere: The Optical Versatility of Smartphone-Based Devices",
+            "AI Meets Mobile: Deep Learning Boosts the Future of Portable Health Devices"
+        ],
+        "abstract": "Smartphone-based imaging devices (SIDs) have shown to be versatile and have a wide range of biomedical applications. With the increasing demand for high-quality medical services, technological interventions such as portable devices that can be used in remote and resource-less conditions and have an impact on quantity and quality of care. Additionally, smartphone-based devices have shown their application in the field of teleimaging, food technology, education, etc. Depending on the application and imaging capability required, the optical arrangement of the SID varies which enables them to be used in multiple setups like bright-field, fluorescence, dark-field, and multiple arrays with certain changes in their optics and illumination. This comprehensive review discusses the numerous applications and development of SIDs towards histopathological examination, detection of bacteria and viruses, food technology, and routine diagnosis. Smartphone-based devices are complemented with deep learning methods to further increase the efficiency of the devices.",
+        "supplementary_details": [
+            {
+                "information": "Bacteria detection",
+                "justification": "Mentioned in the text as one of the biomedical uses of SIDs; illustrated visually."
+            },
+            {
+                "information": "Virus detection",
+                "justification": "Explicitly stated in the abstract as a diagnostic use; shown via virus icon in image."
+            },
+            {
+                "information": "Routine diagnosis",
+                "justification": "Included in the abstract under \u201croutine diagnosis\u201d and visualized with a heartbeat icon."
+            },
+            {
+                "information": "Food quality control",
+                "justification": "The abstract discusses food technology; the image highlights food safety and quality monitoring."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Deep learning for SIDs",
+                "justification": "Briefly mentioned in the text, but the graphic emphasizes its central role in enhancing SID performance."
+            },
+            {
+                "information": "Visual design of applications",
+                "justification": "The circular and color-coded structure visually groups applications for easier understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper10",
+        "headlines": [
+            "Carbon Dots Meet Polymers: A New Era in Smart Biomedical Applications",
+            "Illuminating Healthcare: Optical Marvels of Carbon Dots in Medicine",
+            "From Detection to Regeneration: 0D Carbon Materials Power Bio-Revolution",
+            "Quantum Dots for Healing: Reinventing Polymers for Biomedical Breakthroughs",
+            "Tiny Dots, Big Impact: Carbon Nanomaterials Reshape Modern Biomedicine"
+        ],
+        "abstract": "Carbon-based 0D materials have shown tremendous potential in the development of biomedical applications of the next generation. The astounding results are primarily motivated by their distinctive nanoarchitecture and unique properties. Integrating these properties of 0D carbon nanomaterials into various polymer systems has orchestrated exceptional potential for their use in the development of sustainable and cutting-edge biomedical applications such as biosensors, bioimaging, biomimetic implants and many more. Specifically, carbon dots (CDs) have gained much attention in the development of biomedical devices due to their optoelectronic properties and scope of band manipulation upon surface revamping. The role of CDs in reinforcing various polymeric systems has been reviewed along with discussing unifying concepts of their mechanistic aspects. The study also discussed CDs optical properties via the quantum confinement effect and band gap transition which is further useful in various biomedical application studies.\n",
+        "supplementary_details": [
+            {
+                "information": "Microbe Detection",
+                "justification": "Mentioned in the text as a biomedical application of 0D carbon nanomaterials."
+            },
+            {
+                "information": "Bio Sensors & Bio Imaging Tools",
+                "justification": "Directly referenced in the abstract under biomedical applications such as biosensors and bioimaging."
+            },
+            {
+                "information": "Bone & Tissue Engineering",
+                "justification": "Falls under \"biomimetic implants\" and advanced biomedical applications."
+            },
+            {
+                "information": "Wound Healing",
+                "justification": "Implied use of nanomaterials in biomedical healing, consistent with abstract themes."
+            },
+            {
+                "information": "Ocular Disease Treatment",
+                "justification": "Fits within the broader application range of CDs in advanced biomedicine."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Various polymers (e.g. poly-dopamine, chitosan, poly-lysine, poly-caprolactone)",
+                "justification": "The abstract broadly mentions \u201cvarious polymer systems,\u201d while the image lists specific polymers."
+            },
+            {
+                "information": "Visual molecular structures",
+                "justification": "Not detailed in text, but visual representation helps understand polymer composition and integration."
+            },
+            {
+                "information": "Central visualization of CD-polymer network",
+                "justification": "The image shows how CDs integrate with polymers\u2014a concept mentioned in the abstract but not visualized."
+            }
+        ]
+    },
+    {
+        "paper": "Paper11",
+        "headlines": [
+            "AI-Driven Ceramic Scaffold Design for Enhanced Bone Regeneration",
+            "Bayesian Optimization Meets Bioprinting: Smarter Scaffolds for Biomedical Engineering",
+            "U-Net and Additive Manufacturing: A Synergistic Approach to Bone Scaffold Design",
+            "From Data to Defect Healing: Machine Learning Optimizes Scaffold Performance in 3D Printing",
+            "Functionally Graded TPMS Scaffolds Designed by ML Show Improved Bone Ingrowth in Study"
+        ],
+        "abstract": "While ceramic additive manufacturing (AM) technologies have shown great promise to create functional scaffolds with tailored biomechanical properties, the true potential of these advanced techniques has not been fully exploited yet due to lack of practical design optimisation approaches. To address this challenge, a machine learning (ML)-based design approach is proposed herein where ceramic 3D printing techniques are combined to fabricate functionally graded tissue scaffolds composed of Triply Periodic Minimal Surfaces (TPMS), aiming to fulfil the anticipated biomechanical requirements for the target bone regeneration outcomes. The proposed ML based design strategy couples a Bayesian optimisation (BO) algorithm to enable time-dependent mechano-biological optimisation of the 3D printed ceramic scaffolds at a reasonably low computational cost. For a representative example relating to bone scaffolding in a segmental defect of sheep tibia, the simulated results demonstrate that the optimised functionally graded scaffolds significantly enhance bone ingrowth outcomes. Furthermore, a Lithography-based Ceramic Manufacturing (LCM) technique is employed to fabricate the optimised scaffolds based on the proposed ML-based design framework, followed by micro-CT analyses of the additively manufactured ceramic scaffolds to assess their geometric qualities. This study is expected to gain new insights into mechanical sciences on design for varying material conditions and provide an effective design tool for ceramic additive manufacturing.",
+        "supplementary_details": [
+            {
+                "information": "Micro unit cells of various geometries",
+                "justification": "The textual abstract refers to TPMS-based scaffolds, and the image provides visual examples of such cells."
+            },
+            {
+                "information": "Ceramic 3D printing machine",
+                "justification": "Supports the mention of Lithography-based Ceramic Manufacturing (LCM) technique in the text."
+            },
+            {
+                "information": "Observed points, Gaussian mean (Bayesian plot)",
+                "justification": "Supports textual mention of Bayesian Optimization, providing a visual interpretation."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "U-Net neural network",
+                "justification": "While ML is discussed in the text, the exact architecture (U-Net) is not; this adds technical depth."
+            },
+            {
+                "information": "Gaussian mean & confidence interval",
+                "justification": "The text mentions Bayesian Optimization but does not describe uncertainty modeling visually."
+            },
+            {
+                "information": "Flow of the full design process (left to right)",
+                "justification": "The end-to-end process (design \u2192 ML \u2192 printing \u2192 evaluation) is visually depicted, improving understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper12",
+        "headlines": [
+            "Bacterial Cellulose: A Green Gateway to Smart Drug Delivery and Healing",
+            "Engineering Next-Gen Biomaterials: Nanocomposites with Bacterial Cellulose",
+            "From Microbes to Medicine: The Versatility of Bacterial Nanocellulose",
+            "Smart Wound Dressings and Drug Carriers from Bacterial Cellulose Blends",
+            "Biosynthesized Scaffolds: Functionalizing Bacterial Cellulose for Biomedicine"
+        ],
+        "abstract": "The escalating curiosity in bacterial cellulose (BC) due to exceptional attributes such as purity, biodegradability, non-toxicity, porous fibrillar structure, and high water retention potential expand its applications to tissue engineering, controlled drug delivery, and cosmetics. BC has proved highly prospective to be used to manufacture innovative wound care solutions, drug carriers and delivering complexes. The drug-carrying BC found enormous applications in dental therapies, wound care, and scare-free wound management. Various degradation techniques of BC under antibiotic environments and physiological conditions offer different advantages in drug design. The drug loading capacity of BC can be increased by in situ modifications of its fibrillar network. The BC-based scaffolds compounded with other materials such as nanopolymers have explored new frontiers for BC applications in auspicious biomedicinal product developments. BC can accommodate different nanoparticles, biomaterials, synthetic materials, carbon materials, and plant extracts, which allows using BC in various biomedical and cosmetic products.",
+        "supplementary_details": [
+            {
+                "information": "Bacterial Cellulose (BC) + Nanoparticles = Polymer Nanocomposite (Part A)",
+                "justification": "Supports the text stating BC can accommodate nanoparticles and other materials."
+            },
+            {
+                "information": "Bacterial Cellulose + Polymer = Bacterial Nanocomposite (Part B)",
+                "justification": "Matches text discussion on combining BC with synthetic materials to create functional products."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual schematic of material integration pathways (A and B)",
+                "justification": "The figure breaks down BC material synthesis into two distinct paths (polymer-based and nanoparticle-based), not explicitly detailed in text."
+            },
+            {
+                "information": "Color-coded representations of polymers and nanoparticles",
+                "justification": "Enhances understanding of composition visually which helps readers differentiate material components."
+            }
+        ]
+    },
+    {
+        "paper": "Paper13",
+        "headlines": [
+            "Engineering Smarter Scaffolds: The Power of Hydrogel Composites",
+            "From Particles to Purpose: Designing Injectable Bio-Materials",
+            "Composite Hydrogels: Bridging Biology and Material Science",
+            "Hydrogel + Inorganics = Regeneration Revolution",
+            "Next-Gen Tissue Engineering: Harnessing Hydrogel Composites"
+        ],
+        "abstract": "There is a growing demand for three-dimensional scaffolds for expanding applications in regenerative medicine, tissue engineering, and cell culture techniques. The material requirements for such three-dimensional structures are as diverse as the applications themselves. A wide range of materials have been investigated in the recent decades in order to tackle these requirements and to stimulate the anticipated biological response. Among the most promising class of materials are inorganic/organic hydrogel composites for regenerative medicine. The generation of synergetic effects by hydrogel composite systems enables the design of materials with superior properties including biological performance, stiffness, and degradation behavior in vitro and in vivo. Here, we review the most important organic and inorganic materials used to fabricate hydrogel composites. We highlight the advantages of combining different materials with respect to their use for biofabrication and cell encapsulation as well as their application as injectable materials for tissue enhancement and regeneration.\n",
+        "supplementary_details": [
+            {
+                "information": "Composite = Inorganic particles + Hydrogel",
+                "justification": "The text mentions combining inorganic and organic (hydrogel) materials; the graphic visually clarifies this combination step."
+            },
+            {
+                "information": "Applications: Biofabrication, Injectable materials, Cell encapsulation",
+                "justification": "These applications are listed in the abstract as key benefits of hydrogel composites; the image just reemphasizes them visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual flow from materials to applications",
+                "justification": "The image introduces a step-by-step process from raw materials to final applications which is implied in the text but not explicitly mapped."
+            },
+            {
+                "information": "Structure of Hydrogel and Inorganic particles",
+                "justification": "The text refers to classes of materials but does not visually describe their forms or how they interact; the image fills this gap."
+            }
+        ]
+    },
+    {
+        "paper": "Paper14",
+        "headlines": [
+            "Plasma Meets Biology: Engineering Non-Thermal Therapeutics",
+            "Lighting Up Healing: The Science Behind Noble Gas Plasma Jets",
+            "From Voltage to Vitality: Plasma Jets in Regenerative Medicine",
+            "Cold Plasma, Hot Potential: Unlocking Therapeutic Effects with RONS",
+            "Reactive Plumes and Precision Healing: The Rise of Plasma Medicine"
+        ],
+        "abstract": "Atmospheric pressure plasma jets generated using noble gases have been the focus of intense investigation for over 2 decades due to their unique physicochemical properties and their suitability for treating living tissues to elicit a controlled biological response. Such devices enable the generation of a non-equilibrium plasma to be spatially separated from its downstream point of application, simultaneously providing inherent safety, stability and reactivity. Underpinning key plasma mediated biological applications are the reactive oxygen and nitrogen species (RONS) created when molecular gases interact with the noble gas plasma, yielding a complex yet highly reactive chemical mixture. The interplay between the plasma physics, fluid dynamics and plasma chemistry ultimately dictates the chemical composition of the RONS arriving at a biological target. This contribution reviews recent developments in understanding of the interplay between the flowing plasma, the quiescent background and a biological target to promote the development of future plasma medical therapies.",
+        "supplementary_details": [
+            {
+                "information": "Noble gas and time-varying voltage inputs",
+                "justification": "The abstract refers to noble gas\u2013based plasma jets; the image labels the input sources clearly."
+            },
+            {
+                "information": "Flowing plasma plume",
+                "justification": "The abstract talks about non-equilibrium plasma; the graphic shows its visual form and flow."
+            },
+            {
+                "information": "Biological effects",
+                "justification": "Text discusses biological responses to plasma; the image visually links plasma to biological interaction."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Air entrainment and interfacial reactions",
+                "justification": "These are not explicitly stated in the abstract, but they enhance understanding of how the plasma chemically interacts with the environment and surface."
+            },
+            {
+                "information": "Visual cascade: input \u2192 plasma \u2192 reaction \u2192 effect",
+                "justification": "The image gives a clear stepwise process, visually linking abstract components like fluid dynamics, physics, and chemistry into an understandable flow."
+            },
+            {
+                "information": "Spatial separation between plasma generation and application",
+                "justification": "The image illustrates this separation, which is mentioned in the text but clarified visually in the design."
+            }
+        ]
+    },
+    {
+        "paper": "Paper15",
+        "headlines": [
+            "Printing the Future: Biopolymers and 3D Printing in Medicine",
+            "From Plastic to Patient: How 3D Printers are Reshaping Healthcare",
+            "Bio-Ink Breakthroughs: Custom Devices for Regenerative Medicine",
+            "Layer by Layer: The Role of Polymers in Biomedical 3D Printing",
+            "Healing in 3D: Biodegradable Polymers for Personalized Therapies"
+        ],
+        "abstract": "3D printing technology is an emerging method that gained extensive attention from researchers worldwide, especially in the health and medical fields. Biopolymers are an emerging class of materials offering excellent properties and flexibility for additive manufacturing. Biopolymers are widely used in biomedical applications in biosensing, immunotherapy, drug delivery, tissue engineering and regeneration, implants, and medical devices. Various biodegradable and non-biodegradable polymeric materials are considered as bio-ink for 3d printing. Here, we offer an extensive literature review on the current applications of synthetic biopolymers in the field of 3D printing. A trend in the publication of biopolymers in the last 10 years are focused on the review by analyzing more than 100 publications. Their application and classification based on biodegradability are discussed. The various studies, along with their practical applications, are elaborated in the subsequent sections for polyethylene, polypropylene, polycaprolactone, polylactide, etc. for biomedical applications. The disadvantages of various biopolymers are discussed, and future perspectives like combating biocompatibility problems using 3D printed biomaterials to build compatible prosthetics are also discussed and the potential application of using resin with the combination of biopolymers to build customized implants, personalized drug delivery systems and organ on a chip technologies are expected to open a new set of chances for the development of healthcare and regenerative medicine in the future.",
+        "supplementary_details": [
+            {
+                "information": "Use of synthetic polymers in 3D printing",
+                "justification": "The text discusses synthetic and biodegradable polymers as bio-inks; the image shows synthetic polymers directly feeding into the printer."
+            },
+            {
+                "information": "Biomedical applications: stents, sutures, valves, dental, drug delivery, catheters",
+                "justification": "These practical biomedical applications are mentioned broadly in the text and are visually depicted in the image, reinforcing the point."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Simplified 3D printing mechanism visualization",
+                "justification": "The image shows a visual pipeline from synthetic polymer \u2192 3D printer \u2192 medical device, which is not detailed in the abstract but helps clarify the process."
+            },
+            {
+                "information": "Direct mapping of outputs to specific devices (e.g. sutures, valves)",
+                "justification": "While applications are mentioned in the text, the graphic links them directly to outputs of the 3D printing system."
+            },
+            {
+                "information": "Implicit reference to customizability and personalization",
+                "justification": "The visual spread of applications hints at versatility and adaptability, aligning with the text\u2019s mention of personalized solutions, though not explicitly shown."
+            }
+        ]
+    },
+    {
+        "paper": "Paper16",
+        "headlines": [
+            "Smart Hydrogels, Smarter Healing: Unlocking Nanocomposite Biomedical Tools",
+            "Nanoparticles at Work: From Tumor Targeting to Tissue Regeneration",
+            "One Gel, Many Cures: The Rise of Nanocomposite Hydrogels in Biomedicine",
+            "Target, Treat, Transform: The Promise of Nanohydrogels in Precision Medicine",
+            "Beyond Healing: Nanohydrogel Innovations in Robotics, Imaging, and Dentistry"
+        ],
+        "abstract": "Nanocomposite hydrogels (NHs) have emerged as a groundbreaking tool in biomedical applications, offering remarkable versatility and efficacy. Integrating a wide range of nanoparticles, including carbon-based, polymeric, ceramic, and metallic nanomaterials, within hydrogel networks results in nanocomposites with superior properties and tailored functionalities. Recent research has highlighted their potential to address key challenges in drug delivery, cancer therapy, tissue regeneration, biosensing, and wound healing, outstanding to their biocompatibility and bioavailability. Nanohydrogels demonstrate significant promise in drug delivery systems and biological sensors, providing sustained therapeutic activity at targeted sites. This reduces the frequency of drug administration and minimizes the harmful side effects. In the healthcare sector, they have applications ranging from cancer therapy to aesthetic corrections and are a leading topic in tissue regeneration research. This comprehensive review of Biomedical Applications investigates the latest advancements in NHs, focusing on their classification, unique properties, and diverse applications. By identifying the future research prospects and existing gaps, this review aims to highlight the therapeutic and diagnostic potential of nanocomposite hydrogel technology, covering the way for further advancement in the field.",
+        "supplementary_details": [
+            {
+                "information": "Drug delivery using drug-loaded nanoparticles",
+                "justification": "Drug delivery is directly mentioned in the abstract, and the image shows how nanoparticles carry drugs for therapy."
+            },
+            {
+                "information": "Cancer therapy applications (chemo-, radio-, immuno-, gene therapy)",
+                "justification": "The abstract mentions cancer therapy; the graphic details four main therapeutic strategies, supporting the text."
+            },
+            {
+                "information": "Tissue regeneration and wound healing",
+                "justification": "Both are noted in the abstract, and the image shows icons and paths leading to them via NHs."
+            },
+            {
+                "information": "Artificial skin, dental application",
+                "justification": "These are included as medical applications in the abstract, and represented visually in the graphic."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Biorobotics and Gene Therapy",
+                "justification": "While gene therapy is a known application, it\u2019s not mentioned explicitly in the abstract; biorobotics isn\u2019t in the abstract but enhances understanding of NH versatility."
+            },
+            {
+                "information": "Normal vs. cancer cell targeting",
+                "justification": "The abstract refers to minimizing side effects; the image shows visual targeting of cancer cells over normal ones\u2014deepening understanding."
+            },
+            {
+                "information": "Therapy device panel (organs, delivery routes)",
+                "justification": "The image shows various organ systems, enhancing the abstract's broad claim of NHs\u2019 versatility in therapy."
+            },
+            {
+                "information": "Bioimaging",
+                "justification": "Not mentioned in text but is a known nanohydrogel application and adds insight to diagnostic potential."
+            }
+        ]
+    },
+    {
+        "paper": "Paper17",
+        "headlines": [
+            "Pyocyanin\u2019s Double Life: Bacterial Toxin or Biomedical Treasure?",
+            "The Blue Menace and its Cure: Pyocyanin from Pathogen to Pharma",
+            "Pigment with a Punch: Pyocyanin\u2019s Role in Infection and Innovation",
+            "Quorum Sensing to Cancer Therapy: The Journey of Pyocyanin",
+            "Harnessing Harm: Can Pyocyanin Become a Future Therapeutic Tool?"
+        ],
+        "abstract": "Pyocyanin is a bioactive pigment produced by Pseudomonas aeruginosa. It is an important virulence factor that plays a critical role in P. aeruginosa infections as a redox-active secondary metabolite and a quorum sensing (QS) signaling molecule. Pyocyanin production from chorismic acid requires the involvement of two homologous operons, phz1 and phz2, which are activated by QS regulatory proteins. Pyocyanin inhibits the proliferation of bacterial, fungal, and mammalian cells by inducing oxidative stress due to which it acts as a potent antibacterial, antifungal, and anticancer agent. Its potential role as a neuroprotectant needs further exploration. However, pyocyanin exacerbates the damaging effects of nosocomial infections caused by P. aeruginosa in immunocompromised individuals. Further, cystic fibrosis (CF) patients are highly susceptible to persistent P. aeruginosa infections in the respiratory system. The bacterial cells form colonies and three interconnected QS networks\u2014pqs, las, and rhl\u2014get activated, thus stimulating the cells to produce pyocyanin which exacerbates pulmonary complications. As an opportunistic pathogen, P. aeruginosa produces pyocyanin to impede the recovery of injuries like burn wounds through its anti-proliferative activity. Moreover, pyocyanin plays a vital role in compounding P. aeruginosa infections by promoting biofilm formation. This review begins with a brief description of the characteristics of pyocyanin, its activity, and the different aspects of its production including its biosynthesis, the role of QS, and the effect of environmental factors. It then goes on to explore the potential applications of pyocyanin as a biotherapeutic molecule while also highlighting the biomedical challenges and limitations that it presents.",
+        "supplementary_details": [
+            {
+                "information": "Biosynthesis Pathway: Chorismic acid \u2192 PCA \u2192 MPBCA \u2192 Pyocyanin",
+                "justification": "The textual abstract describes the biosynthetic pathway; the graphic simplifies and visualizes it clearly."
+            },
+            {
+                "information": "Applications of Pyocyanin: Anticancer, Antibacterial, Antifungal, Neuroprotective",
+                "justification": "These applications are all discussed in the abstract as therapeutic potentials and visually depicted here."
+            },
+            {
+                "information": "Biomedical Challenges: Nosocomial infections, Cystic fibrosis, Biofilm formation, Wound healing impairment",
+                "justification": "All mentioned in the abstract as negative impacts of pyocyanin in immunocompromised patients and in infection progression."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Color-coded layout separating positive (green) and negative (red) effects",
+                "justification": "This is a visual insight that helps differentiate dual roles (therapeutic vs. pathogenic), not stated explicitly in the abstract."
+            },
+            {
+                "information": "Pyocyanin chemical structure",
+                "justification": "While the compound is discussed, its structure is not included in the text, but it enhances understanding for scientific audiences."
+            },
+            {
+                "information": "Emphasis on Pseudomonas aeruginosa as a central producer",
+                "justification": "The image highlights P. aeruginosa visually at the center, reinforcing its key role in pyocyanin production."
+            }
+        ]
+    },
+    {
+        "paper": "Paper18",
+        "headlines": [
+            "Steam vs. Radiation: Which Sterilizes Biomedical Waste Better?",
+            "Microwave Disinfection: A Cost-Saving and Eco-Friendly Alternative",
+            "Autoclave or MACS? Rebalancing Biomedical Waste Management",
+            "Disinfection in the Pandemic Era: Time to Switch to Smarter Tech?",
+            "From Cost to Clean: Why MACS Could Be the Future of Waste Sterilization"
+        ],
+        "abstract": "As the world is facing a Covid-19 pandemic, this virus teaches a lesson about the importance of on-site disinfection. On-site disinfection/sterilization with real-time monitoring of biomedical waste generated from the medical facilities is mandatory to prevent hospital-acquired infection (HAI). In this study, the life cycle assessment of two technologies, i.e., microwave (radiation-based) and autoclave (steam-based) were performed to summarize the inside-out evaluation of both technologies in terms of efficiency, efficacy, and cost-effectiveness. The results of disinfection efficacy indicated a log 10 reduction (almost 100%) in the vegetative load of microorganisms compared to the control, showing a similar level of disinfection efficacy of both strategies. Additionally, both technologies were compared on several parameters, and it was discovered that the autoclave uses more time and resources than the microwave. The total cost of an autoclave to the government is approximately double that of a microwave, while the operational cost of an autoclave is more than double that of a microwave. The findings from this study indicate that MACS may be used as a dry technique of biomedical disinfection, and its portability, tunability, and compactness make it a suitable alternative for biomedical disinfection and sterilization.",
+        "supplementary_details": [
+            {
+                "information": "Disinfection efficacy of both technologies",
+                "justification": "The text mentions both autoclave and microwave (MACS) achieving nearly 100% microbial reduction; the image reiterates this comparison."
+            },
+            {
+                "information": "Cost-effectiveness comparison",
+                "justification": "The abstract clearly states MACS is more cost-effective; the image includes cost-effectiveness for both systems."
+            },
+            {
+                "information": "Biomedical waste focus",
+                "justification": "Central theme in the abstract; the graphic centers on biomedical waste as the balancing factor."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Inclusion of \"Eco-friendly\" advantage for MACS",
+                "justification": "While environmental aspects are implied in the abstract, the term \u201ceco-friendly\u201d is not directly stated, adding further context."
+            },
+            {
+                "information": "Visual balance/imbalance using a see-saw",
+                "justification": "Enhances understanding by showing the perceived weight of advantages in decision-making (visual metaphor for comparative evaluation)."
+            },
+            {
+                "information": "Question mark symbol (?)",
+                "justification": "Suggests open-ended assessment or decision-making dilemma; supports text's implication that both are viable with trade-offs."
+            }
+        ]
+    },
+    {
+        "paper": "Paper19",
+        "headlines": [
+            "GelMA: Illuminating the Future of Tissue Engineering",
+            "From Cornea to Cartilage: The Versatile Biomedical Role of GelMA",
+            "Gelatin with a Mission: Regenerating Tissues and Delivering Drugs",
+            "Shaping Healing with Light: Biomedical Innovations Using GelMA Hydrogels",
+            "One Gel, Many Cures: GelMA\u2019s Expanding Role in Regenerative Medicine"
+        ],
+        "abstract": "During the past decades, photo-crosslinked gelatin hydrogel (methacrylated gelatin, GelMA) has gained a lot of attention due to its remarkable application in the biomedical field. It has been widely used in cell transplantation, cell culture and drug delivery, based on its crosslinking to form hydrogels with tunable mechanical properties and excellent bio-compatibility when exposed to light irradiation to mimic the micro-environment of native extracellular matrix (ECM). Because of its unique biofunctionality and mechanical tenability, it has also been widely applied in the repair and regeneration of bone, heart, cornea, epidermal tissue, cartilage, vascular, peripheral nerve, oral mucosa, and skeletal muscle et al. The purpose of this review is to summarize the recent application of GelMA in drug delivery and tissue engineering field. Moreover, this review article will briefly introduce both the development of GelMA and the characterization of GelMA. Finally, we discuss the challenges and future development prospects of GelMA as a tissue engineering material and drug or gene delivery carrier, hoping to contribute to accelerating the development of GelMA in the biomedical field.",
+        "supplementary_details": [
+            {
+                "information": "GelMA used in bone, cartilage, muscle, heart, skin, and nerve tissue engineering",
+                "justification": "The textual abstract mentions applications in bone, heart, nerve, etc., which are shown with icons and locations in the graphic."
+            },
+            {
+                "information": "Drug delivery application",
+                "justification": "Explicitly stated in both text and image, shown as targeted delivery in the torso."
+            },
+            {
+                "information": "Cornea stroma and neovascularization",
+                "justification": "These are also mentioned briefly in the abstract and expanded visually for clarity."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Anatomical human model with labeled zones",
+                "justification": "Enhances spatial understanding of tissue-specific GelMA application, not described in this way in the text."
+            },
+            {
+                "information": "Use of icons (nerve, skin, eye, joint, etc.)",
+                "justification": "Helps associate organ systems with therapeutic targets, improving visual retention not addressed directly in the text."
+            },
+            {
+                "information": "Clear mapping of engineering targets to body parts",
+                "justification": "Offers intuitive localization which complements the textual summary of biomedical targets."
+            }
+        ]
+    },
+    {
+        "paper": "Paper20",
+        "headlines": [
+            "Marine Natural Products: Nature\u2019s Defense Against Viral and Chronic Infections",
+            "Ocean-Derived Molecules Offer Multi-Targeted Solutions for COVID-19 and Beyond",
+            "Marine Bioactives Tackle SARS-CoV-2, Cancer, and Inflammation Through Immune Modulation",
+            "Unlocking the Ocean\u2019s Pharmacy: MNPs as Future Clinical Therapies",
+            "Eco-Powered Immunity: Marine Natural Products in the New Era of Biomedical Innovation"
+        ],
+        "abstract": "Marine natural products (MNPs) and marine organisms include sea urchin, sea squirts or ascidians, sea cucumbers, sea snake, sponge, soft coral, marine algae, and microalgae. As vital biomedical resources for the discovery of marine drugs, bioactive molecules, and agents, these MNPs have bioactive potentials of antioxidant, anti-infection, anti-inflammatory, anticoagulant, anti-diabetic effects, cancer treatment, and improvement of human immunity. This article reviews the role of MNPs on anti-infection of coronavirus, SARS-CoV-2 and its major variants (such as Delta and Omicron) as well as tuberculosis, H. Pylori, and HIV infection, and as promising biomedical resources for infection related cardiovascular disease (irCVD), diabetes, and cancer. The anti-inflammatory mechanisms of current MNPs against SARS-CoV-2 infection are also discussed. Since the use of other chemical agents for COVID-19 treatment are associated with some adverse effects in cardiovascular system, MNPs have more therapeutic advantages. Herein, it\u2019s time to protect this ecosystem for better sustainable development in the new era of ocean economy. As huge, novel and promising biomedical resources for anti-infection of SARS-CoV-2 and irCVD, the novel potential mechanisms of MNPs may be through multiple targets and pathways regulating human immunity and inhibiting inflammation. In conclusion, MNPs are worthy of translational research for further clinical application.",
+        "supplementary_details": [
+            {
+                "information": "MNPs show anti-infection, anti-inflammatory, anticoagulant, anti-aging, anti-diabetic, anti-cancer, antioxidant effects",
+                "justification": "These effects are directly stated in the text and presented visually in the graphic around the center."
+            },
+            {
+                "information": "MNPs help in improving immunity and reducing inflammation via multiple pathways",
+                "justification": "The textual abstract discusses immune modulation and inflammation reduction, which is represented in the chart."
+            },
+            {
+                "information": "MNPs impact COVID-19, irCVD, and cancer",
+                "justification": "These are covered in the textual review and supported with the effects in the diagram (e.g., viral replication inhibition, cytokine storm control)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Specific mechanisms like inhibition of TLR2 signaling, PI3K/Akt pathway, NLRP3 inflammasome, etc.",
+                "justification": "These detailed mechanisms are briefly mentioned or implied in the text but are much more clearly visualized in the graphic."
+            },
+            {
+                "information": "Binding to SARS-CoV-2 spike protein, autophagy, and inhibition of NO production",
+                "justification": "While the text mentions general antiviral and immunological functions, these specific molecular pathways enhance understanding visually."
+            }
+        ]
+    },
+    {
+        "paper": "Paper21",
+        "headlines": [
+            "\u201cTime & Velocity-Aware GRUs Redefine Patient Monitoring with EHR Data\u201d",
+            "\u201cCapturing the Pulse of Health: GRU-TV Enhances Predictions from Clinical Time-Series\u201d",
+            "\u201cFrom ICU Logs to Insight: New AI Model Learns When and How Fast Patients Change\u201d",
+            "\u201cIrregular Yet Informative: GRU-TV Tackles Real-World EHR Complexity with Precision\u201d",
+            "\u201cGRU-TV Model Outperforms in Sparse and Irregular Clinical Datasets\u201d"
+        ],
+        "abstract": "Objective:\nThe multivariate clinical temporal series (MCTS) extracted from electronic health records (EHRs) can characterize the dynamic physiological processes. Previous deep patient representation models were proposed to address imputation values and irregular sampling in MCTS. However, the change in physiological status, particularly instantaneous velocity, has not received adequate attention.\nMethods:\nTo address this gap, we propose a Time- and Velocity-aware Gated Recurrent Unit (GRU-TV) model for patient representation learning. In the GRU-TV model, we apply the neural ordinary differential equation to describe the instantaneous velocity of the patient\u2019s physiological status. This instantaneous velocity is embedded in the hidden state updating process of the basic GRU model for the awareness of uneven time intervals. Besides, the forward propagation of the GRU-TV model also incorporates this instantaneous velocity to enable the perception of non-uniform changes in the patient\u2019s physiological status over time.\nResults:\nThe performance of the GRU-TV model is evaluated on multiple clinical concerns across two real-world datasets. The average AUC for the sub-tasks on the complete, 70% sampled, and 50% sampled PhysioNet2012 datasets are 0.89, 0.84, and 0.83, respectively. The average AUC for the acute care phenotype classification on the complete, 20% sampled, and 10% sampled MIMIC-III datasets are 0.84, 0.82, and 0.80, respectively. The mean absolute deviation of the length-of-stay regression task is 1.84 days.\nConclusion:\nThe superior performance underscores the importance of instantaneous physiological changes in patient representation and clinical decision-making, particularly under challenging data conditions.",
+        "supplementary_details": [
+            {
+                "information": "The pipeline from EHR database \u2192 MCTS \u2192 GRU-TV \u2192 Patient vector \u2192 Task-specific NN",
+                "justification": "This directly mirrors the explanation in the abstract regarding how EHR data is processed through the model to yield predictions."
+            },
+            {
+                "information": "Lab events, demographics, ICU stay, diagnoses, etc.",
+                "justification": "These are listed as EHR features in the figure and mentioned in the text (EHR-based MCTS data)."
+            },
+            {
+                "information": "Output: Prediction results based on patient representation",
+                "justification": "The abstract discusses the model performance (AUC, MAD), supported visually by the final output prediction node."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Use of clock and ECG symbol to visualize irregular intervals and physiological dynamics",
+                "justification": "The visual metaphor enhances understanding but is not explicitly described in the abstract. It reinforces the concept of time-aware and velocity-aware modeling."
+            },
+            {
+                "information": "Representation of instantaneous velocity affecting hidden states in GRU",
+                "justification": "While described technically in the text, the visual depiction (arrows and update flows) adds clarity and intuition to how velocity is used in forward propagation."
+            },
+            {
+                "information": "Clear demarcation of task-specific neural networks",
+                "justification": "The text mentions prediction across multiple tasks, and the figure visually splits them, making the modularity of downstream tasks more comprehensible."
+            }
+        ]
+    },
+    {
+        "paper": "Paper22",
+        "headlines": [
+            "Heterogeneous Graph Learning Boosts Drug\u2013Target Discovery via Contrastive Intelligence",
+            "Multi-View Neural Graphs Unlock Better Drug\u2013Target Predictions",
+            "From Networks to Medicine: Graph Convolution Aids Drug Discovery",
+            "HGCML-DTI Framework Outperforms in Predicting Drug\u2013Protein Interactions",
+            "New AI Model Learns From Multiple Graphs to Predict Drug-Target Matches"
+        ],
+        "abstract": "Drug\u2013Target Interaction (DTI) prediction plays a pivotal role in accelerating drug discovery and development by identifying novel interactions between drugs and targets. Most previous studies on Drug\u2013Protein Pair (DPP) networks have primarily focused on learning their topological structures. However, two key challenges remain: the integration of topological and semantic information is often insufficient, and the representation diversity may be diminished during graph convolution operations, affecting the expressiveness of learned features. To address the above challenges, we propose a novel paradigm named Multi-view Based Heterogeneous Graph Contrastive Learning for Drug\u2013Target Interaction Prediction (HGCML-DTI). Specifically, we initially establish a drug\u2013protein heterogeneous graph, followed by employing a weighted Graph Convolutional Network (GCN) to derive vector representations for both drug and protein nodes. Subsequently, we individually construct the topology and semantic graphs for DPP and integrate them to form a unified public graph. A multi-channel graph neural network is employed to learn DPP representations. To preserve representation diversity and enhance discriminative ability, a multi-view contrastive learning strategy is introduced. Then, a Multilayer Perceptron (MLP) neural network is used to recognize DTI. To prove the effectiveness of this work, extensive experiments are conducted on six real-world datasets, and comparisons are made with seven competitive baselines. The results demonstrate that the proposed HGCML-DTI significantly outperforms state-of-the-art methods. This work highlights the importance of combining multi-view learning and contrastive strategies to advance the field of DTI prediction. Source codes are available at https://github.com/7A13/HGCML-DTI",
+        "supplementary_details": [
+            {
+                "information": "Drug\u2013Protein heterogeneous graph construction",
+                "justification": "This is explicitly discussed in the text as the initial step and visualized in the left section of the diagram."
+            },
+            {
+                "information": "Use of GCN to generate drug and protein node embeddings",
+                "justification": "This process is described in the abstract and shown in the middle-left block (weighted GCN)."
+            },
+            {
+                "information": "Use of a multilayer perceptron (MLP) for DTI prediction",
+                "justification": "The final prediction step mentioned in the text is shown on the far right of the figure."
+            },
+            {
+                "information": "Comparison with multiple baselines",
+                "justification": "Mentioned in the results section of the abstract and shown as part of performance evaluation in the figure contextually (arrow ending in output node)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visualization of topology graph, semantic graph, and public graph",
+                "justification": "These are mentioned in the text, but the figure provides clear, distinct visual separation of each type of graph, helping clarify their roles."
+            },
+            {
+                "information": "Multi-view contrastive learning strategy",
+                "justification": "Described in the text but shown more clearly with dotted connections and alignment between views in the figure, enhancing understanding."
+            },
+            {
+                "information": "Use of multi-channel GNN",
+                "justification": "Although briefly mentioned in the abstract, the image elaborates how multiple channels work together in the learning phase."
+            }
+        ]
+    },
+    {
+        "paper": "Paper23",
+        "headlines": [
+            "LLMs Turbocharge Systematic Review Screening with PICOS Precision",
+            "AI Helps Novices Beat Experts in Medical Literature Screening",
+            "Generative AI Slashes Screening Time in Systematic Reviews by 75%",
+            "From Abstracts to Answers: LLMs Deliver Fast, Accurate PICOS Summaries",
+            "Smarter, Not Harder: PICOS + AI Boosts Review Accuracy and Speed"
+        ],
+        "abstract": "Background\nSystematic reviews (SRs) require substantial time and human resources, especially during the screening phase. Large Language Models (LLMs) have shown the potential to expedite screening. However, their use in generating structured PICOS (Population, Intervention/Exposure, Comparison, Outcome, Study design) summaries from title and abstract to assist human reviewers during screening remains unexplored.\nObjective\nTo assess the impact of open-source (Mistral-Nemo-Instruct-2407) LLM-generated structured PICOS summaries on the speed and accuracy of title and abstract screening.\nMethods\nFour neurology trainees were grouped into two pairs based on previous screening experience. Pair A (A1, A2) consisted of less experienced trainees (1\u20132 SR), while Pair B (B1, B2) consisted of more experienced trainees (\u22653 SR). Reviewers A1 and B1 received titles, abstracts, and LLM-generated structured PICOS summaries for each article. Reviewers A2 and B2 received only titles and abstracts. All reviewers independently screened the same set of 1,003 articles using predefined eligibility criteria. Screening times were recorded, and performance metrics were calculated.\nResults\nPICOS-assisted reviewers screened significantly faster (A1: 116 min; B1: 90 min) than those without (A2: 463 min; B2: 370 min), with approximately 75% reduction in screening workload. Sensitivity was perfect for PICOS-assisted reviewers (100%), whereas it was lower for those without assistance (88.0% and 92.0%). Furthermore, PICOS-assisted reviewers demonstrated higher accuracy (99.9%), specificity (99.9), F1 scores (98.0%), and strong inter-rater reliability (Cohen\u2019s Kappa of 99.8%). Less experienced reviewer with PICOS assistance(A1) outperformed experienced reviewer(B2) without assistance in both efficiency and sensitivity.\nConclusion\nLLM-generated PICOS summaries enhance the speed and accuracy of title and abstract screening by providing an additional layer of structured information. With PICOS assistance, less experienced reviewer surpassed their more experienced peers. Future research should explore the applicability of this novel method across diverse fields outside of neurology and its integration into fully automated systems.",
+        "supplementary_details": [
+            {
+                "information": "PICOS summary example",
+                "justification": "The graphical abstract shows a detailed example of a LLM-generated PICOS summary, supporting the text's mention of structured summaries."
+            },
+            {
+                "information": "Screening time, accuracy, sensitivity, and specificity comparisons",
+                "justification": "These metrics are in both the results section of the abstract and visualized in the results table in the graphic."
+            },
+            {
+                "information": "Reviewer grouping and role (A1, A2, B1, B2)",
+                "justification": "The abstract defines reviewer experience, and the graphic visually distinguishes who used PICOS and who didn\u2019t."
+            },
+            {
+                "information": "Cohen\u2019s Kappa inter-rater agreement",
+                "justification": "The strong agreement shown numerically in the abstract is also reflected in the graphic."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Flow of data from articles to summaries",
+                "justification": "The diagram illustrates the LLM pipeline and process flow from raw data to decision-making, which is not explicitly described step-by-step in the text."
+            },
+            {
+                "information": "Color-coded performance matrix",
+                "justification": "While results are discussed, the visual matrix enhances comparative clarity and efficiency insights more intuitively."
+            },
+            {
+                "information": "Prompt \u2192 Title + Abstract \u2192 LLM \u2192 Summary flow",
+                "justification": "This linear AI interaction pipeline is not explicitly verbalized in the abstract but helps visualize the LLM\u2019s operational role."
+            }
+        ]
+    },
+    {
+        "paper": "Paper24",
+        "headlines": [
+            "Plastic\u2019s Pandemic Dilemma: Lifesaver or Litter?",
+            "COVID-19 Waste Surge: A New Crisis in Biomedical and Plastic Pollution",
+            "From PPE to Pollution: Why Biomedical Waste Management Needs Urgent Reform",
+            "Plastic's Two Faces: Protector of Life or Polluter of Earth?",
+            "Managing the COVID Waste Wave: Lessons in Plastic and Biomedical Strategy"
+        ],
+        "abstract": "The COVID-19 pandemic has resulted in the massive generation of biomedical waste (BMW) and plastic waste (PW). This sudden spike in BMW and PW has created challenges to the existing waste management infrastructure, especially in developing countries. Safe disposal of PW and BMW is essential; otherwise, this virus will lead to a waste pandemic. This paper reviews the generation of BMW and PW before and during the COVID-19 pandemic, the regulatory framework for BMW management, policy interventions for COVID-19-based BMW (C-BMW), the capacity of BMW treatment and disposal facilities to cope with the challenges, possible management strategies, and perspectives in the Indian context. This study indicated that policy intervention helped minimize the general waste treated as C-BMW, especially during the second pandemic. Inadequacy of common BMW treatment facilities\u2019 (CBMWTFs) capacity to cope with the BMW daily generation was observed in some states resulting in compromised treatment conditions. Suggestions for better management of BMW and PW include decontamination of used personal protective equipment (PPEs) and recycling, alternate materials for PPEs, segregation strategies, and use of BMW for co-processing in cement kilns. All upcoming CBMWTFs should be equipped with higher capacity and efficient incinerators for the sound management of BMW. Post-pandemic monitoring of environmental compartments is imperative to assess the possible impacts of pandemic waste.",
+        "supplementary_details": [
+            {
+                "information": "PPE and SUP usage during COVID-19",
+                "justification": "Both the image and text describe the increase in biomedical and plastic waste due to PPEs and SUPs (single-use plastics)."
+            },
+            {
+                "information": "Increase in COVID-19 biomedical waste (C-BMW)",
+                "justification": "The graph in the visual supports the textual claim of rising BMW between February and May."
+            },
+            {
+                "information": "Mismanaged vs. managed waste pathways",
+                "justification": "The visual clearly shows the dual outcomes (pollution vs. protection) based on waste management, which supports the text\u2019s call for proper waste handling."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "\"Plastic as Polluter\" vs. \"Plastic as Protector\"",
+                "justification": "These symbolic illustrations deepen the message by personifying plastic as both a threat and a solution, aiding in conceptual framing."
+            },
+            {
+                "information": "Visual contrast of environmental impact",
+                "justification": "The images of pollution (e.g., littered PPEs) versus sustainable practices (e.g., color-coded bins, recycling) enrich the narrative emotionally and visually."
+            },
+            {
+                "information": "Arrows showing causal chain",
+                "justification": "The visual flow of pandemic \u2192 PPE/SUP \u2192 C-BMW \u2192 two possible outcomes is a simplified, intuitive process map enhancing understanding of textual complexities."
+            }
+        ]
+    },
+    {
+        "paper": "Paper25",
+        "headlines": [
+            "PLGA Particles: Versatile Vehicles for the Future of Nanomedicine",
+            "From Lab to Clinic: Tailoring PLGA Nanoparticles for Precision Therapy",
+            "Smart Polymers in Action: How PLGA Particles are Shaping Targeted Therapies",
+            "The Swiss Army Knife of Nanomedicine: Inside the World of PLGA Particles",
+            "Designing the Perfect Particle: Engineering PLGA for Biomedical Breakthroughs"
+        ],
+        "abstract": "Nano- and microparticles have increasingly widespread applications in nanomedicine, ranging from drug delivery to imaging. Poly(lactic-co-glycolic acid) (PLGA) particles are the most widely-applied type of particles due to their biocompatibility and biodegradability. Here, we discuss the preparation of PLGA particles, and various modifications to tailor particles for applications in biological systems. We highlight new preparation approaches, including microfluidics and PRINT method, and modifications of PLGA particles resulting in novel or responsive properties, such as Janus or upconversion particles. Finally, we describe how the preparation methods can- and should-be adapted to tailor the properties of particles for the desired biomedical application. Our aim is to enable researchers who work with PLGA particles to better appreciate the effects of the selected preparation procedure on the final properties of the particles and its biological implications.\nStatement of Significance\nNanoparticles are increasingly important in the field of biomedicine. Particles made of polymers are in the spotlight, due to their biodegradability, biocompatibility, versatility. In this review, we aim to discuss the range of formulation techniques, manipulations, and applications of poly(lactic-co-glycolic acid) (PLGA) particles, to enable a researcher to effectively select or design the optimal particles for their application. We describe the various techniques of PLGA particle synthesis and their impact on possible applications. We focus on recent developments in the field of PLGA particles, and new synthesis techniques that have emerged over the past years. Overall, we show how the chemistry of PLGA particles can be adapted to solve pressing biological needs.",
+        "supplementary_details": [
+            {
+                "information": "Use of PLGA for drug delivery",
+                "justification": "The graphic shows encapsulated drugs, peptides, and antibodies, supporting the text's discussion of PLGA in targeted delivery."
+            },
+            {
+                "information": "Imaging agents in PLGA particles (MRI, PET, fluorescent dye)",
+                "justification": "The graphic includes imaging types like SPIO, PFCs, and fluorescent dyes, which align with the text mentioning PLGA use in imaging."
+            },
+            {
+                "information": "PLGA in implants, hydrogels, and stents",
+                "justification": "The graphic visually shows integration of PLGA particles in biomedical devices, which reinforces the text\u2019s point on applications."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Stimuli-responsive materials (light, temperature, etc.)",
+                "justification": "These advanced features are hinted at in the text but detailed in the graphic, showing specific categories like light-responsive or temperature-sensitive polymers."
+            },
+            {
+                "information": "Thermosensitive PLGA particles",
+                "justification": "Not explicitly emphasized in the abstract but shown in the graphic as a novel feature, enhancing understanding of PLGA versatility."
+            },
+            {
+                "information": "PEG/Tween-80 shielding",
+                "justification": "Mentioned in graphic but not detailed in text; it complements by showing how surface properties of PLGA can be tailored for stealth or biocompatibility."
+            }
+        ]
+    },
+    {
+        "paper": "Paper26",
+        "headlines": [
+            "Marine Molecules Meet Medicine: A Blueprint for Nano-Bio Therapeutics",
+            "From Ocean to Organ: Marine Biomaterials for Targeted Therapy and Regeneration",
+            "Diving into Nanomedicine: The Role of Marine-Based Delivery Systems",
+            "Marine-Derived Nanoplatforms: Redefining Drug and Gene Delivery Landscapes",
+            "Blue Biotech Revolution: Multifunctional Marine Nanocarriers for Human Health"
+        ],
+        "abstract": "Marine resources in unique marine environments provide abundant, cost-effective natural biomaterials with distinct structures, compositions, and biological activities compared to terrestrial species. These marine-derived raw materials, including polysaccharides, natural protein components, fatty acids, and marine minerals, etc., have shown great potential in preparing, stabilizing, or modifying multifunctional nano-/micro-systems and are widely applied in drug delivery, theragnostic, tissue engineering, etc. This review provides a comprehensive summary of the most current marine biomaterial-based nano-/micro-systems developed over the past three years, primarily focusing on therapeutic delivery studies and highlighting their potential to cure a variety of diseases. Specifically, we first provided a detailed introduction to the physicochemical characteristics and biological activities of natural marine biocomponents in their raw state. Furthermore, the assembly processes, potential functionalities of each building block, and a thorough evaluation of the pharmacokinetics and pharmacodynamics of advanced marine biomaterial-based systems and their effects on molecular pathophysiological processes were fully elucidated. Finally, a list of unresolved issues and pivotal challenges of marine-derived biomaterials applications, such as standardized distinction of raw materials, long-term biosafety in vivo, the feasibility of scale-up, etc., was presented. This review is expected to serve as a roadmap for fundamental research and facilitate the rational design of marine biomaterials for diverse emerging applications.",
+        "supplementary_details": [
+            {
+                "information": "Marine-derived materials like collagen, gelatin, chitosan, fucoidan, etc.",
+                "justification": "The graphic shows chemical structures and names that support the textual description of marine biocomponents."
+            },
+            {
+                "information": "Applications in tumor therapy, gene therapy, immunotherapy, tissue engineering, and drug delivery",
+                "justification": "These use-cases are mentioned in the text and are visually highlighted in the central bubbles in the graphic."
+            },
+            {
+                "information": "Types of delivery systems like micelle, capsule, liposome, etc.",
+                "justification": "These delivery formats are listed in the graphic and support the textual claim about diverse nano/micro system development."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Dolphin and ocean imagery",
+                "justification": "Not discussed in the text but metaphorically strengthens the marine theme and visual engagement with the concept of ocean-based biomaterials."
+            },
+            {
+                "information": "Spatial arrangement and classification of particles",
+                "justification": "The circular format intuitively categorizes nano/micro structures not discussed in this visual manner in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper27",
+        "headlines": [
+            "Nanoceria: A Multifunctional Marvel in Modern Medicine",
+            "Smart Nanoparticles for Smart Therapies: The Biomedical Spectrum of Nanoceria",
+            "Redox Revolution: How Nanoceria Transforms Biomedical Applications",
+            "From Bone Healing to Cancer Killing: Nanoceria\u2019s Expanding Medical Horizon",
+            "Nanoceria: Bridging Antioxidant Therapy and Precision Drug Delivery"
+        ],
+        "abstract": "Background\nNanoceria has recently received much attention, because of its widespread biomedical applications, including antibacterial, antioxidant and anticancer activity, drug/gene delivery systems, anti-diabetic property, and tissue engineering.\n\nMain body\nNanoceria exhibits excellent antibacterial activity against both Gram-positive and Gram-negative bacteria via the generation of reactive oxygen species (ROS). In healthy cells, it acts as an antioxidant by scavenging ROS (at physiological pH). Thus, it protects them, while in cancer cells (under low pH environment) it acts as pro-oxidant by generating ROS and kills them. Nanoceria has also been effectively used as a carrier for targeted drug and gene delivery in vitro and in vivo models. Besides, nanoceria can also act as an antidiabetic agent and confer protection towards diabetes-associated organ pathophysiology via decreasing the ROS level in diabetic subjects. Nanoceria also possesses excellent potential in the field of tissue engineering. In this review, firstly, we have discussed the different methods used for the synthesis of nanoceria as these are very important to control the size, shape and Ce3+/Ce4+ ratio of the particles upon which the physical, chemical, and biological properties depend. Secondly, we have extensively reviewed the different biomedical applications of nanoceria with probable mechanisms based on the literature reports.\n\nConclusion\nThe outcome of this review will improve the understanding about the different synthetic procedures and biomedical applications of nanoceria, which should, in turn, lead to the design of novel clinical interventions associated with various health disorders.",
+        "supplementary_details": [
+            {
+                "information": "Antibacterial activity",
+                "justification": "Both graphical and textual abstracts mention activity against Gram-positive and Gram-negative bacteria."
+            },
+            {
+                "information": "Antioxidant activity via electron donation",
+                "justification": "The graphic illustrates electron donation to neutralize free radicals, echoing the antioxidant behavior described in the abstract."
+            },
+            {
+                "information": "Anticancer activity on cancer cells under acidic pH",
+                "justification": "Cancer cell targeting via ROS generation is visually depicted and aligns with the described selective cytotoxicity."
+            },
+            {
+                "information": "Drug and gene delivery",
+                "justification": "Visual of targeted delivery complements the text\u2019s mention of in vitro/in vivo delivery using nanoceria."
+            },
+            {
+                "information": "Anti-diabetic activity by stimulating insulin",
+                "justification": "Image of pancreas and insulin stimulation corresponds to the anti-diabetic text content."
+            },
+            {
+                "information": "Tissue regeneration",
+                "justification": "Bone regeneration visual directly supports the mention of tissue engineering applications."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Mechanistic arrows and biological pathways",
+                "justification": "Visuals like electron donation mechanism and cellular targeting enhance understanding, though not explicitly broken down in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper28",
+        "headlines": [
+            "Electrospun Silk: Weaving Nature into Biomedical Innovation",
+            "Silk on a Wire: The Future of Personalized Medicine Begins with Nanofibers",
+            "From Cocoons to Clinics: Electrospun Silk Reimagines Healthcare",
+            "Threading Health: Electrospun Silk's Role in Monitoring, Healing, and Protection",
+            "A Breathable Barrier: Electrospun Silk in Modern Biomedical Defense"
+        ],
+        "abstract": "Electrospinning technology, capable of creating nanofiber-based materials with large specific surface areas and exceptional breathability, has become an important tool in the biomedical field. Silk, as a well-known natural biopolymer, features good biocompatibility, customizable biodegradability, and superior mechanical properties. The conversion of silk into nanofibers via electrospinning allows for the fine-tuning of its properties, thereby enhancing its suitability for a variety of biomedical applications. Electrospun silk not only inherits the natural advantages of silk but also acquires optimized characteristics such as increased surface area, high porosity, and good air permeability. This review article begins by summarizing the latest advances in the rational design and controlled fabrication of electrospun silk. Then, the biomedical applications of electrospun silk in three main areas: health monitoring, regenerative medicine, and personal protection, are reviewed. Lastly, the existing challenges and future perspectives of electrospun silk are discussed. This review aims to highlight the cutting-edge role of electrospun silk in biomedical applications, potentially revolutionizing traditional healthcare into a personalized model.",
+        "supplementary_details": [
+            {
+                "information": "Applications in Health Monitoring, Regenerative Medicine, and Personal Protection",
+                "justification": "These three categories are explicitly described in both the graphic and the text."
+            },
+            {
+                "information": "Subcategories like wound healing, drug delivery, air filtration",
+                "justification": "These are detailed applications within the broader areas already introduced in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual division into 3 application sectors",
+                "justification": "While the text discusses these categories, the graphic organizes and visually segments them clearly, enhancing comprehension."
+            },
+            {
+                "information": "Icons representing electrophysiological or biochemical monitoring",
+                "justification": "These are not explicitly named in the abstract but are implied in health monitoring, adding clarity to what's included."
+            },
+            {
+                "information": "Visual illustration of electrospinning process",
+                "justification": "The text describes it in words, while the diagram illustrates how silk becomes nanofiber visually, aiding understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper29",
+        "headlines": [
+            "Cycling into the Future: Signal Amplification for Ultra-Sensitive Biosensing",
+            "Lighting Up Biomolecules: Fluorescent Biosensors Get a Boost from Enzymes",
+            "From Trace to Trackable: Amplified Biosensors for DNA and miRNA Detection",
+            "Molecular Loops and Ladders: A New Era in Cyclic Biosensing",
+            "Tiny Targets, Big Signals: How Cyclic Amplification Transforms Diagnostics"
+        ],
+        "abstract": "The cyclic signal amplification technology has been widely applied for the ultrasensitive detection of many important biomolecules, such as nucleic acids, proteins, enzymes, adenosine triphosphate (ATP), metal ions, exosome, etc. Due to their low content in the complex biological samples, traditional detection methods are insufficient to satisfy the requirements for monitoring those biomolecules. Therefore, effective and sensitive biosensors based on cyclic signal amplification technology are of great significance for the quick and simple diagnosis and treatment of diseases. Fluorescent biosensor based on cyclic signal amplification technology has become a research hotspot due to its simple operation, low cost, short time, high sensitivity and high specificity. This paper introduces several cyclic amplification methods, such as rolling circle amplification (RCA), strand displacement reactions (SDR) and enzyme-assisted amplification (EAA), and summarizes the research progress of using this technology in the detection of different biomolecules in recent years, in order to provide help for the research of more efficient and sensitive detection methods.",
+        "supplementary_details": [
+            {
+                "information": "Use of RCA (Rolling Circle Amplification), EAA (Enzyme-Assisted Amplification), and strand displacement reactions",
+                "justification": "The abstract explicitly lists these techniques and the graphic illustrates each one in detail with molecular steps."
+            },
+            {
+                "information": "Target detection of DNA and miRNA",
+                "justification": "Both the text and images clearly focus on detecting nucleic acid sequences like DNA/miRNA using signal cycling."
+            },
+            {
+                "information": "Fluorescent signal \"on\" state",
+                "justification": "Visual elements showing signal activation reinforce the abstract's mention of fluorescence-based biosensing."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Detailed enzymatic cycling steps (e.g., Exo III, T4 DNA ligase, DSN)",
+                "justification": "The abstract generally refers to enzyme-assisted techniques, but the graphic shows specific enzymes and mechanisms."
+            },
+            {
+                "information": "Mechanism of target-triggered strand displacement and signal amplification",
+                "justification": "Provides a mechanistic understanding that is not deeply covered in the text."
+            },
+            {
+                "information": "Role of Mg\u00b2\u207a, THF, and FRET-based signal pathways",
+                "justification": "Specific molecules used to enhance the detection signal are visually represented but not detailed in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper30",
+        "headlines": [
+            "Electrocharged Innovation: Sol-Gel Coatings Bring Titanium to Life",
+            "From Current to Coating: Electric Fields Enable Bioactive Glass Formation",
+            "Smart Coatings for Smarter Implants: Apatite Growth Triggered by Electrochemical Sol-Gel Method",
+            "Bioactive Armor: Electrified Sol-Gel Layers Promote Bone Bonding",
+            "Apatite on Demand: Electric-Field Controlled Gelation for Biomedical Surfaces"
+        ],
+        "abstract": "So far, the sol-gel process has been available to prepare precursor gels of bioactive glasses with various compositions. In this report, we described a novel coating method of bioactive gels on a titanium substrate where the sol-gel transition is controlled by applying external electric fields. The application of a constant current of 10\u2009mA/cm2 in an acidic sol containing pre-hydrolyzed tetraethoxysilane, calcium nitrate, and ammonium dihydrogen phosphate led to the deposition of gels on the titanium cathodes due to the generation of OH\u2013 by water electrolysis as a catalyst of the sol-gel transition. The obtained gels, which were characterized to be amorphous and consisted of Si, Ca, and P, covered the titanium substrates as a coating. The bioactivity of the gels deposited was confirmed by soaking in a simulated body fluid (SBF) up to 7 days, suggesting that the electrochemically assisted sol-gel process is promising for providing bioactive coatings on metallic implants.",
+        "supplementary_details": [
+            {
+                "information": "Use of TEOS, Ca(NO\u2083)\u2082, (NH\u2084)\u2082HPO\u2084 as sol components",
+                "justification": "These chemicals are mentioned in both the abstract and shown in the graphical setup, reinforcing procedural clarity."
+            },
+            {
+                "information": "Generation of OH\u207b via water electrolysis",
+                "justification": "The equation and its role as a catalyst are described in the text and shown visually in the graphic."
+            },
+            {
+                "information": "Apatite formation after SBF immersion",
+                "justification": "The SEM image and XRD data support the textual claim that bioactivity was confirmed by apatite deposition in SBF."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Graphical data: XRD and FTIR spectra of deposited gels",
+                "justification": "While the abstract confirms gel formation and composition, the actual spectral data adds depth and proof of chemical structure and amorphous nature."
+            },
+            {
+                "information": "SEM microstructure showing deposited apatite particles",
+                "justification": "The visual of surface morphology goes beyond text to provide tangible evidence of bioactive surface formation."
+            },
+            {
+                "information": "Labeling of \"Ti\" and \"apatite\" peaks in diffraction data",
+                "justification": "Helps viewers associate material phases with bioactive function\u2014an analytical insight not detailed in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper31",
+        "headlines": [
+            "Microneedles: Revolutionizing Drug Delivery Systems",
+            "From Concept to Clinic: The Journey of Microneedles",
+            "Microneedle Technology: Materials, Methods, and Medicine",
+            "Safe, Effective, and Minimally Invasive: The Promise of Microneedles",
+            "Next-Gen Biomedical Solutions: Microneedles and Beyond"
+        ],
+        "abstract": "Background\nMicroneedles (MNs) are the utmost unique, efficient, and minimally invasive inventions in the pharmaceutical field. Over the past decades, many scientists around the globe have reported MNs cautious because of their superb future in distinct areas. Concerning the wise use of MNs herein, we deal in depth with the present applications of MNs in drug delivery.\n\nMain text\nThe present review comprises various fabrication materials and methods used for MN synthesis. The article also noted the distinctive advantages of these MNs, which holds huge potential for pharmaceutical and biomedical applications. The role of MNs in serving as a platform to treat various ailments has been explained accompanied by unusual approaches. The review also inculcates the pharmacokinetics of MNs, which includes permeation, absorption, and bioavailability enhancement. Besides this, the in vitro/in vivo toxicity, biosafety, and marketed product of MNs have been reviewed. We have also discussed the clinical trials and patents on the pharmaceutical applications of MNs in brief.\n\nConclusion\nTo sum up, this article gives insight into the MNs and provides a recent advancement in MNs, which pave the pathway for future pharmaceutical and biomedical applications.\n",
+        "supplementary_details": [
+            {
+                "information": "Types of microneedles (e.g., solid, coated, hollow)",
+                "justification": "These types help support the textual mention of MNs being \u201cunique, efficient, and minimally invasive,\u201d but were not listed explicitly in the abstract."
+            },
+            {
+                "information": "Synthesis methods (e.g., laser cutting, photolithography)",
+                "justification": "The synthesis techniques provide additional technical details related to MN fabrication, aligning with the abstract\u2019s mention of various fabrication methods."
+            },
+            {
+                "information": "Materials used (e.g., metal, silicon, ceramic)",
+                "justification": "Supports the mention in the abstract that various fabrication materials are used but are not named there."
+            },
+            {
+                "information": "Toxicity profile, biosafety, and clinical trials",
+                "justification": "These terms are mentioned in the text, and the graphical abstract visually presents them, reinforcing their importance."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visualization of microneedle at the center",
+                "justification": "Provides a visual representation of MNs that helps the reader understand their structure, which is not described in the textual abstract."
+            },
+            {
+                "information": "Arrow leading to \u201cFuture Challenges\u201d",
+                "justification": "Introduces the notion of future challenges, which is not explicitly mentioned in the abstract but hints at ongoing research needs."
+            },
+            {
+                "information": "Pharmaceutical applications icons (eye, lightbulb, etc.)",
+                "justification": "These icons suggest specific application areas (e.g., ocular, dermatological) not directly discussed in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper32",
+        "headlines": [
+            "2D Nanomaterials: Flat Structures, Deep Impact on Cancer Therapy",
+            "The Nano-Interface Revolution: How 2D Materials Are Reshaping Cancer Treatment",
+            "Target, Deliver, Destroy: 2D NMs in the War Against Cancer",
+            "Multifunctional 2D Materials: From Graphene to Gene Therapy",
+            "Smart Surfaces for Smart Therapy: Biomedical Applications of 2D NMs"
+        ],
+        "abstract": "Two-dimensional nanomaterials (2D NMs), characterized by a large number of atoms or molecules arranged in one dimension (typically thickness) while having tiny dimensions in the other two dimensions, have emerged as a pivotal class of materials with unique properties. Their flat and sheet-like structure imparts distinctive physical, chemical, and electronic attributes, which offers several advantages in biomedical applications, including enhanced surface area for efficient drug loading, surface-exposed atoms allowing precise chemical modifications, and the ability to form hierarchical multilayer structures for synergistic functionality. Exploring their nano-bio interfacial interactions with biological components holds significant importance in comprehensively and systematically guiding safe applications. However, the current lack of in-depth analysis and comprehensive understanding of interfacial effects on cancer treatment motivates our ongoing efforts in this field. This study provides a comprehensive survey of recent advances in utilizing 2D NMs for cancer treatment. It offers insights into the structural characteristics, synthesis methods, and surface modifications of diverse 2D NMs. The investigation further delves into the formation of nano-bio interfaces during their in vivo utilization. Notably, the study discusses a wide array of biomedical applications in cancer treatment. With their potential to revolutionize therapeutic strategies and outcomes, 2D NMs are poised at the forefront of cancer treatment, holding the promise of transformative advancements.",
+        "supplementary_details": [
+            {
+                "information": "Categories like \"2D NMs-proteins\", \"2D NMs-nucleic acids\", etc.",
+                "justification": "These classifications show specific nano-bio interactions alluded to in the text under \u201cnano-bio interfacial interactions.\u201d"
+            },
+            {
+                "information": "Use in \u201cDrug carriers\u201d and \u201cGene carriers\u201d",
+                "justification": "These are specific biomedical applications in cancer treatment that support the text\u2019s mention of \u201ctherapeutic strategies.\u201d"
+            },
+            {
+                "information": "Examples of 2D NMs (Graphene-family, MXenes, TMDs, etc.)",
+                "justification": "These examples clarify the mention of \u201cdiverse 2D NMs\u201d in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual depiction of apoptosis, lysosomal escape, and membrane penetration",
+                "justification": "These are mechanisms not directly described in the text but are crucial to understanding how 2D NMs operate in cancer therapy."
+            },
+            {
+                "information": "Inclusion of immunomodulatory roles (Treg, CD4+, CD8+ cells, etc.)",
+                "justification": "Immune modulation isn\u2019t discussed in the textual abstract but is important for cancer therapy, thus extending the scope."
+            },
+            {
+                "information": "Photothermal (PTT) and Photodynamic (PDT) therapy roles",
+                "justification": "These therapies are not explicitly mentioned in the textual abstract but offer visual insight into alternate cancer treatment pathways."
+            }
+        ]
+    },
+    {
+        "paper": "Paper33",
+        "headlines": [
+            "Shape Memory Biocomposites: Smart Materials for Biomedical Use",
+            "TPU/PCL/HA Composites: Balancing Memory, Strength, and Biocompatibility",
+            "Programming Recovery: How Heat Triggers Material Memory",
+            "Engineering Smart Shapes: From Composition to Cellular Response",
+            "75/25 TPU/PCL Blend Leads the Way in Biocompatible Memory Materials"
+        ],
+        "abstract": "Depending on its composition, thermoplastic polyurethane (TPU)/polycaprolactone (PCL) blend may present interesting properties for biomedical applications. Here, we have extensively developed and characterized blends of TPU/PCL and composites with 5, 10, and 20 wt% of hydroxyapatite (HA). The thermal, rheological, and mechanical characterizations showed that the blends present an intermediate behavior between pure TPU and PCL. The 75TPU/25PCL blend exhibited the best shape memory performance at temperatures below 50 \u00b0C. Filaments of this blend presented a fixation rate of 86.6% and a recovery rate of 73.3% at 50 \u2103. The addition of HA had little influence on the shape memory properties; on the other hand, it strengthened the material, reaching elastic modulus values close to 100 MPa. In vitro tests revealed a biocompatible behavior for all blends, and the composite with 10 wt% HA from the 75TPU/25PCL blend demonstrated greater cell proliferation compared to the other composites.",
+        "supplementary_details": [
+            {
+                "information": "Internal structure of varying wt% PCL (25%, 50%, 75%)",
+                "justification": "Visualizes the composition-specific structural differences referenced in the text where different ratios of TPU and PCL are mentioned."
+            },
+            {
+                "information": "Shape programming process steps (heating, loading, cooling, unloading)",
+                "justification": "Supports the text\u2019s mention of \"shape memory performance\" by detailing the mechanism visually."
+            },
+            {
+                "information": "Thermal activation at 55\u00b0C",
+                "justification": "Aligns with the textual reference to shape recovery around 50\u00b0C, adding precise visualization of triggering temperature."
+            },
+            {
+                "information": "Original \u2192 Temporary \u2192 Recovery shape transformation",
+                "justification": "Provides a visual summary of shape memory behavior described in the text through performance metrics like fixation and recovery rate."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual demonstration of shape recovery",
+                "justification": "While the text gives numerical data (e.g., 86.6% fixation), this image offers intuitive visual validation of the transformation process."
+            },
+            {
+                "information": "Color-coded representation of each component (TPU, PCL, HA)",
+                "justification": "Aids understanding of how composition varies within the matrix, which isn't described visually in the text."
+            },
+            {
+                "information": "Use of specific HA distribution in the matrix (dots in diagram)",
+                "justification": "Suggests HA dispersion and its relative proportions, which are mentioned in the text but not quantified visually."
+            }
+        ]
+    },
+    {
+        "paper": "Paper34",
+        "headlines": [
+            "From PPE to Plastic Pellets: Rethinking Biomedical Waste Recycling",
+            "Safeguarding Health and the Planet: Sustainable Management of Biomedical Plastics",
+            "Turning Trash into Treasure: Recycling Biomedical Plastics for Circular Economy",
+            "Disinfect, Recycle, Recover: A New Era in Biomedical Waste Management",
+            "Breaking Down the Biomedical Waste Crisis: Visualizing Sustainable Solutions"
+        ],
+        "abstract": "Plastic recycling reduces the wastage of potentially useful materials as well as the consumption of virgin materials, thereby lowering the energy consumption, air pollution by incineration, soil and water pollution by landfilling. Plastics used in the biomedical sector have played a significant role. Reducing the transmission of the virus while protecting the human life in particular the frontline workers. Enormous volumes of plastics in biomedical waste have been observed during the outbreak of the pandemic COVID-19. This has resulted from the extensive use of personal protective equipment such as masks, gloves, face shields, bottles, sanitizers, gowns, and other medical plastics which has created challenges to the existing waste management system in the developing countries. The current review focuses on the biomedical waste and its classification, disinfection, and recycling technology of different types of plastics waste generated in the sector and their corresponding approaches toward end-of-life option and value addition. This review provides a broader overview of the process to reduce the volume of plastics from biomedical waste directly entering the landfill while providing a knowledge step toward the conversion of \u201cwaste\u201d to \u201cwealth.\u201d An average of 25% of the recyclable plastics are present in biomedical waste. All the processes discussed in this article accounts for cleaner techniques and a sustainable approach to the treatment of biomedical waste.",
+        "supplementary_details": [
+            {
+                "information": "Use of disinfection techniques like autoclave and microwave",
+                "justification": "These methods are referenced in the textual abstract as part of the treatment process, and are shown with visuals in the graphic."
+            },
+            {
+                "information": "Biomedical waste segregation (colored bins)",
+                "justification": "The graphic clarifies classification and separation steps discussed broadly in the abstract under \u201cclassification.\u201d"
+            },
+            {
+                "information": "Processes like incineration, mechanical recycling, landfill",
+                "justification": "These end-of-life and waste treatment processes support the text\u2019s overview of techniques to avoid direct landfilling and promote sustainable waste handling."
+            },
+            {
+                "information": "Plastic granules and authorized recyclers",
+                "justification": "Adds specificity to how plastic waste can be transformed post-recycling, aligning with the text's \u201cwaste to wealth\u201d theme."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Flowchart design showing material flow from hospital to final destinations",
+                "justification": "The text doesn't describe the flow structure visually\u2014this adds clarity to the logistics and decision paths."
+            },
+            {
+                "information": "Pyrolysis as a process for energy recovery",
+                "justification": "Not explicitly detailed in the text but adds insight into alternative energy recovery options."
+            },
+            {
+                "information": "Metal sharp disposal at iron foundries",
+                "justification": "Introduces a recycling strategy for metallic sharps not mentioned in the text, extending understanding of non-plastic biomedical waste."
+            }
+        ]
+    },
+    {
+        "paper": "Paper35",
+        "headlines": [
+            "Smart Hydrogels for Smart Healing: The Future of Wound Care",
+            "Healing from Within: How Self-Healing Hydrogels Transform Wound Recovery",
+            "From Gauze to Gel: Evolution of Wound Dressings in Regenerative Medicine",
+            "Hydrogels in Action: Engineering Moist Environments for Fast Healing",
+            "Personalized, Painless, and Powerful: The Promise of Self-Healing Hydrogels"
+        ],
+        "abstract": "The natural physiological response to skin injury is wound healing. However, to restore skin continuity, wound healing is a complicated process that involves the collaboration of a variety of cell types and other mediators. This process ultimately results in tissue regeneration and the restoration of skin barrier function. Hydrogels are appealing dosage forms for biomedical regenerative medicine since they are composed of 3D networks with high water content and flexible rheological features. Hydrogels that can self-heal are particularly interesting for wound treatment because they can autonomously restore their original functionalities and repair structural damage. Recently, the use of self-healing hydrogels as biomedical materials has attracted increased interest. In this review, the self-healing systems used in tissue regeneration, especially wound healing, will be explored. A focus on the fabrication methods, characterization tests, and mechanism of self-healing will be introduced, along with the biomedical applications of self-healing hydrogels loaded with conventional and therapeutic biomaterials. In addition, the differences between hydrogels and self-healing hydrogels will be discussed.",
+        "supplementary_details": [
+            {
+                "information": "Self-healing hydrogel advantages (restored mechanical properties, painless removal)",
+                "justification": "These directly support the text\u2019s claim that self-healing hydrogels can restore functionalities and assist in wound healing."
+            },
+            {
+                "information": "Hydrogel scaffold properties (moist environment, transparency)",
+                "justification": "These are features mentioned in the text when discussing hydrogels in general."
+            },
+            {
+                "information": "Pain-free removal and high absorption",
+                "justification": "Reinforces the biomedical advantages described in the textual abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual comparison of 6 types of wound dressings (gauze, hydrocolloid, etc.)",
+                "justification": "The text focuses on hydrogels and self-healing types, but the visual introduces a broader classification not mentioned in the text."
+            },
+            {
+                "information": "3D Bioprinting and Hemostatic nano-dressing",
+                "justification": "These are advanced technologies not directly discussed in the abstract but related to the regenerative medicine theme."
+            },
+            {
+                "information": "Pros and cons (\ud83d\udc4d\ud83d\udc4e) icons",
+                "justification": "Adds clarity and user-friendly summarization, enhancing readability not covered by the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper36",
+        "headlines": [
+            "Magnetism Meets Reality: Why Bare Cobalt Nanoparticles Fail In Vivo",
+            "Breaking Down at Body Temperature: Oxidation of Cobalt Nanoparticles",
+            "Theranostic Promise Undone by Oxidation: The Case of Cobalt Nanoparticles",
+            "Co to Co\u2083O\u2084: A Computational Warning for Biomedical Nanomaterials",
+            "Engineering Stability: Surface Strategies for Magnetic Nanoparticle Applications"
+        ],
+        "abstract": "Nanomaterials \u2013 magnetic nanoparticles in particular have been shown to have significant potential in cancer theranostics, where iron oxides are commonly the materials of choice. While biocompatibility presents an advantage, the low magnetisation is a barrier to their widespread use. As a result, highly magnetic cobalt nanoparticles are attracting increasing attention as a promising alternative. Precise control of the physiochemical properties of such magnetic systems used in biomedicine is crucial, however, it is difficult to test their behaviour in vivo. In the present work, density functional theory calculations with the Dudarev approach (DFT+U) have been used to model the adsorption of oxygen on low Miller index surfaces of the hexagonal phase of cobalt. In vivo conditions of temperature and oxygen partial pressure in the blood have been considered, and the effects of oxidation on the overall properties of cobalt nanoparticles are described. It is shown that oxygen adsorbs spontaneously on all surfaces with the formation of non-magnetic cobalt tetroxide, Co3O4, at body temperature, confirming that, despite their promising magnetic properties, bare cobalt nanoparticles would not be suitable for biomedical applications. Surface modifications could be designed to preserve their favourable characteristics for future utilisation.",
+        "supplementary_details": [
+            {
+                "information": "Adsorption of oxygen leading to cobalt oxidation",
+                "justification": "The red arrow in the graphic visually represents oxygen interaction and subsequent oxidation, which matches the text discussing Co to Co\u2083O\u2084 conversion."
+            },
+            {
+                "information": "Presence of atomic lattice and surface interaction",
+                "justification": "The grey atomic lattice visually supports the DFT modeling of cobalt surfaces described in the abstract."
+            },
+            {
+                "information": "Transformation from magnetic to non-magnetic form",
+                "justification": "The zig-zag red arrow ending in a \u201cfall\u201d visually implies the magnetic property decline, matching the text\u2019s discussion of loss of magnetic properties due to oxidation."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Vibrational or spectral waveform in background",
+                "justification": "Suggests electronic or vibrational analysis, possibly DFT-related, but not explicitly explained in the textual abstract. Adds technical depth visually."
+            },
+            {
+                "information": "Transition between polyhedral cobalt nanoparticle structures",
+                "justification": "These visual transitions suggest phase or oxidation-state changes, enriching understanding even though the exact geometric details aren't described textually."
+            }
+        ]
+    },
+    {
+        "paper": "Paper37",
+        "headlines": [
+            "Nano-HBOCs: A New Era in Oxygen-Based Therapies",
+            "Oxygen on Demand: Smart HBOCs for Stroke, Cancer, and Shock",
+            "Next-Gen Blood Substitutes: How Nano-HBOCs Are Revolutionizing Medicine",
+            "Breathing Life into Therapy: Nano-HBOCs in Wound, Cancer, and Stroke Care",
+            "Nano-HBOCs Deliver More Than Oxygen: A New Frontier in Biomedical Treatment"
+        ],
+        "abstract": "Oxygen is necessary for life and plays a key pivotal in maintaining normal physiological functions and treat of diseases. Hemoglobin-based oxygen carriers (HBOCs) have been studied and developed as a replacement for red blood cells (RBCs) in oxygen transport due to their similar oxygen-carrying capacities. However, applications of HBOCs are hindered by vasoactivity, oxidative toxicity, and a relatively short circulatory half-life. With advancements in nanotechnology, Hb encapsulation, absorption, bioconjugation, entrapment, and attachment to nanomaterials have been used to prepare nanomaterial-related HBOCs to address these challenges and pend their application in several biomedical and therapeutic contexts. This review focuses on the progress of this class of nanomaterial-related HBOCs in the fields of hemorrhagic shock, ischemic stroke, cancer, and wound healing, and speculates on future research directions. The advancements in nanomaterial-related HBOCs are expected to lead significant breakthroughs in blood substitutes, enabling their widespread use in the treatment of clinical diseases.\n",
+        "supplementary_details": [
+            {
+                "information": "Shock section (IV fluid bag, blood volume, O\u2082 delivery)",
+                "justification": "Matches the textual mention of HBOCs use in hemorrhagic shock and oxygen transport."
+            },
+            {
+                "information": "Stroke section (blood clot, affected brain area)",
+                "justification": "Supports ischemic stroke treatment use case mentioned in the abstract."
+            },
+            {
+                "information": "Wound healing (Tissue repair)",
+                "justification": "Directly tied to wound healing and tissue oxygenation as outlined in the text."
+            },
+            {
+                "information": "Cancer therapy with DOX, PDT, ROS",
+                "justification": "Reinforces use of Nano-HBOCs in cancer treatment as per the abstract (e.g., radiotherapy, phototherapy)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Central illustration of various Nano-HBOC structures",
+                "justification": "Enhances the understanding of encapsulation/bioconjugation not visually described in the text."
+            },
+            {
+                "information": "Visual breakdown of PDT (Photodynamic Therapy) and ROS mechanisms",
+                "justification": "Provides clarity on how HBOCs help generate ROS for cancer treatment \u2014 not textually detailed."
+            },
+            {
+                "information": "Others section: P. gingivalis (oral), PWS (Port-wine stain), PE (Pulmonary embolism)",
+                "justification": "These are not mentioned in the text, suggesting additional applications of HBOCs."
+            }
+        ]
+    },
+    {
+        "paper": "Paper38",
+        "headlines": [
+            "Natural Hydrogels: Biocompatible Materials for a Sustainable Biomedical Future",
+            "From Starch to Scaffolds: Harnessing Natural Polymers for Medical Innovation",
+            "Shaping Healing: Natural Polymer Hydrogels in Drug Delivery and Regenerative Medicine",
+            "Eco-Friendly Hydrogels: The Next Frontier in Biomedicine and Sustainability",
+            "Engineering Nature: Biopolymer Hydrogels Transforming Wound Care and Beyond"
+        ],
+        "abstract": "Hydrogels, with their remarkable biocompatibility, biodegradability, and versatility, have garnered immense attention across biomedical and industrial landscapes. Among the diverse categories of hydrogels, those derived from natural polymers have risen to prominence, owing to their inherent biocompatibility and environmental sustainability. This review meticulously explores the forefront of innovations in the synthesis and applications of natural polymer-based hydrogels. Key natural polymers such as starch, chitosan, alginate, lignin, and carrageenan are scrutinized for their unique structural properties, gelation mechanisms, and the profound influence of crosslinking agents on their performance. The versatile applications of these hydrogels in domains like tissue engineering, controlled drug delivery, wound healing, and environmental remediation are critically evaluated. Particular emphasis is placed on overcoming challenges related to mechanical robustness, tuning degradation rates, and scaling production for broader applicability. By delving into these aspects, this review highlights the field's cutting-edge progress and illuminates the transformative potential of natural polymer hydrogels to address pressing biomedical and ecological challenges. Through this comprehensive synthesis of current advancements and emerging trends, the review aspires to inspire future research and innovation in harnessing the full potential of these sustainable biomaterials.\n",
+        "supplementary_details": [
+            {
+                "information": "Biocompatibility, Biodegradability, Environmental sustainability",
+                "justification": "These core hydrogel attributes are explicitly stated in the abstract."
+            },
+            {
+                "information": "Application Areas: Wound healing, Drug delivery, Tissue engineering, Regenerative medicine",
+                "justification": "Directly mentioned as key application areas in the textual abstract."
+            },
+            {
+                "information": "Natural Polymers: Chitosan, Alginate, Starch, Lignin, Carrageenan, Cellulose, Agarose, Collagen",
+                "justification": "All these polymers are cited in the abstract as examples of natural hydrogels."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Circular layered structure",
+                "justification": "Visually communicates the core-to-application relationship in an intuitive, concentric format not described in the text."
+            },
+            {
+                "information": "Grouping polymers near application domains",
+                "justification": "Helps users associate certain polymers more strongly with particular biomedical functions\u2014useful insight not elaborated in text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper39",
+        "headlines": [
+            "Nanoengineered PLA/PCL Scaffolds: Tunable Platforms for Bone Regeneration",
+            "3D Printed Scaffolds with Halloysite Nanotubes Boost Biodegradation and Biocompatibility",
+            "Balancing Strength and Degradability: The Future of PLA/PCL Composite Scaffolds",
+            "From Print to Implant: Smart Scaffolds for Regenerative Medicine",
+            "Engineering Bioactive Scaffolds: Halloysite-Enhanced PLA/PCL for Cytocompatible Bone Repair"
+        ],
+        "abstract": "Herein, we report the physicochemical, thermal, mechanical and biological characteristics, including bioactivity, biodegradation and cytocompatibility of additive manufacturing-enabled novel nanocomposite scaffolds. The scaffolds comprise a blend of polylactic acid (PLA) and poly-\u03b5-caprolactone (PCL) reinforced with halloysite nanotubes (HNTs). The nanoengineered filaments were developed by melt blending, and the nanocomposite scaffolds were manufactured by fused filament fabrication. Uniform dispersion of HNTs in the PLA/PCL blend is revealed via scanning electron microscopy. Mechanical property loss due to the addition of PCL to realize a suitable biodegradation rate of PLA was fully recovered by the addition of HNTs. Bioactivity, as revealed by the fraction of apatite growth quantified from XRD analysis, was 5.4, 6.3, 6.8 and 7.1% for PLA, 3, 5 and 7 wt% HNT in PLA/PCL blend, respectively, evidencing enhancement in the bioactivity. The degradation rate, in terms of weight loss, was reduced from 4.6% (PLA) to 1.3% (PLA/PCL) upon addition of PCL, which gradually increased to 4.4% by the addition of HNTs (at 7 wt% HNT). The results suggest that the biodegradation rate, mechanical properties and biological characteristics, including cytocompatibility and cell adhesion, of the 3D printed, microarchitected PLA/PCL/HNT composite scaffolds can be tuned by an appropriate combination of HNT and PCL content in the PLA matrix, demonstrating their promise for bone replacement and regeneration applications.",
+        "supplementary_details": [
+            {
+                "information": "3D printer and scaffold structure",
+                "justification": "Describes the fused filament fabrication technique, which is explained in the text."
+            },
+            {
+                "information": "Biodegradation image (SEM of porous structure)",
+                "justification": "Demonstrates scaffold degradation, aligning with discussion of biodegradation rates in text."
+            },
+            {
+                "information": "Biocompatibility graph (MTT absorbance)",
+                "justification": "Reflects the cytocompatibility measurements discussed (MTT test results are consistent)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Normalized MTT absorbance showing statistical significance",
+                "justification": "Adds a visual understanding of biocompatibility variation among formulations (e.g., 3HNT vs. control), not quantified in the text."
+            },
+            {
+                "information": "Visual correlation of scaffold design and biological outcomes",
+                "justification": "Helps connect microarchitecture to biological performance, enriching textual understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper40",
+        "headlines": [
+            "\u201cBiosensors Go Mobile: The Future of Smart, Portable Diagnostics\u201d",
+            "\u201cNanotech-Driven Electrochemical Sensors: Real-Time Solutions for Health and Safety\u201d",
+            "\u201cOne Device, Many Uses: From Food Safety to Cancer Monitoring with Portable Biosensors\u201d",
+            "\u201cSwipe, Scan, Diagnose: Touchless Electrochemical Sensors for the Modern World\u201d",
+            "\u201cElectrochemical Intelligence: Merging Biocompatibility with Wearable Tech\u201d"
+        ],
+        "abstract": "Miniaturized electrochemical sensing systems are employed in day-to-day uses in the several area from public health to scientific applications. A variety of electrochemical sensor and biosensor systems may not be effectively employed in real-world diagnostic laboratories and biomedical industries due to their limitation of portability, cost, analytical period, and need of skilled trainer for operating devices. The design of smart and portable sensors with high sensitivity, good selectivity, rapid measurement, and reusable platforms is the driving strength for sensing glucose, lactate, hydrogen peroxide, nitric oxide, mRNA, etc. The enhancement of sensing abilities of such sensor devices through the incorporation of both novel sensitive nanomaterials and design of sensor strategies are evidenced. Miniaturization, cost and energy efficient, online and quantitative detection and multiple sensing ability are the beneficial of the nanostructured-material-based electrochemical sensor and biosensor systems. Owing to the discriminating catalytic action, solidity and biocompatibility for designing sensing system, nanoscale materials empowered electrochemical detection systems are accomplished of being entrenched into/combined with portable or miniaturized devices for specific applications. In this review, the advance development of portable and smart sensing/biosensing systems derived from nanoscale materials for clinical and biomedical applications is described.",
+        "supplementary_details": [
+            {
+                "information": "Food Evaluation",
+                "justification": "This use-case is directly mentioned in the broader scope of public health and daily applications discussed in the abstract."
+            },
+            {
+                "information": "Health Monitoring",
+                "justification": "Reinforces one of the core areas mentioned in the abstract \u2014 real-time monitoring of health indicators."
+            },
+            {
+                "information": "Bacteria Detection",
+                "justification": "Supports the abstract\u2019s claim of applicability in diagnostics and disease detection."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Angiogenesis Sensor",
+                "justification": "The term and application in angiogenesis monitoring are not explicitly stated in the abstract but provide a deeper clinical application."
+            },
+            {
+                "information": "Visual depiction of real-time wearable tech and swipe-detection",
+                "justification": "Adds visual clarity on user interfaces and interaction design of portable sensors, which is not deeply described in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper41",
+        "headlines": [
+            "Next-Gen Titanium Alloy Proves Ideal for Biomedical Implants",
+            "Ti\u201315Mo\u20135In Alloy Shows Promise as Safe, Strong Implant Material",
+            "A Triple Metal Alliance for Health: Inside the Ti\u201315Mo\u20135In Breakthrough",
+            "Engineered for the Body: \u03b2-Matrix Alloy Excels in Strength, Safety",
+            "From Lab to Implant: Corrosion-Resistant Titanium Alloy Clears Biocompatibility Tests"
+        ],
+        "abstract": "A new Ti\u2013Mo\u2013In alloy was designed for biomedical implant applications and produced by powder metallurgy. Mechanical properties, ion release, and electrochemical assessments were conducted to uncover its biomaterial feasibility. The Ti\u201315Mo\u20135In alloy consisted of a nearly equiaxed and micrometric \u03b2 matrix with acicular \u03b1 and fine dispersed \u03b1\u2032\u2032 phases. Mo and In chosen contents encouraged flexural strength (0.59 GPa) and hardness (3.9 GPa) beyond the values for human bone in the literature. As expected from the predominantly \u03b2 microstructure, a medium value of elastic modulus (80 GPa) was obtained. The ion Ti (0.019 \u03bcgL\u22121 cm\u22122 h\u22121), Mo (0.622 \u03bcgL\u22121 cm\u22122 h\u22121), and In (0.001 \u03bcgL\u22121 cm\u22122 h\u22121) released concentrations were below harmful concentrations to human health. Corrosion rates during immersion and electrochemical tests (0.524 and 0.1 \u03bcm year\u22121, respectively) were lower than those reported for various implant materials. The Ti\u201315Mo\u20135In alloy is a feasible option for orthopedic and dental implants.",
+        "supplementary_details": [
+            {
+                "information": "Ion release data for Ti, Mo, and In",
+                "justification": "The textual abstract provides numerical values for ion release; the graph supplements this with visual trends across different compositions."
+            },
+            {
+                "information": "Electrochemical corrosion curve",
+                "justification": "The electrochemical test results mentioned in the abstract are visualized in the Tafel plots showing corrosion behavior."
+            },
+            {
+                "information": "Mechanical behavior (load vs displacement)",
+                "justification": "Mechanical properties like flexural strength and elastic modulus are quantified in the abstract; the graphical depiction supports it."
+            },
+            {
+                "information": "Microstructure of Ti\u201315Mo\u20135In alloy (SEM image)",
+                "justification": "The \u03b2-matrix microstructure described in the abstract is supported by the SEM image in the center of the graphical abstract."
+            },
+            {
+                "information": "Biomedical application illustration (dental/orthopedic)",
+                "justification": "The graphical illustration of implants (bone/dental) visually reinforces the feasibility claim made in the text."
+            }
+        ],
+        "complementary_details": []
+    },
+    {
+        "paper": "Paper42",
+        "headlines": [
+            "Tiny Vesicles, Big Potential: BEVs as Next-Gen Nanopharmaceuticals",
+            "Bacterial Vesicles Power New Frontiers in Vaccines and Drug Delivery",
+            "From Bugs to Breakthroughs: Harnessing BEVs in the Fight Against Disease",
+            "BEVs on the Rise: Versatile Nanocarriers in Cancer, Infection, and Beyond",
+            "Engineering Immunity and Precision: BEVs as the Future of Targeted Therapy"
+        ],
+        "abstract": "Bacteria extracellular vesicles (BEVs), characterized as the lipid bilayer membrane-surrounded nanoparticles filled with molecular cargo from parent cells, play fundamental roles in the bacteria growth and pathogenesis, as well as facilitating essential interaction between bacteria and host systems. Notably, benefiting from their unique biological functions, BEVs hold great promise as novel nanopharmaceuticals for diverse biomedical potential, attracting significant interest from both industry and academia. Typically, BEVs are evaluated as promising drug delivery platforms, on account of their intrinsic cell-targeting capability, ease of versatile cargo engineering, and capability to penetrate physiological barriers. Moreover, attributing to considerable intrinsic immunogenicity, BEVs are able to interact with the host immune system to boost immunotherapy as the novel nanovaccine against a wide range of diseases. Towards these significant directions, in this review, we elucidate the nature of BEVs and their role in activating host immune response for a better understanding of BEV-based nanopharmaceuticals\u2019 development. Additionally, we also systematically summarize recent advances in BEVs for achieving the target delivery of genetic material, therapeutic agents, and functional materials. Furthermore, vaccination strategies using BEVs are carefully covered, illustrating their flexible therapeutic potential in combating bacterial infections, viral infections, and cancer. Finally, the current hurdles and further outlook of these BEV-based nanopharmaceuticals will also be provided.",
+        "supplementary_details": [
+            {
+                "information": "BEVs as vaccines",
+                "justification": "The graphic shows immune modulation (e.g., antibodies, immune cells) which supports the text\u2019s point on immunotherapy and vaccine development."
+            },
+            {
+                "information": "BEVs as cargo delivery platforms",
+                "justification": "The visual highlights cargo types (RNA, proteins, drugs) which reflects the textual mention of versatile therapeutic cargo."
+            },
+            {
+                "information": "Application in infections and cancer",
+                "justification": "The cogs at the bottom of the figure visually represent bacterial infections, viral infections, and cancer, directly supporting the abstract\u2019s claim on broad disease coverage."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Cogs representing disease areas",
+                "justification": "While the text mentions BEVs in infections and cancer, the cog-based visual metaphor adds an intuitive understanding of BEVs \"driving\" nanopharmaceutical development."
+            },
+            {
+                "information": "Human silhouette",
+                "justification": "Visually reinforces the systemic impact and clinical relevance of BEVs, which is implied in the text but not explicitly depicted."
+            }
+        ]
+    },
+    {
+        "paper": "Paper43",
+        "headlines": [
+            "Tiny Tech, Big Impact: Nanoparticles Across Industry and Medicine",
+            "From Field to Pharma: The Versatile World of Nanoparticles",
+            "Decoding Nanoparticles: A Blueprint for Biotech Applications",
+            "Nanoparticles in Action: Redefining Health, Food, and Environment",
+            "Revolutionizing Biotechnology: The Power and Potential of NPs"
+        ],
+        "abstract": "Nanoparticles (NPs) are particles with unique features that have been used in a variety of fields, including healthcare, farming, and the food industry. Recent research has shown many possible uses for nanoparticles, including gas sensors, waste management, food preservation, high-temperature superconductors, field emission emitters, food processing, food packaging, and agriculture. Nanoparticles application is connected with the nutritive, coating, and sensory properties of food compounds. Nanoparticles have shown specific anticancer, antibacterial, antioxidant activity, and making them an attractive tool for biomedical applications. Because of their extraordinary mechanical, magnetic, electric, thermal, and electric capabilities, some nanoparticles are more important than others. Numerous nanoparticles have been used in the sectors of agriculture, industry, the environment, medicine, sensors, fungicidal, nematicidal therapy, catalysis, and color degradation. Furthermore, the synthesis method is crucial for the final nanosystem\u2019s characteristics. Food businesses frequently employ nano-coating to prevent food spoiling. The various NP synthesis techniques and their numerous applications in the relevant sector are therefore briefly explored. This review gives us an overview of the different synthesis methods of nanoparticles and their application in different fields of biotechnology such as nanomedicine, tissue engineering, the food industry, and biomedical applications.",
+        "supplementary_details": [
+            {
+                "information": "Antioxidant, Anti-cancer, Nanomedicine, Anti-aging",
+                "justification": "These are explicitly mentioned in the textual abstract as biomedical applications. The image gives direct visuals to support these points."
+            },
+            {
+                "information": "Food and agricultural",
+                "justification": "The abstract discusses food preservation, processing, and agriculture; the visual supports this through icons and labeling."
+            },
+            {
+                "information": "Synthesis and Characterization of Nanoparticles",
+                "justification": "These are mentioned in the last lines of the abstract as crucial steps; the graphic reiterates this visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Anti-aging",
+                "justification": "While the text discusses biomedical applications, anti-aging as a specific term is not directly mentioned. The image introduces this idea visually."
+            },
+            {
+                "information": "Bioremediation",
+                "justification": "Implied in the textual discussion of \"waste management\" and environmental use, but not explicitly labeled as \u201cbioremediation.\u201d The graphic expands this understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper44",
+        "headlines": [
+            "Smarter Peptides: Controlled & Targeted Delivery Systems for Therapeutic Success",
+            "From Emulsions to Smart Gels: Revolutionizing Peptide Stability & Bioavailability",
+            "Trigger-Responsive Carriers: A New Era in Bioactive Peptide Therapeutics",
+            "Precision Delivery of Bioactive Peptides: The Role of Smart Carriers",
+            "Engineering Peptide Delivery for Food and Medicine: Tailoring Stability and Action"
+        ],
+        "abstract": "Bioactive peptides have garnered significant attention for their health benefits and therapeutic potential across food and biomedical industries. However, their application is often limited by poor stability, low bioavailability, and susceptibility to degradation. This review provides a comprehensive overview of conventional and stimuli-responsive delivery systems designed to enhance their stability, bioavailability and efficacy via targeted delivery and controlled release in various applications. The conventional delivery systems, including emulsion-, nanoparticle,- liposome-, and hydrogel-based delivery systems, offer effective solutions for enhancing the stability and bioavailability of food-derived peptides during storage, processing, and absorption after ingestion. Their formulations and preparation techniques are crucial for the delivery systems to be tailored to the specific characteristics of peptides, optimizing their stability, encapsulation efficiency, and release profiles. Moreover, this review also discusses stimuli-responsive delivery systems for emerging biochemical applications of therapeutic peptides. For such applications, the carriers are engineered to respond dynamically to environmental triggers, including pH changes, temperature fluctuations, enzymatic activity, light exposure, ultrasound, and magnetic fields. These systems represent a significant advancement in peptide delivery, which is particularly beneficial for therapeutic applications requiring localized or targeted delivery, such as inflamed or cancerous tissues. Understanding and leveraging these responsive mechanisms enables the delivery systems to be further designed to enhance bioavailability and therapeutic efficacy while minimizing side effects. By integrating insights from these delivery systems, this review aims to guide the development of effective delivery strategies for addressing challenges and optimizing bioactive peptide utilization in food and biomedical fields.\n",
+        "supplementary_details": [
+            {
+                "information": "Emulsion, Liposome, Nanoparticle, Hydrogel systems",
+                "justification": "These delivery systems are explicitly mentioned in the textual abstract as conventional carriers to improve stability and delivery of peptides."
+            },
+            {
+                "information": "Targeted delivery & Controlled release",
+                "justification": "Directly discussed as design goals in the text; image clarifies them visually."
+            },
+            {
+                "information": "Factors: Stability, Bioavailability, Bioactivity",
+                "justification": "These are key limitations discussed in the text and are placed centrally in the visual."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Light-, Magnetic-, Ultrasound-responsive systems",
+                "justification": "These are not individually named in the text, but are grouped under \"stimuli-responsive\" systems. The visual specifies each one, enriching understanding."
+            },
+            {
+                "information": "Graphical division of stimuli into Controlled Release and Targeted Delivery",
+                "justification": "The abstract discusses both strategies but doesn't classify stimuli into these two categories like the visual does. This segmentation provides new insight."
+            }
+        ]
+    },
+    {
+        "paper": "Paper45",
+        "headlines": [
+            "Ionic Liquids Unlock New Possibilities in Topical Drug Delivery",
+            "Targeted Skin Therapy: Ionic Liquid\u2013Based Formulations for Next-Gen Treatments",
+            "From Ionogels to siRNA: The Expanding Role of Ionic Liquids in Dermatology",
+            "Smart Skin Delivery: Enhancing Bioavailability and Permeation with Ionic Liquids",
+            "Ionic Liquids as Multifunctional Vehicles for Topical Biomedical Applications"
+        ],
+        "abstract": "Topical drug delivery provides several benefits over other conventional routes by providing localizing therapeutic effects and also avoids the gastrointestinal tract circumventing the first-pass metabolism and enzymatic drug degradation. Being painless, the topical route also prevents the difficulties linked with the parenteral route. However, there are limitations to the current topical systems which necessitate the need for further research to find functional excipients to overcome these limitations. This review deals in depth with the ionic liquids concerning their physicochemical properties and applicability as well as their role in the arena of topical drug delivery in permeation enhancement, bioavailability enhancement of the drugs by solvation, and drug moiety modification. The review gives a detailed insight into the recent literature on ionic liquid\u2013based topical formulations like ionic liquid\u2013based emulsions, active pharmaceutical ingredient-ionic liquids, ionic liquid\u2013based bacterial cellulose membranes, topical small interfering RNA (siRNA) delivery, and ionogels as a possible solutions for overcoming the challenges associated with the topical route. This review also takes into account the toxicological aspects and biomedical applications of ionic liquids.",
+        "supplementary_details": [
+            {
+                "information": "IL-based emulsions, microemulsions, nano-emulsions",
+                "justification": "These types of formulations are explicitly mentioned in the textual abstract. The visual adds illustrations of them."
+            },
+            {
+                "information": "API-ILs (Active Pharmaceutical Ingredient-Ionic Liquids)",
+                "justification": "Clearly stated in the text; the graphic shows this interaction visually."
+            },
+            {
+                "information": "IL-based Bacterial Cellulose (BC) membranes",
+                "justification": "Present in both text and graphic. The image provides a visual for this form of delivery."
+            },
+            {
+                "information": "Ionogels",
+                "justification": "Named in the text as a potential solution. The image reinforces this with a dedicated icon."
+            },
+            {
+                "information": "IL-based siRNA delivery",
+                "justification": "Explicitly mentioned in the text and shown graphically."
+            },
+            {
+                "information": "Biomedical Applications: Skin cancer, psoriasis, hydration, anti-aging, acne",
+                "justification": "Direct applications implied from the benefits of IL formulations and explicitly illustrated in the graphic."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual of skin structure and IL permeation",
+                "justification": "While \"enhanced skin permeation\" is discussed, the anatomical representation gives a more intuitive view of transdermal delivery."
+            },
+            {
+                "information": "Cell-specific cytotoxicity and antimicrobial action (antibacterial/antifungal/antiviral)",
+                "justification": "The text mentions the role of ionic liquids in enhancing delivery, but these specific actions are better visualized and highlighted graphically."
+            }
+        ]
+    },
+    {
+        "paper": "Paper46",
+        "headlines": [
+            "Acellular Dermal Matrix: The Next-Gen Scaffold for Surgical Repair",
+            "From Skin to Scaffold: Biomedical Potential of Modified Dermal Matrices",
+            "Engineered Collagen Frameworks Driving Advances in Regenerative Medicine",
+            "Revolutionizing Wound Healing and Reconstruction with ADM Biomaterials",
+            "Decellularized Skin Matrices Paving the Way for Multi-Organ Tissue Engineering"
+        ],
+        "abstract": "Acellular dermal matrix (ADM) is derived from natural skin by removing the entire epidermis and the cell components of dermis, but retaining the collagen components of dermis. It can be used as a therapeutic alternative to \u201cgold standard\u201d tissue grafts and has been widely used in many surgical fields, since it possesses affluent predominant physicochemical and biological characteristics that have attracted the attention of researchers. Herein, the basic science of biologics with a focus on ADMs is comprehensively described, the modification principles and technologies of ADM are discussed, and the characteristics of ADMs and the evidence behind their use for a variety of reconstructive and prosthetic purposes are reviewed. In addition, the advances in biomedical applications of ADMs and the common indications for use in reconstructing and repairing wounds, maintaining homeostasis in the filling of a tissue defect, guiding tissue regeneration, and delivering cells via grafts in surgical applications are thoroughly analyzed. This review expectedly promotes and inspires the emergence of natural raw collagen-based materials as an advanced substitute biomaterial to autologous tissue transplantation.",
+        "supplementary_details": [
+            {
+                "information": "ADM derived from skin tissue",
+                "justification": "The image visualizes ADM origin by showing skin tissue being processed, which aligns with the textual description."
+            },
+            {
+                "information": "Physical and chemical modification of ADM",
+                "justification": "The visual diagram of molecular changes (e.g., H-bonding, chemical groups) supplements the abstract\u2019s mention of modification strategies."
+            },
+            {
+                "information": "Biomedical application categories: skin repair, plastic surgery, chest wall repair, etc.",
+                "justification": "These applications are elaborated in the text and listed in the visual with clear, supporting icons."
+            },
+            {
+                "information": "ADM retains collagen after decellularization",
+                "justification": "The graphical representation of retained structural matrix (collagen) aligns with the text, reinforcing understanding."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Chemical structure illustrations (e.g., peptide chains)",
+                "justification": "While modifications are mentioned in the abstract, the graphic adds specific molecular-level insights, enhancing comprehension."
+            },
+            {
+                "information": "Human body diagram linking ADM to multi-organ applications",
+                "justification": "Not directly described in the text, but visually summarizes how ADM integrates into human therapeutic contexts."
+            }
+        ]
+    },
+    {
+        "paper": "Paper47",
+        "headlines": [
+            "Nanocarriers Revolutionize Intracellular Protein Drug Delivery",
+            "Targeted Therapeutics: Advancing Protein Delivery with Smart Nanomaterials",
+            "Overcoming Protein Instability: Nanotechnology\u2019s Role in Modern Drug Delivery",
+            "Next-Generation Protein Therapeutics: From Tumor Targeting to Gene Editing",
+            "From Bench to Body: Innovations in Protein Delivery for Clinical Success"
+        ],
+        "abstract": "Protein drugs are of great importance in maintaining the normal functioning of living organisms. Indeed, they have been instrumental in combating tumors and genetic diseases for decades. Among these pharmaceutical agents, those that target intracellular components necessitate the use of therapeutic proteins to exert their effects within the targeted cells. However, the use of protein drugs is limited by their short half-life and potential adverse effects in the physiological environment. The advent of nanoparticles offers a promising avenue for prolonging the half-life of protein drugs. This is achieved by encapsulating proteins, thereby safeguarding their biological activity and ensuring precise delivery into cells. This nanomaterial-based intracellular protein drug delivery system mitigates the rapid hydrolysis and unwarranted diffusion of proteins, thereby minimizing potential side effects and circumventing the limitations inherent in traditional techniques like electroporation. This review examines established protein drug delivery systems, including those based on polymers, liposomes, and protein nanoparticles. We delve into the operational principles and transport mechanisms of nanocarriers, discussing the various considerations essential for designing cutting-edge delivery platforms. Additionally, we investigate innovative designs and applications of traditional cytosolic protein delivery systems in medical research and clinical practice, particularly in areas like tumor treatment, gene editing and fluorescence imaging. This review sheds light on the current restrictions of protein delivery systems and anticipates future research avenues, aiming to foster the continued advancement in this field.\n",
+        "supplementary_details": [
+            {
+                "information": "Nanocarriers encapsulating proteins",
+                "justification": "Matches the text which discusses using nanomaterials to encapsulate and protect proteins."
+            },
+            {
+                "information": "Delivery inside the cell (cytosolic targeting)",
+                "justification": "Reinforces the text's discussion of intracellular delivery to enhance therapeutic efficacy."
+            },
+            {
+                "information": "Use for therapeutic/imaging agents",
+                "justification": "Aligns with text references to tumor treatment, gene editing, and fluorescence imaging."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visualization of protein travel across cell compartments",
+                "justification": "Adds a visual layer to the abstract's verbal description of intracellular transport, enhancing understanding of the delivery pathway."
+            },
+            {
+                "information": "Distinct nanocarrier types illustrated (e.g., liposomes, micelles, nanoparticles)",
+                "justification": "Though types are mentioned in the text, their explicit forms are better visualized in the image, providing clearer differentiation."
+            }
+        ]
+    },
+    {
+        "paper": "Paper48",
+        "headlines": [
+            "\u201cMapping Heat Transfer in Plasma Jets: A Guide for Biomedical Applications\u201d",
+            "\u201cDistance Matters: Nonlinear Thermal Energy Delivery from APPJs Decoded\u201d",
+            "\u201cVisualizing Plasma-Tissue Interaction: A Practical Energy Flux Framework\u201d",
+            "\u201cFrom Plasma Plume to Patient: Optimizing Jet Parameters for Bio-Use\u201d",
+            "\u201cA Boltzmann-Based Model to Predict APPJ Heat Transfer\u201d"
+        ],
+        "abstract": "Atmospheric pressure plasma jets (APPJs) are a promising tool in medicine with extensive possibilities of utilization. For a safe and therapeutically effective application of APPJs, it is necessary to know in detail the physical processes in plasma as well as possible hazards. In this paper, we focus on plasma thermal energy transferred to the substrate, i.e. to a passive thermal probe acting as substrate dummy. Specifically, we examined the dependence of transferred energy on the distance from the plasma source outlet, on the gas flow rate, and on the length of the visible plasma plume. The plasma plume is the plasma carried by the gas flow from the outlet of the source into the ambient air. The results show the distance between the plasma-generating device and the substrate to be the most important determinant of the transferred thermal energy, among the three examined variables. Most importantly for the end-user, the results also show this relation to be non-linear. To describe this relation, we chose a model based on a Boltzmann type of sigmoid function. Based on the results of our modelling and visual inspection of the plasma, we provide sort of a user guide for the adjustment of a suitable energy flux on the (bio) substrate.",
+        "supplementary_details": [
+            {
+                "information": "Plot showing energy influx vs. probe\u2013nozzle distance",
+                "justification": "Directly supports the textual statement that distance affects energy transfer significantly."
+            },
+            {
+                "information": "Two curves for 1 L/min and 2 L/min gas flow rates",
+                "justification": "Matches the text\u2019s comparison of energy transfer behavior under varying gas flow conditions."
+            },
+            {
+                "information": "Plume length indicated (14 mm)",
+                "justification": "Reinforces the plume length consideration mentioned in the abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual inset showing physical appearance of plasma jets at two flow rates",
+                "justification": "Offers a tangible, qualitative perspective not fully described in text; helps user visualize practical difference."
+            },
+            {
+                "information": "Boltzmann sigmoid curve behavior in graph",
+                "justification": "Graphical form of the mathematical model mentioned in the text but not visually described there."
+            }
+        ]
+    },
+    {
+        "paper": "Paper49",
+        "headlines": [
+            "\u201cAdvancing Collagen Composites: From Antibacterial Boost to 3D Biomedical Customization\u201d",
+            "\u201cCollagen Biomaterials Get a 3D Makeover: Personalized & Infection-Resistant Designs\u201d",
+            "\u201cSmart Collagen Composites: The Future of Infection-Free, Patient-Specific Implants\u201d",
+            "\u201cBio-Inks and Bugs: Tackling Infections with 3D-Printed Collagen Scaffolds\u201d",
+            "\u201cInorganic to Organic: Tailoring Antibacterial Collagen for Biomedical Innovation\u201d"
+        ],
+        "abstract": "Collagen possesses high biocompatibility with all tissue and cell types in the body, enabling the creation of multifunctional composite materials for medical applications. In biomedical engineering, naturally-sourced collagen is often combined with diverse organic and inorganic bioactive components to eliminate defects and disorders in fields including orthopedics, dermatology, and more. At the same time, medical-related infection issues and the precise treatment needs of patients require collagen composite biomaterials to have antibacterial properties and customized structures. This paper reviews the antibacterial functionalization of collagen composite biomaterials in recent years, including the combination with inorganic or organic antibacterial agents, which is beneficial for preventing and controlling biological contamination in medical applications. Then, the existing problems and future development directions for the architecturalization of collagen composite materials with 3D printing were discussed, providing guidance for personalized customization of multifunctional materials to meet the specific needs of patients in the future.\n\n",
+        "supplementary_details": [
+            {
+                "information": "Antibacterial functionalization types (organic, inorganic, both)",
+                "justification": "These are explicitly mentioned in the text and are visualized clearly in the graphic."
+            },
+            {
+                "information": "3D printing strategies and bio-inks",
+                "justification": "These match the review\u2019s focus on 3D printed architecturalization of collagen materials."
+            },
+            {
+                "information": "Medical applications (bone, heart, skin, etc.)",
+                "justification": "These are mentioned as application areas in the text and visualized in the central circle."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Segmented dual-circle layout (function vs. fabrication)",
+                "justification": "Helps differentiate and relate antibacterial function and architectural fabrication visually."
+            },
+            {
+                "information": "Specific icons for organs/applications",
+                "justification": "Provides additional visual clues to potential applications (e.g., heart, spinal disc, cornea), beyond generic \u201corthopedic/dermatology\u201d."
+            }
+        ]
+    },
+    {
+        "paper": "Paper50",
+        "headlines": [
+            "3D Printing Breakthroughs: Shaping the Future of Biocompatible Implants",
+            "From Skin to Heart: 3D Bioprinting Unlocks Personalized Medicine",
+            "Blueprints for the Body: Advanced Materials in Biomedical 3D Printing",
+            "Bioprinting in Action: Mapping the Path from Fillers to Functional Organs",
+            "Layer by Layer: Revolutionizing Healthcare with 3D Biocompatible Printing"
+        ],
+        "abstract": "Three-dimensional (3D) printing has become a potent production tool in the field of biomedical engineering over the past 20 years. Through layer-by-layer deposition of materials, proteins, and even living cells, it offers considerable advantages in the creation of sophisticated and individualized biomedical products with accuracy, efficiency, cost effectiveness, and reproducibility. Despite the tremendous advances made in 3D printing, more work needs to be done to improve the quality of biomedical goods created with this technology. To assure the creation of remarkable and ground-breaking goods that address patients\u2019 demands, numerous challenges in 3D printing processes, materials, and applications must be addressed. It is necessary to incorporate developments in physics, materials science, engineering, biological sciences, and medicine to meet these problems. This article reviews a variety of 3D printing-related issues in the biomedical industry, including processes, post-processing techniques, applications, and related difficulties. It analyzes the difficulties 3D printing in biomedical engineering faces and makes suggestions for potential future advancements. It is obvious that 3D printing is becoming more and more important in this field and has the ability to provide a wide variety of useful biological items. This review seeks to identify future directions for research and development while also advancing understanding of the existing state of 3D printing and the effect of post-processing in biomedical engineering.\n",
+        "supplementary_details": [
+            {
+                "information": "Applications in skin, bone, dentistry, organ regeneration",
+                "justification": "These specific examples are broadly mentioned in the textual abstract as biomedical applications."
+            },
+            {
+                "information": "Biocompatible materials and fillers",
+                "justification": "Text talks about proteins and living cells being printed \u2014 this visual adds more detail."
+            },
+            {
+                "information": "3D printing parts: printing bed, head, gear, etc.",
+                "justification": "While not in the text explicitly, these support the mechanism of layer-by-layer deposition."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Central printing schematic with biocompatible filler funnel",
+                "justification": "Adds clarity to how materials are deposited in the 3D printing process not explained in text."
+            },
+            {
+                "information": "High voltage application in printing",
+                "justification": "Introduces an electro-assisted mechanism not detailed in the textual abstract."
+            }
+        ]
+    }
+]

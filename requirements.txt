@@ -1,0 +1,36 @@
+# ── Streamlit UI ────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── Core pipeline ────────────────────────────────────────────────────────────
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-google-genai>=0.0.5
+langchain-groq>=0.1.0          # FREE tier LLMs (Llama, Mixtral)
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+
+# ── External services ────────────────────────────────────────────────────────
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# ── PDF processing ───────────────────────────────────────────────────────────
+PyPDF2>=3.0.0
+
+# ── Keyword extraction ───────────────────────────────────────────────────────
+keybert>=0.8.0
+sentence-transformers>=2.2.2   # required by KeyBERT and DetailsClassifier
+
+# ── ML classifier (Stage 2: See) ─────────────────────────────────────────────
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+nltk>=3.8.0
+
+# ── NLP evaluation (optional) ────────────────────────────────────────────────
+# bert-score>=0.3.13
+# rouge-score>=0.1.2
+
+# ── API server (optional) ────────────────────────────────────────────────────
+# fastapi>=0.109.0
+# uvicorn>=0.27.0

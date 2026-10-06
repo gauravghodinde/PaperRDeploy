@@ -1,0 +1,23 @@
+# Environment
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/outputs/
+*.pdf
+
+# OS
+.DS_Store
+
+# Streamlit secrets (never commit real keys!)
+.streamlit/secrets.toml
+
+# Trained model files (large binaries)
+classification/saved_models/
+*.pkl

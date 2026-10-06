@@ -1,0 +1,1768 @@
+[
+    {
+        "paper": "Paper1",
+        "headlines": [
+            "Bringing Spectroscopy to Life: Arduino-Powered Wireless Spectrometer",
+            "From Old to Innovative: Eco-Friendly Spectrometer Using Arduino",
+            "DIY Science: Bluetooth-Controlled Raman Spectroscopy on a Budget",
+            "Learning by Building: A Portable Spectrometer for Classrooms and Labs",
+            "Smart Spectroscopy: Teaching Chemistry with Arduino and Wireless Tech"
+        ],
+        "abstract": "We provide a technical report on designing an Arduino-based wireless spectrometer using an old spectrometer. The designed spectrometer is environmentally friendly and cost-effective and can be used in physical and analytical laboratories. The Arduino-based wireless spectrometer enables students to understand the fundamental theory of spectroscopy and wireless communication among instruments. The rotating motions of the mirror and grating turret inside the spectrometer are controlled by a pre-written source code based on the Arduino program. This procedure can give an insight into spectroscopic analysis and telecommunication skills using computer-based software. Using our customized spectrometer, we measure Raman spectra from a silicon wafer, 4-nitrobenzenethiol, and rhodamine 6G, which serve as representative Raman probe molecules. From our results, we conclude that our approach provides intuitions for wide applications of Arduino-based chemical instruments.",
+        "supplementary_details": [
+            {
+                "information": "Arduino connected circuit with spectrometer",
+                "justification": "Supports the textual mention of an \"Arduino-based spectrometer.\""
+            },
+            {
+                "information": "Bluetooth and PC/mobile interface",
+                "justification": "Enhances the point about wireless communication between devices and spectrometer."
+            },
+            {
+                "information": "Spectrometer being reused",
+                "justification": "Reinforces the environmental and cost-effective aspect mentioned in the abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual depiction of Bluetooth module",
+                "justification": "Adds clarity about the actual wireless component involved in the system, not detailed in text."
+            },
+            {
+                "information": "Circuit layout and physical device arrangement",
+                "justification": "Offers insights into system setup and wiring, enhancing hands-on understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper2",
+        "headlines": [
+            "Wireless Biosensors: The Future of Real-Time Health Monitoring",
+            "From Energy Harvesting to E-Skin: A Wireless Revolution in Biosensing",
+            "Inside and Out: Smart Wireless Systems for Full-Body Health Tracking",
+            "Powering Diagnostics: Wireless Biosensing with Energy Harvesting Tech",
+            "Connected Care: Exploring Communication Paths in Biosensor Networks"
+        ],
+        "abstract": "Wireless biosensing has emerged as a critical technology due to its ability to provide real-time, continuous monitoring of physiological parameters without the constraints of wired connections. This review starts from the fundamental mechanisms of physical and chemical sensing in wireless biosensors, to the integration of advanced wireless technologies for energy harvesting and data communication, including Radio Frequency, Bluetooth, and other forms. Additionally, it covers diverse applications in wearable and implantable biosensors, such as cardiac monitoring, prosthetic enhancements, electronic skin and contact lenses. Attention is given to the emerging fields of osseosurface electronics and gastrointestinal capsule sensors, which represent significant advancements in non-invasive and minimally invasive health monitoring. The synergistic integration of these technologies paves the way for innovative diagnostic and therapeutic tools, promising improved patient outcomes and convenient healthcare solutions. This comprehensive overview aims to provide insights into the current state and future prospects of wireless biosensing technologies, underscoring their potential to be realized in various kinds of biosensors.",
+        "supplementary_details": [
+            {
+                "information": "Specific applications like wristband sensor, capsule sensor, neural recording",
+                "justification": "These examples visually reinforce the application range already described in the text."
+            },
+            {
+                "information": "Communication methods like Bluetooth, Optical, Zigbee",
+                "justification": "The image reiterates the wireless communication technologies mentioned in the abstract."
+            },
+            {
+                "information": "Energy harvesting methods (solar, human motion, RF)",
+                "justification": "These are explicitly mentioned and visualized, supporting the text discussion."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visualization of body-map of sensors",
+                "justification": "Enhances understanding by spatially representing sensor locations, which text alone does not do."
+            },
+            {
+                "information": "Grouping of technologies into \u201cEnergy Harvesting\u201d and \u201cCommunication\u201d",
+                "justification": "The visual organizes key wireless technologies into functional categories, improving clarity."
+            }
+        ]
+    },
+    {
+        "paper": "Paper3",
+        "headlines": [
+            "SmartPill Tracks GI Shifts After Bariatric Surgery",
+            "Wireless Capsule Offers Insights into Hunger and Transit Time Post-Surgery",
+            "New Metrics for Gut Health: Wireless Monitoring Before and After BPD/DS",
+            "Comparing Lean and Post-Op GI Behavior with Wireless Capsules",
+            "From Satiety to Diarrhea: SmartPill Reveals Full GI Spectrum After Surgery"
+        ],
+        "abstract": "Purpose\nBariatric surgery alters gastrointestinal anatomy. In this exploratory study, the SmartPill\u00ae wireless motility capsule (WMC) was used to study changes in gastrointestinal physiology following biliopancreatic diversion with duodenal switch (BPD/DS).\n\nMaterial and Methods\nTwenty-eight BPD/DS patients (35 \u00b1 11 years, 50% females, body mass index [BMI] 56 \u00b1 5) were to be examined preoperatively and postoperatively. In addition to transit time, appetite control and gastrointestinal symptoms were studied by patient-scored questionnaires (visual analogue scale and Gastrointestinal Symptom Rating Scale (GSRS)). Data was compared to 41 lean unoperated controls.\n\nResults\nAbout 1.8 years postoperatively, 18 patients (BMI 35.8 \u00b1 8.3) returned for a second WMC test. As expected, small bowel transit time was reduced, from 3.9 \u00b1 1.6 h to 2.8 \u00b1 2.0, p = 0.02, and at both these time points, it was shorter than in lean controls (5.4 \u00b1 1.9 h, p = 0.001). Postoperatively, a trend towards reduced colon and whole gut transit times was seen in BPD/DS-patients, thus approaching those of lean controls. Surprisingly, BPD/DS patients scored higher satiety than controls preoperatively as well as increased hunger and desire to eat postoperatively. Compared to lean, BPD/DS patients reported a higher total GSRS score at both time points (1.2 \u00b1 0.2 vs 1.7 \u00b1 0.6 and 2.3 \u00b1 0.5, p < 0.001). Postoperatively, the scores for diarrhea and indigestion increased.\n\nConclusions\nThe novel use of the SmartPill system in BPD/DS patients gave the expected readouts. Although small bowel transit time was further shortened after BPD/DS, whole gut transit time did not differ from controls. Typical gastrointestinal symptoms were reported postoperatively.",
+        "supplementary_details": [
+            {
+                "information": "WMC used for measuring gastrointestinal transit time",
+                "justification": "Already detailed in the textual abstract as a core method."
+            },
+            {
+                "information": "Data from 28 BPD/DS patients and 41 lean controls",
+                "justification": "Matches the population and study design described in the text."
+            },
+            {
+                "information": "Pre/post-op GSRS scores and symptom comparison (e.g., diarrhea, hunger)",
+                "justification": "Reflects numerical results already mentioned in the abstract, adding a simplified visual recap."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Statement: \u201cNovel use of wireless motility capsule in bariatric surgery\u201d",
+                "justification": "Adds an interpretive angle or implication not deeply elaborated in the abstract text."
+            },
+            {
+                "information": "Visual layout of results (transit time reduction, hunger increase)",
+                "justification": "Helps visualize and summarize what\u2019s discussed in narrative form in the abstract."
+            },
+            {
+                "information": "Use of icons to visually suggest outcomes (appetite, GI issues, satiety)",
+                "justification": "Enhances understanding of post-op symptoms and assessments not clearly structured in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper4",
+        "headlines": [
+            "\u201cSmart Beds and Stickers: The Future of Wireless Patient Monitoring\u201d",
+            "\u201cSeamless Health: IoT-Based System Bridges Bedside Vitals and EHR\u201d",
+            "\u201cBLE, Cloud, and FHIR Unite: Transforming In-Hospital Patient Care\u201d",
+            "\u201cComfort Meets Connectivity: Smart Beds Revolutionize Clinical Monitoring\u201d",
+            "\u201cSmart IoT Beds Prove Reliable in Real-Time Clinical Evaluations\u201d"
+        ],
+        "abstract": "Conventional patient monitoring in healthcare has limitations such as delayed identification of deteriorating conditions, disruptions to patient routines, and discomfort due to extensive wiring for bed-bound patients. To address these, we have recently developed an innovative IoT-based healthcare system for real-time wireless patient monitoring. This system includes a flexible epidermal patch that collects vital signs using low power electronics and transmits the data to IoT nodes in hospital beds. The nodes connect to a smart gateway that aggregates the information and interfaces with the hospital information system (HIS), facilitating the exchange of electronic health records (EHR) and enhancing access to patient vital signs for healthcare professionals. Our study validates the proposed smart bed architecture in a clinical setting, assessing its ability to meet healthcare personnel needs, patient comfort, and data transmission reliability. Technical performance assessment involves analyzing key performance indicators for communication across various interfaces, including the wearable device and the smart box, and the link between the gateway and the HIS. Also, a comparative analysis is conducted on data from our architecture and traditional hospital equipment. Usability evaluation involves questionnaires completed by patients and healthcare professionals. Results demonstrate the robustness of the architecture proposed, exhibiting reliable and efficient information flow, while offering significant improvements in patient monitoring over conventional wired methods, including unrestricted mobility and improved comfort to enhance healthcare delivery.",
+        "supplementary_details": [
+            {
+                "information": "Use of BLE to transmit vitals from the patient to the smart bed",
+                "justification": "BLE transmission from sensors (Biosticker/Oximeter) is discussed as part of the wireless setup."
+            },
+            {
+                "information": "Integration with hospital systems via FHIR",
+                "justification": "FHIR is mentioned in the visual as a health data protocol, consistent with textual description."
+            },
+            {
+                "information": "Real-time GUI at smart bed",
+                "justification": "Text mentions data access via GUI for real-time monitoring, depicted visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Explicit flow from patient \u2192 smart bed \u2192 cloud \u2192 HIS",
+                "justification": "Visual pipeline provides clear step-by-step system architecture, enhancing textual understanding."
+            },
+            {
+                "information": "Use of MQTT and WiFi for communication",
+                "justification": "Protocol details like MQTT and WiFi are visual-only, not mentioned explicitly in the text."
+            },
+            {
+                "information": "Visualization of system components (gateway, GUI, sensors)",
+                "justification": "The image clarifies device roles and positioning, adding system clarity not found in text alone."
+            }
+        ]
+    },
+    {
+        "paper": "Paper5",
+        "headlines": [
+            "\u201cSmart Slope Safety: Wireless System Predicts Landslides in Real-Time\u201d",
+            "\u201cCracking the Code: Geo-Sensors and Cloud Tech Mitigate Landslide Risks\u201d",
+            "\u201cRemote Watchdogs: IoT-Based Landslide Monitoring with Early Warnings\u201d",
+            "\u201cMountains Under Watch: Solar-Powered Sensors Warn of Impending Landslides\u201d",
+            "\u201cFrom Cracks to Control Rooms: A Wireless Network to Predict Disasters\u201d"
+        ],
+        "abstract": "Landslides in hilly regions are a frequently occurring natural phenomenon which takes a heavy toll of human lives and causes damage to different properties. Hence, prediction of landslide is essential for averting its deleterious effects by providing early warning to neighboring residents about the impending hazard of landslide. A landslide monitoring system has been designed using geosensors and high-range wireless network for on-line monitoring and prediction of landslides with the application of multivariate statistical analysis of prevailing site parameters. The system consists of various geosensors, wireless sensor network, server, and landslide monitoring and forecasting software. Crackmeter, in-place inclinometer, raingauge, tiltmeter, piezometer and other sensors are set up in the selected hill slope prone to landslide for continuous monitoring of influencing parameters. The system measures real-time landslide parameters using the said geosensors connected with wireless nodes and establishing a dynamic wireless network to overcome redundancy issue using wireless nodes of around 1200 m communication range using a high performance low power microcontroller, integrated solar panel and additional external omni-directional antenna for monitoring landslide in a large and hazardous hilly region from a distant safer location. The application software consists of different modules, namely data monitoring, analysis, storing, viewing, prediction, and generation of audio-visual, SMS and email alerts for 3 levels of landslides situations. The paper enumerates the system architecture and the application software details.",
+        "supplementary_details": [
+            {
+                "information": "Use of sensors like crackmeter, raingauge, tiltmeter, etc.",
+                "justification": "These are listed in the text and visually represented in exact positions in the graphical abstract."
+            },
+            {
+                "information": "Placement of wireless nodes (N1\u2013N4)",
+                "justification": "The text mentions nodes and communication range; the diagram visualizes their layout."
+            },
+            {
+                "information": "Connection to a remote landslide monitoring room",
+                "justification": "Diagram includes visual of data flow to a monitoring station, which is textually referenced."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual placement of geosensors on the slope",
+                "justification": "Enhances understanding by showing spatial relationship and physical deployment on terrain."
+            },
+            {
+                "information": "Network architecture with antenna and solar panel",
+                "justification": "Antenna and power source (solar) are implied but better visualized in the figure."
+            },
+            {
+                "information": "Schematic of the command room with server + GUI",
+                "justification": "Adds clarity on the system's backend components which are only briefly mentioned in text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper6",
+        "headlines": [
+            "\u201cPhase-Conjugate Beams Restore Clarity in Turbulent Underwater Communication\u201d",
+            "\u201cSharper Signals Below the Surface: Correcting Turbulent Light with PCM\u201d",
+            "\u201cBattling Water Turbulence: A New Beam Strategy Boosts Optical Communication\u201d",
+            "\u201cFrom Distorted to Defined: Enhancing Underwater Beams with Phase-Conjugation\u201d",
+            "\u201cBrighter Paths Through Water: Phase-Conjugate Optics Enhance SNR and Stability\u201d"
+        ],
+        "abstract": "Water surface wave turbulence is one of the factors affecting the performances of underwater optical wireless communication (UOWC) systems. In our research, a phase-conjugate beam was used to correct the beam distortion and enhance the communication performances when a system is subject to surface wave turbulence. The phase-conjugate beam was generated by a phase-conjugate mirror (PCM), and a turbulence generator was used to generate surface wave turbulence in the experiment. We calculated the beam centroid distribution and the results showed that the phase-conjugate beam had a better propagation performance than the distorted beam at the different water depths. The root mean square (RMS) of the beam centroid for the phase-conjugate beam was 11 times less than that for the distorted beam, which meant that the phase-conjugate beam could effectively correct the beam drift. We further investigated the scintillation index and the signal-to-noise ratio (SNR); the results showed that the phase-conjugate beam was able to reduce the scintillation and an obvious improvement in SNR could be obtained. This research has the potential to be applied in UWC.",
+        "supplementary_details": [
+            {
+                "information": "Phase-conjugate beam spot images at 3 depths",
+                "justification": "Visualizes the textual statement about improved beam shape with depth using phase-conjugation."
+            },
+            {
+                "information": "Normalized intensity graphs",
+                "justification": "Supports claim that phase-conjugate beam reduces centroid drift and maintains intensity profile."
+            },
+            {
+                "information": "SNR vs. aperture radius graph",
+                "justification": "Text mentions SNR improvement with phase-conjugate beam; graph provides quantification."
+            },
+            {
+                "information": "Scintillation vs. aperture radius graph",
+                "justification": "Reinforces textual statement on reduced scintillation using the phase-conjugate beam."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Direct comparison between distorted and compensated beams",
+                "justification": "Enhances understanding by showing both scenarios together; aids in appreciating the contrast."
+            },
+            {
+                "information": "Inclusion of multiple water depths",
+                "justification": "Adds context on how turbulence changes with depth, expanding beyond simple textual comparison."
+            }
+        ]
+    },
+    {
+        "paper": "Paper7",
+        "headlines": [
+            "\u201cQuantum Dot Solar Cell Powers Up with Telecom Laser\u201d",
+            "\u201cInfrared Photovoltaics Get a Boost from Optical Resonance Engineering\u201d",
+            "\u201cPbS Quantum Dot Devices Achieve Record Efficiency Under 1550 nm Light\u201d",
+            "\u201cITO Tweaks Enable High-Current IR Solar Cells for Wireless Power Transfer\u201d",
+            "\u201cLaser-Driven Quantum Dot Cells Light the Way for Optical Wireless Systems\u201d"
+        ],
+        "abstract": "Infrared photovoltaic cells (IRPCs) have attracted considerable attention for potential applications in wireless optical power transfer (WOPT) systems. As an efficient fiber-integrated WOPT system typically uses a 1550 nm laser beam, it is essential to tune the peak conversion efficiency of IRPCs to this wavelength. However, IRPCs based on lead sulfide (PbS) colloidal quantum dots (CQDs) with an excitonic peak of 1550 nm exhibit low short circuit current (Jsc) due to insufficient absorption under monochromatic light illumination. Here, we propose comprehensive optical engineering to optimize the device structure of IRPCs based on PbS CQDs, for 1550 nm WOPT systems. The absorption by the device is enhanced by improving the transmittance of tin-doped indium oxide (ITO) in the infrared region and by utilizing the optical resonance effect in the device. Therefore, the optimized device exhibited a high short circuit current density of 37.65 mA/cm2 under 1 sun (AM 1.5G) solar illumination and 11.91 mA/cm2 under 1550 nm illumination 17.3 mW/cm2. Furthermore, the champion device achieved a record high power conversion efficiency (PCE) of 7.17% under 1 sun illumination and 10.29% under 1550 nm illumination. The PbS CQDs IRPCs under 1550 nm illumination can even light up a liquid crystal display (LCD), demonstrating application prospects in the future.",
+        "supplementary_details": [
+            {
+                "information": "JV (current density vs. voltage) curve under 1550 nm laser",
+                "justification": "Confirms the improved short-circuit current (Jsc) under 1550 nm illumination discussed in the text."
+            },
+            {
+                "information": "Layer diagram of ITO/PbS QD/Au structure",
+                "justification": "Matches device structure mentioned in text \u2014 shows where light enters and gets absorbed."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Red zig-zag arrow path of 1550 nm light through device",
+                "justification": "Illustrates the resonance-enhanced optical path, helping understand the optical engineering aspect."
+            }
+        ]
+    },
+    {
+        "paper": "Paper8",
+        "headlines": [
+            "\u201cOCMAC: A Collision-Free MAC Protocol for Underwater Sensor Networks\u201d",
+            "\u201cEnergy-Efficient Underwater Communication Achieved with Scheduled RTS\u201d",
+            "\u201cDuty-Cycled OCMAC Optimizes Throughput and Power in UWSNs\u201d",
+            "\u201cMarkov-Based Analysis Validates Reliability of OCMAC for Subsea Networks\u201d",
+            "\u201cGraph-Based View Unveils Timing of Protocol Stages in OCMAC Framework\u201d"
+        ],
+        "abstract": "To design an energy-efficient Medium Access Control (MAC) protocol for the Underwater Wireless Sensor Networks (UWSNs) is an urgent research issue since depleted batteries cannot be recharged or replaced in the underwater environment. Moreover, the underwater acoustic channels are affected by hindrances such as long propagation delay and limited bandwidth, which appear in the design of the MAC protocol for the UWSNs. The available MAC protocols for the terrestrial wireless sensor networks exhibit low performance in energy efficiency, throughput and reliability in the UWSNs, and cannot be used in the UWSNs directly because of their unique characteristics. This paper proposes a synchronous duty-cycled reservation-based MAC protocol named Ordered Contention MAC (OCMAC) protocol. The basic mechanism of this protocol is to schedule data transmission by transmitters through the scheduling of Ready To Send (RTS) frames. The protocol eliminates the possible collision during data transmission and improves communication efficiency. The paper analyzes the performance in energy efficiency, throughput and reliability of the protocol by modeling the queuing behavior of OCMAC with a Markov Chain process. Furthermore, the analytical model is validated through a simulation study. The analysis results demonstrated that while providing good throughput and reliability, OCMAC can achieve energy saving.",
+        "supplementary_details": [
+            {
+                "information": "Sequence of control/data messages (RTS, schedule, ACK)",
+                "justification": "Illustrates protocol operation phases already described in text like RTS scheduling, ACK reception, and data flow."
+            },
+            {
+                "information": "Nodes involved: Gateway (VN), Cluster Head (CH), Sender (HN)",
+                "justification": "Matches the described underwater communication network architecture in the abstract."
+            },
+            {
+                "information": "Phases: Initialization, Reservation, Data Transmission",
+                "justification": "Shows operational timing and stages of the protocol that align with the textual workflow."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Use of event icons (e.g., RTS, ACK, Scheduling)",
+                "justification": "Adds visual clarity to transmission coordination and event handling not explicitly described in text."
+            },
+            {
+                "information": "Time synchronization and duty-cycle visual",
+                "justification": "Enhances understanding of \u201csynchronous duty-cycled\u201d operation by showing how nodes activate over time."
+            }
+        ]
+    },
+    {
+        "paper": "Paper9",
+        "headlines": [
+            "Smart Solar Monitoring with IoT: Remote Control & Real-Time Data at Your Fingertips",
+            "Low-Cost, Wireless PV Monitoring System Powered by NodeMCU and Raspberry Pi",
+            "From Voltage to Weather: Complete PV Analysis Using Open-Source IoT Stack",
+            "Graphical Dashboards and Alerts Make Solar Monitoring Smarter Than Ever",
+            "IoT-Based Solar Control System Enables Servo Actuation and Automated Management"
+        ],
+        "abstract": "The development of photovoltaic (PV) technology has led to an increasing demand for efficient and reliable monitoring systems that can ensure the optimal performance of PV modules. In particular, remote monitoring systems are critical for PV systems installed in distant locations where manual monitoring is difficult and expensive. In this article, we introduce a low-cost wireless monitoring system that employs NodeMCU boards, Raspberry Pi, and Internet of Things (IoT) technologies to monitor and analyze the operational and environmental data of PV modules. By using free and open-source software packages including MQTT Mosquitto Broker, InfluxDB, Node-RED, and Grafana, the system can collect, store, and visualize data, offering an effective means of studying a PV system performance from anywhere. The proposed system is found to work efficiently under different testing conditions; providing precise measurements for different parameters, including voltage, current, power, ambient temperature, humidity, panel temperature, PV coolant temperature at inlet and outlet, and spectral irradiance. In addition to the data collected by the set of sensors, the system provides another source of environmental data using a web-based service called \"OpenWeatherMap\" that provides a complete global forecast. Alerts and thresholds have been successfully implemented in our system, providing an added advantage of being able to detect and respond to any anomalies in the collected data. Furthermore, the system provides two operational controls: wireless ON/OFF control and wireless control of a servo motor which can be utilized in various applications improving overall system performance.",
+        "supplementary_details": [
+            {
+                "information": "Parameters monitored: voltage, current, temperature, etc.",
+                "justification": "Already stated in the textual abstract as data collected from sensors."
+            },
+            {
+                "information": "Technologies used: NodeMCU, Raspberry Pi, MQTT, Grafana",
+                "justification": "These technologies are discussed in the text and shown visually in the \u201cProposed Solution\u201d box."
+            },
+            {
+                "information": "System operation results: accurate, low-cost, remote",
+                "justification": "Stated as conclusions in the text, reinforced in the \u201cResults\u201d and \u201cConclusion\u201d sections."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual dashboard interface (Grafana dashboard preview)",
+                "justification": "Not described in text, but adds context to how data is visualized by users."
+            },
+            {
+                "information": "Diagram flow of the data pipeline",
+                "justification": "Aids understanding of how each component (NodeMCU, broker, server) communicates\u2014adds clarity."
+            },
+            {
+                "information": "ON/OFF switch and servo control representation",
+                "justification": "Implied in text, but the graphical representation explains it better and more clearly."
+            }
+        ]
+    },
+    {
+        "paper": "Paper10",
+        "headlines": [
+            "\u201cPower That Heals Itself: Self-Healable Triboelectric Generator from Recyclable Composites\u201d",
+            "\u201cGraphite-Enhanced PI TENG Delivers High Voltage and Circular Sustainability\u201d",
+            "\u201cHot Press to Heal: A New Generation of Repairable and Reusable Energy Harvesters\u201d",
+            "\u201cFrom Mousepads to Smartwatches: Recyclable TENGs Ready for Real-World Use\u201d",
+            "\u201cCharge, Heal, Recycle: The Future of Sustainable Energy Devices with Vitrimer Composites\u201d"
+        ],
+        "abstract": "With growing concerns about sustainability, there has been significant research interest in fabricating triboelectric nanogenerators (TENGs) from materials capable of self-repair. Here, we presented a novel polyimine/graphite polypropylene (PI/GP) vitrimer composite as a tribo-positive material for harvesting biomechanical energy. The PI/GP exhibited mechanical robustness, self-healing properties after damage, and recyclability through physical or chemical methods. The GP provided a high dielectric constant, charge transport paths, and desirable surface roughness, resulting in an outstanding TENG performance at an optimized addition level of 30\u202fwt% in the composite (PI/GP30). Under a force of 15\u202fN and a frequency of 6\u202fHz, the PI/GP30 TENG generated a power density of 2571\u202fmW/m\u00b2. Moreover, a PI/GP30 TENG device with an area of 49\u202fcm2 was able to generate a remarkable output voltage of nearly 1325\u202fV, at a frequency of 6\u202fHz and under a vertical force of 15\u202fN. Additionally, the PI/GP30 TENG device produced a peak-to-peak voltage of 1250\u202fV, and an outstanding current of around 2\u202fmA by hand tapping with a force of 35\u201340\u202fN. The PI/GP30 TENG was utilized for real-life applications, including a triboelectric watchband for a self-powered watch, and wireless data transmission. Furthermore, the PI/GP30 TENG demonstrated excellent self-healing and recyclability, and these properties were examined in a mousepad power generator. This study highlights the excellent promise of PI/GP vitrimer composite for fabricating high-performance, mechanically robust, self-healable, and recyclable TENGs, enabling their applications in green biomechanical power generators and wearable and wireless communication devices.",
+        "supplementary_details": [
+            {
+                "information": "Contact-separation TENG architecture with labeled layers",
+                "justification": "The structure (Al, PTFE, PI/GP30) is described and helps visualize how charge separation occurs."
+            },
+            {
+                "information": "Charge transport mechanism via graphite fillers",
+                "justification": "The textual abstract notes GP provides charge transport paths; the visual explains this clearly."
+            },
+            {
+                "information": "Self-healability via hot press shown visually",
+                "justification": "The self-healing property mentioned in the text is depicted step-by-step in the graphic."
+            },
+            {
+                "information": "Recyclability paths (physical/chemical)",
+                "justification": "Recycling is explained in the text; visual icons (recycle symbol, beaker) reinforce the idea."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Highlight of \"charge transport path\" and \"electron donor groups\"",
+                "justification": "While effects of graphite are discussed in terms of performance, exact molecular interactions are shown visually."
+            },
+            {
+                "information": "Workflow for cut \u2192 hot press \u2192 restoration",
+                "justification": "The cycle of damage and recovery isn't broken down this way in the text, though mentioned."
+            }
+        ]
+    },
+    {
+        "paper": "Paper11",
+        "headlines": [
+            "\u201cBrain Health on a Budget: FlexNIRS Delivers Wearable Neuro Monitoring for $50\u201d",
+            "\u201cFlexNIRS: The Open-Source Brain Oximeter for Real-Time Community Healthcare\u201d",
+            "\u201cWireless Brain Insights: Low-Cost Wearable Tracks Oxygenation for Telehealth\u201d",
+            "\u201cFrom Labs to Lives: FlexNIRS Democratizes Brain Health Monitoring\u201d",
+            "\u201cNeuro Data at Your Fingertips: FlexNIRS Connects Brain Signals to the Cloud in Real-Time\u201d"
+        ],
+        "abstract": "Currently, there is great interest in making neuroimaging widely accessible and thus expanding the sampling population for better understanding and preventing diseases. The use of wearable health devices has skyrocketed in recent years, allowing continuous assessment of physiological parameters in patients and research cohorts. While most health wearables monitor the heart, lungs and skeletal muscles, devices targeting the brain are currently lacking. To promote brain health in the general population, we developed a novel, low-cost wireless cerebral oximeter called FlexNIRS. The device has 4 LEDs and 3 photodiode detectors arranged in a symmetric geometry, which allows for a self-calibrated multi-distance method to recover cerebral hemoglobin oxygenation (SO2) at a rate of 100 Hz. The device is powered by a rechargeable battery and uses Bluetooth Low Energy (BLE) for wireless communication. We developed an Android application for portable data collection and real-time analysis and display. Characterization tests in phantoms and human participants show very low noise (noise-equivalent power <70 fW/\u221aHz) and robustness of SO2 quantification in vivo. The estimated cost is on the order of $50/unit for 1000 units, and our goal is to share the device with the research community following an open-source model. The low cost, ease-of-use, smart-phone readiness, accurate SO2 quantification, real time data quality feedback, and long battery life make prolonged monitoring feasible in low resource settings, including typically medically underserved communities, and enable new community and telehealth applications.",
+        "supplementary_details": [
+            {
+                "information": "Device hardware components (LEDs, photodiodes, BLE, battery)",
+                "justification": "These are listed in the text, and shown in visual form for better clarity."
+            },
+            {
+                "information": "Smartphone app and cloud upload flow",
+                "justification": "Text mentions Android app + cloud data upload; graphic visually reinforces it."
+            },
+            {
+                "information": "Measured parameters: SO2, HR, motion, etc.",
+                "justification": "Text describes SO2 and signal processing; table explicitly lists what is measured."
+            },
+            {
+                "information": "Low-cost ($50/unit) and open-source sharing",
+                "justification": "Cost is mentioned in text; the open-source note is also echoed visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Cerebral oxygenation signal plots (SO2 trends, etc.)",
+                "justification": "While signal robustness is discussed, the exact appearance and quality of raw signal is shown only visually."
+            },
+            {
+                "information": "Potential expansion metrics (e.g., HRV, EEG, ICG)",
+                "justification": "Future directions like HRV, EEG are hinted in image table, not discussed in textual abstract."
+            },
+            {
+                "information": "Reference to real-time streaming and interface views",
+                "justification": "Text mentions Android app, but not the live plots seen in visuals."
+            }
+        ]
+    },
+    {
+        "paper": "Paper12",
+        "headlines": [
+            "\u201cUWB vs BLE for Social Distancing: Precision or Complexity?\u201d",
+            "\u201cFaster, Smarter, Closer: UWB Outpaces BLE in Proximity Detection\u201d",
+            "\u201cProximity Detection Showdown: ML-Powered BLE vs Memoryless UWB\u201d",
+            "\u201cTOA or RSSI? Study Reveals Which Tech Best Measures 6 Feet Apart\u201d",
+            "\u201cSmartphone BLE with ML Falls Just Short of UWB\u2019s Accuracy in Ranging\u201d"
+        ],
+        "abstract": "In this paper, we compare the direct TOA-based UWB technology with the RSSI-based BLE technology using machine learning algorithms for proximity detection during epidemics in terms of complexity of implementation, availability in existing smart phones, and precision of the results. We establish the theoretical limits on the precision and confidence of proximity estimation for both technologies using the Cramer Rao Lower Bound (CRLB) and validate the theoretical foundations using empirical data gathered in diverse practical operating scenarios. We perform our empirical experiments at eight distances in three flat environments and one non-flat environment encompassing both Line of Sight (LOS) and Obstructed-LOS (OLOS) situations. We also analyze the effects of various postures (eight angles) of the person carrying the sensor, and four on-body locations of the sensor. To estimate the range with BLE RSSI, we use 14 features for training the Gradient Boosted Machines (GBM) learning algorithm and we compare the precision of results with those obtained from memoryless UWB TOA ranging algorithm. We show that the memoryless UWB TOA algorithm achieves 93.60% confidence, slightly outperforming the 92.85% confidence of the BLE RSSI with more complex GBM machine learning (ML) algorithm and the need for substantial training. The training process for the RSSI-based BLE social distance measurements involved 3000 measurements to create a training dataset for each scenario and post-processing of data to extract 14 features of RSSI, and the ML classification algorithm consumed 200 s of computational time. The memoryless UWB ranging algorithm achieves more robust results without any need for training in less than 0.5 s of computation time.\n",
+        "supplementary_details": [
+            {
+                "information": "Two-way ranging using UWB (DW1000) and TOA method",
+                "justification": "This technical setup is described in text and clarified with signal flow in the image."
+            },
+            {
+                "information": "Use of BLE RSSI and feature extraction",
+                "justification": "Abstract mentions 14 RSSI features; the graphic shows time-frequency extraction pipeline."
+            },
+            {
+                "information": "Use of GBM machine learning on BLE features",
+                "justification": "Visual flow from BLE to GBM trees directly supports the ML pipeline discussed in the text."
+            },
+            {
+                "information": "Decision threshold: \u201cr > 6 ft or < 6 ft\u201d",
+                "justification": "Threshold is not emphasized in text, but clearly visualized as the classification goal."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visualization of GBM trees (#1, #2, features)",
+                "justification": "Adds architectural clarity for the ML model not detailed in text."
+            },
+            {
+                "information": "Signal visual (RSSI waveform in 3D space)",
+                "justification": "Not mentioned explicitly in text; visually helps understand signal transformation."
+            }
+        ]
+    },
+    {
+        "paper": "Paper13",
+        "headlines": [
+            "\u201cFog-Cloud Synergy Enhances Real-Time Health Predictions in IoMT Networks\u201d",
+            "\u201cSmart Body Networks Meet Smart Computing: Diabetes Prediction via WBAN and IoMT\u201d",
+            "\u201cFrom Wearables to the Cloud: Real-Time IoMT Framework for Smarter Healthcare\u201d",
+            "\u201cLow-Latency Fog, High-Accuracy Cloud: A Dual-Tier System for Predicting Diabetes\u201d",
+            "\u201cMachine Learning-Driven IoMT Networks Power Future of Remote Healthcare\u201d"
+        ],
+        "abstract": "The new coronavirus disease (COVID-19) has increased the need for new technologies such as the Internet of Medical Things (IoMT), Wireless Body Area Networks (WBANs), and cloud computing in the health sector as well as in many areas. These technologies have also made it possible for billions of devices to connect to the internet and communicate with each other. In this study, an Internet of Medical Things (IoMT) framework consisting of Wireless Body Area Networks (WBANs) has been designed and the health big data from WBANs have been analyzed using fog and cloud computing technologies. Fog computing is used for fast and easy analysis, and cloud computing is used for time-consuming and complex analysis. The proposed IoMT framework is presented with a diabetes prediction scenario. The diabetes prediction process is carried out on fog with fuzzy logic decision-making and is achieved on cloud with support vector machine (SVM), random forest (RF), and artificial neural network (ANN) as machine learning algorithms. The dataset produced in WBANs is used for big data analysis in the scenario for both fuzzy logic and machine learning algorithm. The fuzzy logic gives 64% accuracy performance in fog and SVM, RF, and ANN have 89.5%, 88.4%, and 87.2% accuracy performance respectively in the cloud for diabetes prediction. In addition, the throughput and delay results of heterogeneous nodes with different priorities in the WBAN scenario created using the IEEE 802.15.6 standard and AODV routing protocol have been also analyzed.",
+        "supplementary_details": [
+            {
+                "information": "WBAN user with multiple UP nodes (UP0\u2013UP7, HUB)",
+                "justification": "These WBAN components are described in the abstract, and the visual maps them directly to users."
+            },
+            {
+                "information": "Cloud and Fog node links",
+                "justification": "Described in the abstract as elements of distributed computing in the IoMT system."
+            },
+            {
+                "information": "Fog\u2013Cloud separation of analysis",
+                "justification": "The figure helps distinguish fast (fog) vs complex (cloud) analytics paths visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual duplication of WBAN structure",
+                "justification": "Though each WBAN user is duplicated visually, it helps emphasize scalability and standardization."
+            },
+            {
+                "information": "Vertical connection patterns",
+                "justification": "Visualizes hierarchical flow of health data across WBAN \u2192 Fog \u2192 Cloud, aiding better understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper14",
+        "headlines": [
+            "\u201cMeta-Material Penta-Band Fractal Antenna Designed for Next-Gen Wireless Systems\u201d",
+            "\u201cDecagon-CSRR Hybrid Antenna Achieves Five-Band Resonance with Enhanced Gain\u201d",
+            "\u201cFractal Geometry Meets Meta-Material: Compact Antenna Design for Multiband Use\u201d",
+            "\u201cFabricated Antenna Proves High Performance Across Five GHz Bands\u201d",
+            "\u201cCompact, Multi-layer Fractal Antenna Delivers Wideband and High-Gain Wireless Support\u201d"
+        ],
+        "abstract": "In this article, a meta-material inspired penta-band fractal antenna is proposed for wireless applications. It is constructed by integrating the Complementary Split Ring Resonator (CSRR) and decagon fractal structure. The decagon is the regular polygon with 10 sides. Three layers are constructed in the proposed design to obtain the multiple operating frequencies with better performance. Top layer has the decagon structure with ten slots and second-order Koch loop radiating element. The rectangular patch layer and CSRR layer are the bottom layers. Dielectric material FR4 is selected to design the suggested antenna. The measurement results reveal that the projected antenna has five resonant frequencies at 2.63 GHz, 3.98 GHz, 4.78 GHz, 5.52 GHz and 5.91 GHz with a bandwidth of 230 MHz, 300 MHz, 80 MHz, 200 MHz, and 290 MHz. Gain is observed about 3.29 dB, 4.44 dB, 5.71 dB, 4.22 dB and 3.99 dB at the corresponding resonant frequencies.",
+        "supplementary_details": [
+            {
+                "information": "Geometry of proposed Decagon Fractal Antenna",
+                "justification": "Shows detailed layout and layers mentioned in text (decagon, CSRR, Koch loops, etc.)"
+            },
+            {
+                "information": "Fabricated antenna photo",
+                "justification": "Physical verification of the design discussed in the text (FR4 dielectric and layers)"
+            },
+            {
+                "information": "Resonant frequency results (polar plots)",
+                "justification": "Supports the frequency response data given (2.63 GHz to 5.91 GHz)"
+            },
+            {
+                "information": "Gain and bandwidth plots (S-parameter)",
+                "justification": "Quantitative validation of gain and bandwidth data stated in abstract"
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Use of meta-material visualization",
+                "justification": "Visual implication of CSRR's role in performance enhancement, which is less emphasized in text"
+            }
+        ]
+    },
+    {
+        "paper": "Paper15",
+        "headlines": [
+            "\u201cRIS-Powered B5G Downlink Boosted by NOMA and D2D Coexistence: A Performance Analysis\u201d",
+            "\u201cSmart Reflection Meets Dense Networks: Evaluating RIS and NOMA in D2D-Enriched B5G\u201d",
+            "\u201cNOMA and D2D with RIS: Unlocking Capacity in Next-Gen Cellular Networks\u201d",
+            "\u201cModeling SINR in RIS-Assisted B5G Networks with Coexisting D2D Communications\u201d",
+            "\u201cFrom Outage to Optimization: RIS and NOMA Synergy in Future Wireless Networks\u201d"
+        ],
+        "abstract": "Reconfigurable intelligent surfaces (RISs) are considered a key paradigm to improve the coverage of beyond-fifth-generation (B5G) networks as signal reflectors. Moreover, device-to-device (D2D) communications and non-orthogonal multiple-access (NOMA) schemes will enable networks with a large number of devices for the Internet of Things. This paper analyzes the performance of the downlink of B5G network, where both a NOMA-empowered BS and a RIS support cellular communications co-existing with inband D2D transmissions. We derive approximate expressions of the outage probability, the cumulative distribution function (CDF), and the probability density function (PDF) of the signal-to-noise-plus-interference ratio (SINR) of the NOMA-connected users and the D2D receivers. We further derive similar expressions under orthogonal multiple access (OMA) transmission for comparison purpose. Then, we numerically compute the ergodic rate of each user for a given power allocation. The derived expressions are validated by extensive simulations.",
+        "supplementary_details": [
+            {
+                "information": "Depiction of BS, RIS, and D2D users",
+                "justification": "These components are described in the abstract as parts of the network layout being analyzed."
+            },
+            {
+                "information": "Signal paths: BS-RIS-User, D2D-D2D",
+                "justification": "Signal routing matches abstract\u2019s explanation of system model."
+            },
+            {
+                "information": "Interference paths (e.g., BS-D2D, RIS-D2D)",
+                "justification": "Supports discussion of SINR and outage probability by visually showing interference mechanisms."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "RIS-assisted reflection over obstacles (trees)",
+                "justification": "While RIS coverage improvement is mentioned in text, the visual emphasizes environmental blockage (trees) as an application context not explicitly discussed."
+            }
+        ]
+    },
+    {
+        "paper": "Paper16",
+        "headlines": [
+            "\u201cSensing the Future: IoT-Powered Sensors and Actuators Transform Smart Cities\u201d",
+            "\u201cSmart Cities by Design: The Pivotal Role of Actuators and Sensors\u201d",
+            "\u201cFrom Data to Decisions: Building Smarter Cities with IoT Sensors and Actuators\u201d",
+            "\u201cIoT Infrastructure for Tomorrow\u2019s Cities: Secure, Sustainable, and Smart\u201d",
+            "\u201cThe Digital Backbone of Urban Sustainability: Sensors, Actuators, and IoT\u201d"
+        ],
+        "abstract": "The creation of smart cities has benefited greatly from the quick advancement of sensor and actuator technology. The basis of data-driven urban environments is supported by these technologies, which seamlessly connect with the Internet of Things (IoT). This in-depth review paper explores the crucial part that sensors and actuators play in the development of smart cities, covering important topics such as technological kinds, data security, regulatory frameworks, and future possibilities. The review begins by explaining the importance of sensors and actuators in the Internet of Things (IoT) connections that serve as the framework for smart cities. Additionally, it sheds light on the wide range of sensors designed for different IoT applications as well as the variables affecting their service life, highlighting how crucial precision and durability are. Actuators are examined in detail to clarify how it might be used to create smarter cities. Actuators are the dynamic counterparts of sensors. This review discusses data security in big data exchange among actuators, legal foundations for smart city development, and key elements for creating a smart city. It highlights the benefits of advanced actuator technology and sensor integration, and emerging trends like AI-driven urban management and blockchain-enhanced data security. The paper serves as a guide for researchers, policymakers, and urban planners. The graphical abstract below illustrates the multifaceted advancements in sensor and actuator technologies, showcasing their pivotal role in shaping smarter, more sustainable cities.",
+        "supplementary_details": [
+            {
+                "information": "Intelligent Environment, Smart Governance, Waste Management, Electricity and Energy, etc.",
+                "justification": "These are mentioned or implied in the textual abstract as domains where sensors and actuators are used in smart cities."
+            },
+            {
+                "information": "Central IoT role in Smart City",
+                "justification": "The visual reinforces the textual emphasis on IoT as the backbone for smart city infrastructure."
+            },
+            {
+                "information": "Emphasis on Smart Sensors and Actuators",
+                "justification": "Directly aligns with the focus in the abstract on precision, durability, and technological integration."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Tablet-as-city metaphor (digital control)",
+                "justification": "The visual metaphor of the smart city emerging from a digital tablet offers an intuitive representation of digital transformation not explicitly described in the abstract."
+            },
+            {
+                "information": "Visualization of interconnectivity",
+                "justification": "While the abstract talks about integration, the diagram shows the seamless visual connections among all elements (e.g., transportation, environment, waste), enriching understanding."
+            }
+        ]
+    },
+    {
+        "paper": "Paper17",
+        "headlines": [
+            "A Robust Leap: PT-Symmetric Composite Transmitter Boosts Wireless Power Transfer",
+            "Reinventing WPT: Frequency-Stable and Efficient Power Transfer via Composite Coils",
+            "Exceptional Points Power New Era in Wireless Energy Transfer",
+            "Third-Order PT Phase Transition Enables Smart, Efficient Wireless Charging",
+            "Engineering the Future of Energy: Composite Resonance Coils for Stable Wireless Power"
+        ],
+        "abstract": "Magnetic resonance coupling plays an important role in the non-radiative wireless power transfer without cables. However, the basic near-field coupling also has some key limitations on the resonance wireless power transfer (WPT). On the one hand, when the transfer distance is short, the eigenfrequencies of the WPT system will split because of the strong near-field coupling between the resonance transmitter and receiver. On the other hand, although the working frequency is fixed for the long-distance case, the transfer efficiency will be significantly dropped for the weak coupling strength. Therefore, a long-captivated problem of the resonance WPT systems is that it is difficult to balance the fixed working frequency and high efficiency of the devices. In this work, we put forward the composite transmitter with a pair of resonance coils of different size. By assisting the rotational degrees of freedom in the composite transmitter, a high-order parity-time-symmetric non-Hermitian system can be established. Especially, in contrast to the conventional resonance WPT scheme, the robust WPT can maintain fixed working frequency and efficiency over a varying transfer distance in the optimized WPT system with composite transmitter, since this eigenfrequency is insensitive to the operational conditions. Our findings demonstrate that the composite transmitter possesses better performance for WPT than its single counterpart, offering the opportunities for engineering novel designer electromagnetic transfer states with unique robustness.",
+        "supplementary_details": [
+            {
+                "information": "Two coils (CT-coil and R-coil) connected via capacitance and load",
+                "justification": "Reflects the described composite transmitter with two resonant coils in the textual abstract."
+            },
+            {
+                "information": "Presence of a source and transfer mechanism",
+                "justification": "Matches the mention of magnetic resonance-based wireless power transfer (WPT)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Phase diagram with exceptional point (EP) and eigenfrequency plot",
+                "justification": "Enhances understanding of the third-order PT phase transition and the system\u2019s robustness\u2014details not deeply explained in the textual abstract."
+            },
+            {
+                "information": "Use of colors and bifurcation in the right graph",
+                "justification": "Helps to visually grasp the concept of eigenfrequency stability across varying coupling (\u03ba), expanding the textual explanation."
+            }
+        ]
+    },
+    {
+        "paper": "Paper18",
+        "headlines": [
+            "Invisible Exposure: Assessing Human Interaction with Electromagnetic Fields from Smart Devices",
+            "EMR in Daily Life: Quantifying Radiation from Wireless Devices and Its Human Impact",
+            "From Smartwatches to Base Stations: Understanding the Health Implications of EMR Absorption",
+            "How Close Is Too Close? Evaluating Near-Field EMR Exposure and Safety Thresholds",
+            "Silent Signals: Unveiling EMR Intensity and Hypersensitivity Risks in the Wireless Age"
+        ],
+        "abstract": "Recent advancements in wireless communication technologies have led to the existence of a higher amount of electromagnetic radiation (EMR) in the atmosphere. The intensity of these exposed radiation depends upon the frequency of operation from these communication devices. The paper presents a scientific study on assessing the intensity of electromagnetic waves emitted by different wireless communication devices with human beings based on analyzing the electric field, magnetic field and power density generated from various electronic gadgets and wireless communication devices like smartwatch, laptop, mobile phone, nano-station, headset and mobile towers using an electro-smog meter (Electromagnetic Field (EMF) Meter - PCE-EM 29). The interaction is being studied by placing different wireless communication equipment near to human body. Based on the study, it is identified that a portion of the EMR is absorbed by nearby human beings and is identified by differentiating the field characteristics with and without its presence and is tested in near or far away from the devices. From the test results, it is identified that a portion of the EMR is absorbed by the body parts of the human beings near to the wireless device. This result could act as scientific evidence providing the effects of EMR interactions like electromagnetic hypersensitivity symptoms on humans. Similarly, most of the field exposures from the radiating devices are highly influenced by all the biotic community including human beings based on its interaction. All these field exposures to radiation from various wireless communication devices are direct indications of the Specific Absorption Rate (SAR).",
+        "supplementary_details": [
+            {
+                "information": "Depiction of multiple devices (smartwatch, phone, laptop, base station) emitting EMR towards the human body",
+                "justification": "These devices are clearly mentioned in the textual abstract as subjects used for testing EMR exposure."
+            },
+            {
+                "information": "Arrows indicating radiation exposure toward human body",
+                "justification": "This aligns with the textual description of human exposure to EMR from nearby wireless devices."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Flow diagram showing progression: EMR exposure \u2192 Intensity \u2192 Hypersensitivity \u2192 Health Implications",
+                "justification": "Provides a clear visual mapping of the logical sequence and causal pathway discussed in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper19",
+        "headlines": [
+            "Gel to Graph: A CuS-Carrageenan Nanocomposite for Real-Time RH Sensing",
+            "Humidity on the Go: Wireless RH Sensing with CuS-Carrageenan Thin Films",
+            "Smart Humidity Detection: From Biopolymer Interfaces to Arduino Integration",
+            "Reversible and Reliable: CuS-Carrageenan-Based Thin Film Sensor for Humidity Monitoring",
+            "Nature Meets Nano: Carrageenan-Based Thin Films for High-Accuracy Humidity Sensors"
+        ],
+        "abstract": "In this study, the (copper sulfide)-carrageenan nanocomposite was grown from the interface of gel (Cu-complexed carrageenan) and liquid (sulfide solution). The thin film of the nanocomposite was coated on a platinum interdigitated electrode in order to be used as a relative humidity (RH) sensor. Data from the sensor was acquired by the low-cost, wireless and portable data acquisition hardware (DAQ) device built from the Arduino and 16-bit analog-to-digital converter. The LabVIEW VI was programmed to plot and save voltage output received from the prototype through Bluetooth communication. The sensor responses to RH variation were compared simultaneously with a reference sensor installed in the same prototype, which allows a real-time data acquisition of high accuracy. Importantly, the sensor exhibited a high reversibility as well as a linear response towards RH between 8% and 80 %.",
+        "supplementary_details": [
+            {
+                "information": "CuS-carrageenan gel-to-liquid interfacial growth",
+                "justification": "The image of gel/liquid separation and time label (48 h) reflects synthesis method described."
+            },
+            {
+                "information": "Resistance vs. RH% graph",
+                "justification": "The graphical resistance response directly correlates with the RH sensing behavior described."
+            },
+            {
+                "information": "Coated electrode sample shown in inset",
+                "justification": "Visualizes what is described about the thin film being coated on the platinum electrode."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Real-time RH sensing steps visually demonstrated",
+                "justification": "While the text describes RH sensing, the visual gives a clear understanding of sensor response steps."
+            }
+        ]
+    },
+    {
+        "paper": "Paper20",
+        "headlines": [
+            "Unplugged Precision: Ultraflexible Wireless Neural Probes for Brain Mapping and Control",
+            "Lighting the Brain: Multifunctional Probe Enables Simultaneous Optogenetics and Neural Recording",
+            "Wireless Optogenetics Made Flexible: A Breakthrough in Closed-Loop Neurotechnology",
+            "Neuroscience on the Move: Ultraflexible Probe Tracks and Controls Mouse Brain Activity Wirelessly",
+            "From Signals to Stimulation: Multifunctional Neural Probe Powers Future Brain Research"
+        ],
+        "abstract": "Electrophysiology and optogenetics are pivotal in neuroscience for probing and modulating neural activities, playing a vital role in unraveling the complexities of brain functionality. Despite their importance, the efficacy of existing devices is hampered by insufficient functional integration, pronounced foreign body reactions, and physical constraints that impede natural animal behaviors. Here, we develop a multifunctional, ultraflexible neural probe designed for simultaneous electrophysiological monitoring and optical neural modulation, along with mechanical properties that are conducive to flexibility and compliance. By integrating a wireless neural signal acquisition and stimulation circuit, we achieved wireless recording of brain signals in mice and wireless optogenetic control over their locomotor behavior. The multifunctional ultraflexible probe presented in this study holds substantial promise for closed-loop brain-machine interfaces and deepening our understanding of neural circuit functions. This innovative approach addresses the aforementioned limitations by a comprehensive solution for in vivo neural interrogation and manipulation, marking a significant advancement in the tools available for neuroscience research.",
+        "supplementary_details": [
+            {
+                "information": "Structure of ultraflexible neural probe",
+                "justification": "Shows the actual probe design with electrode sites and embedded LED, directly mentioned in text."
+            },
+            {
+                "information": "Wireless signal recording traces",
+                "justification": "Reinforces the claim about simultaneous electrophysiological monitoring."
+            },
+            {
+                "information": "Image of LED stimulation in a live model",
+                "justification": "Illustrates optogenetic neural control mentioned in the abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Locomotion brain activity (LED off/on)",
+                "justification": "Visualizes behavioral control through optogenetics\u2014supports but is not fully detailed in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper21",
+        "headlines": [
+            "Power from Within: Long-term Wireless Monitoring of Implantable Biofuel Cells",
+            "Bioelectronic Breakthrough: In Vivo Wireless Glucose Biofuel Cell Tested in Rabbits",
+            "Two Months, One Biofuel Cell: Fighting Inflammation for Better Implant Performance",
+            "Wireless Bioenergy: Real-time Bluetooth Monitoring of Implantable GBFCs",
+            "Towards Stable Implants: Overcoming Biofouling in Wireless Glucose Biofuel Cells"
+        ],
+        "abstract": "A bioelectronic device comprising an enzymatic biofuel cell (GBFC) connected to a wireless tele-transmission system was implanted in a rabbit and its function was monitored and controlled in vivo for a period of 2 months. After the 18th day of implantation, the tele-transmission system was used to wirelessly charge and discharge the operational GBFC in vivo through a 100\u202fk\u03a9 load for 30\u202fmin each day. For a further 16 days of operation, the GBFC delivered 16\u202f\u03bcW\u202fmL\u22121 continuously during each 30\u202fmin discharge each day for 16 days. At the end of the 2 month period of implantation the power output had diminished, which was most likely due to an inflammatory process. Our results also indicate that the duration of operational activity is increased by optimizing the interface between the GBFC and the body to minimize inflammatory processes and biofouling. These data provide a significant advance in the achievable output from a GBFC that is implanted in a mammal, and importantly provide a basis upon which to further develop stable implantable biofuel cells. Improving the in vivo performance of an implanted GBFC includes the development of biocompatible diffusing polymers to act as buffering diffusion barriers.",
+        "supplementary_details": [
+            {
+                "information": "GBFC Implanted Rabbit Experiment",
+                "justification": "The text discusses implantation in rabbits and power output over time; the image shows the rabbit setup visually."
+            },
+            {
+                "information": "Wireless Data Transmission via Bluetooth",
+                "justification": "The text explains wireless tele-transmission; the diagram shows Bluetooth data flow from rabbit to receiver."
+            },
+            {
+                "information": "Enzymatic Biofuel Cell (GBFC) Unit",
+                "justification": "The actual biofuel cell is described in the text and shown in images (Panels A and B)."
+            },
+            {
+                "information": "In vivo Monitoring Setup",
+                "justification": "The surgical implantation process and in vivo monitoring discussed in the abstract are shown visually (Panel C)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Stepwise Visualization of Data Flow",
+                "justification": "The graphical diagram (D) showing stepwise wireless data transmission and collection process is not fully detailed in the text but visually clarifies the flow from implant \u2192 Bluetooth \u2192 computer."
+            },
+            {
+                "information": "Lab Setup for Real-time Data Collection",
+                "justification": "The PC data monitoring interface is depicted but not explicitly mentioned in the textual abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper22",
+        "headlines": [
+            "Smart, Flexible, Disposable: Graphene-Paper Humidity Sensors for Real-time Monitoring",
+            "Breath, Soil, and Air: Multifunctional Paper-based Humidity Sensor for Modern Monitoring Needs",
+            "Wireless Humidity Sensing Made Simple: Smartphone-Connected Flexible Sensors",
+            "Next-gen Humidity Sensors: Low-cost, Disposable, and Smartphone Ready",
+            "Environmental and Health Monitoring Gets Flexible with Graphene-Paper Sensors"
+        ],
+        "abstract": "Humidity sensing is crucial for several industrial, environmental, and healthcare applications, many of which require sensors in flexible form factors and with features such as disposability and facile fabrication processes. Herein, we present a flexible, cost-effective, and disposable humidity sensor developed on paper substrate. The screen-printed graphene-carbon (G-C) ink-based humidity sensor demonstrates good sensing performance in terms of change in resistance (\u223c12.4 \u03a9/%RH) in humidity ranging from 25%RH to 91.7%RH. The sensor displays high flexibility (studied at bending radiuses 40 mm, 30 mm, 25 mm, and 20 mm), appreciable stability (> 4 months), high repeatability (> 100 cycles), short response/recovery time (\u223c4 s/\u223c6 s towards respiration rate monitoring) and good reproducibility (minor variations \u223c \u00b1 1 \u03a9/%RH). The efficacy of fabricated humidity sensor is evaluated for spatial humidity monitoring, respiration rate monitoring, and soil moisture monitoring. Finally, the real time monitoring of humidity is also demonstrated via wireless transmission of data to a smartphone to display the potential of the fabricated sensor for environmental, agricultural, and healthcare applications.",
+        "supplementary_details": [
+            {
+                "information": "Flexible and Disposable Humidity Sensor",
+                "justification": "Clearly mentioned in the text as being paper-based, flexible, and disposable."
+            },
+            {
+                "information": "Respiration Rate Monitoring",
+                "justification": "Specific biomedical application discussed in the text and shown graphically with a nose symbol."
+            },
+            {
+                "information": "Soil Humidity Monitoring",
+                "justification": "Soil moisture/soil humidity monitoring mentioned in text, shown in the image."
+            },
+            {
+                "information": "Environmental Humidity Monitoring",
+                "justification": "Environmental applications mentioned in the text and shown visually in the image."
+            },
+            {
+                "information": "Wireless Data Transmission to Smartphone",
+                "justification": "The text details real-time monitoring and data transmission to smartphone; visually represented by phone and Wi-Fi icon."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Graphical Representation of Data (on Smartphone App - ThingSpeak)",
+                "justification": "While wireless transmission is mentioned, showing the real dashboard (graph, humidity value, app name) adds clarity not given in the text."
+            },
+            {
+                "information": "Visual of Sensor Fabrication (Gloved Hand Holding the Sensor)",
+                "justification": "The image shows the sensor physically, giving a better sense of size and flexibility not explicitly described in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper23",
+        "headlines": [
+            "RFID in Healthcare: Revolutionizing Safety, Inventory, and Drug Authenticity",
+            "From Operating Room to Pharmacy: RFID Ensuring Healthcare Reliability",
+            "Battling Errors and Fakes: RFID\u2019s Role in Safer, Smarter Healthcare Systems",
+            "Wireless Control and Tracking: How RFID is Transforming Public Health Management",
+            "Next-Gen Hospital Management: RFID Applications and Challenges Ahead"
+        ],
+        "abstract": "Purpose\n(RFID) is a technology that uses radio waves for data collection and transfer, so data is captured efficiently, automatically and in real time without human intervention. This technology, alone or in addition to other technologies has been considered as a possible solution to reduce problems that endanger public health or to improve its management. This scoping review aims to provide readers with an up-to-date picture of the use of this technology in health care settings.\n\nMethods\nThis scoping review examines the state of RFID technology in the healthcare area for the period 2017-2022, specifically addressing RFID versatility and investigating how this technology can contribute to radically change the management of public health. The guidelines of the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) have been followed. Literature reviews or surveys were excluded. Only articles describing technologies implemented on a real environment or on prototypes were included.\n\nResults\nThe search returned 366 results. After screening, based on title and abstract, 58 articles were considered suitable for this work. 11 articles were reviewed because they met the qualifying requirements. The study of the selected articles highlighted six matters that can be profitably impacted by this technology\n\nConclusion\nThe selected papers show that this technology can improve patient safety by reducing medical errors, that can occur within operating rooms. It can also be the solution to overcome the problem of the black market in counterfeiting drugs, or as a prevention tool. Further research is needed, especially on data management, security, and privacy, given the sensitive nature of medical information.",
+        "supplementary_details": [
+            {
+                "information": "RFID Technology Icon (Center)",
+                "justification": "The textual abstract discusses RFID as the core technology under study, visually highlighted here."
+            },
+            {
+                "information": "Operating Room Image (Top Right)",
+                "justification": "The text discusses RFID for patient safety and error prevention in operating rooms."
+            },
+            {
+                "information": "Pills and Drugs Image (Top Left)",
+                "justification": "Matches the abstract's discussion about RFID preventing counterfeit drugs in the healthcare supply chain."
+            },
+            {
+                "information": "Warehouse/Inventory Image (Bottom Left)",
+                "justification": "Relevant to the drug supply chain and inventory management discussed in the context of healthcare logistics."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Workflow/Process and Monitoring Icons (Bottom Right, with \"Start\" button)",
+                "justification": "This section symbolically suggests process automation, data flow, and system integration, which is conceptually linked but not explicitly described in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper24",
+        "headlines": [
+            "Affordable IoT for Small Farms: LoRa-Based Smart Agriculture for Food Security",
+            "Connecting Crops: A LoRa-Enabled IoT Solution for Real-Time Farm Monitoring",
+            "From Soil to Smartphone: Low-Cost Wireless Agricultural Monitoring Using IoT",
+            "LoRa-Powered Precision Farming: Enhancing Productivity for Small-Scale Growers",
+            "Smart Farming Made Simple: Arduino and ESP32 Based IoT Solutions for Food Security"
+        ],
+        "abstract": "The significance of maintaining food security is particularly emphasized in regions such as Malaysia, where there is a substantial reliance on imports of fruits and vegetables. The local farming industry requires advancements in technology to address the complexities of food production. This motivates the exploration of implementing Internet of Things (IoT) solutions to reduce reliance on manpower and enhance farming efficiency. However, the current integrated IoT solutions for smart farms can be expensive and complicated, rendering them redundant for small-area farms that do not require advanced technologies or machine learning. This study aims to optimize IoT LoRa parameter settings, focusing on providing affordable solutions tailored for fruit and vegetable farms. The main goal is to address the common issue faced by farmers\u2014investing in expensive IoT-enabled wireless sensors without realizing a return on investment. To overcome this challenge, a simple and cost-effective IoT solution is proposed, utilising sensors and readily available applications to achieve efficient farming practises. The main objective is to develop an integrated IoT solution tailored for fruit and vegetable farms, facilitating improved productivity and growth. The solution incorporates sensors to monitor and control various aspects of crop cultivation, collecting essential data. The research development here also aims to inspire low-cost IoT solutions suitable for small-scale food plantation farms by using the long-range physical communication technique (LoRa) protocol. Leveraging IoT technologies in a simplified manner allows local farming industries to boost productivity, lower operational costs, and effectively address food security concerns. In addition to the IoT technology development for smart farms, the research here also investigates the various factors affecting the performance of LoRa-enabled IoT solutions for smart farms, including LoRa frequency, distance, environment, and the performance of the IoT system under different weather conditions, showed a significant effect on system performance (p \u2264 0.05). This comprehensive approach aims to contribute valuable insights for the development and implementation of cost-effective IoT solutions tailored for small-scale agricultural practices. In conclusion, this project demonstrates the efficiency of LoRa-based IoT in agriculture and highlights areas for improvement. Future directions involve improving scalability, streamlining the user interface, and adding sophisticated features to support the development of productive, networked, and environmentally friendly farming methods.",
+        "supplementary_details": [
+            {
+                "information": "Use of LoRa Communication Protocol",
+                "justification": "The textual abstract discusses LoRa as the communication method for small-scale farms, clearly shown in the image."
+            },
+            {
+                "information": "Transmitter Node Components (Sensors + Modules)",
+                "justification": "The image lists sensors like DHT22 (Temperature/Humidity), Soil Moisture Sensor, Rain Sensor, etc., which match text mentioning environmental monitoring."
+            },
+            {
+                "information": "Receiver Node and Cloud Storage (ThingSpeak)",
+                "justification": "Text references data storage and cloud integration; image shows ThingSpeak and mobile app-based data reception."
+            },
+            {
+                "information": "Real-time Monitoring of Agricultural Parameters",
+                "justification": "Text discusses data collection for farming decision-making; the image visually shows the sensor-data-to-cloud flow."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Specific Hardware Modules Mentioned (Arduino, ESP32)",
+                "justification": "While the text talks about \"IoT devices and sensors\", the image explicitly names microcontrollers (Arduino, ESP32 with LoRa) which were not detailed in the abstract."
+            },
+            {
+                "information": "Stepwise System Architecture (Transmitter Node \u2192 LoRa \u2192 Receiver Node \u2192 Cloud \u2192 Mobile App)",
+                "justification": "The detailed node-wise system architecture flow is only implicitly mentioned in the text but is clearly diagrammed in the image."
+            }
+        ]
+    },
+    {
+        "paper": "Paper25",
+        "headlines": [
+            "Future Roads: Integrating Wireless Charging and Solar Energy for Electric Mobility",
+            "Smart Highways of Tomorrow: Sustainable Design with Energy Harvesting and Self-Healing Asphalt",
+            "Driving into the Future: Eco-Friendly Roads Powering Electric Vehicles Wirelessly",
+            "From Asphalt to Electricity: Multidisciplinary Innovations for Smart Road Networks",
+            "The Dutch Highway of Tomorrow: A Cost-Efficient Model for Sustainable Transport Infrastructure"
+        ],
+        "abstract": "Development of electric mobility and sustainable energy result in new technologies such as contactless electric vehicle charging and roadway energy harvesting methods, but also self-healing asphalt roads. By combining these technologies a new concept of Future Sustainable Roads for Electric Mobility is created and presented in the paper. This paper bridges the gap created by these unilateral technology developments using a multi-disciplinary approach including placing cautions when necessary and suggesting viable alternatives for optimal utilization of these energy transfer and conversion techniques. Through theoretical analysis, simulations, and tests on lab-scale experimental prototypes, the impact of our proposal is showcased. Thermal and loss models are developed for self-healing asphalt. Also, integration study of solar roads and contactless charging is performed. Applying the insight gained from the results, it is discussed how some challenges also pave a way towards interesting opportunities, for instance, infrastructure sharing for material use optimization and efficient mosaic integration. Finally, an economic viability case study is presented for a future Dutch highway with such newly emerging components.",
+        "supplementary_details": [
+            {
+                "information": "Solar Panel Canopies",
+                "justification": "The text mentions solar roads and energy harvesting. The visual shows solar panel structures above parking spots."
+            },
+            {
+                "information": "Contactless Charging Pads under Cars",
+                "justification": "The image highlights wireless EV charging, which aligns with \"contactless electric vehicle charging\" from the abstract."
+            },
+            {
+                "information": "Electric Vehicles in Parking Bays",
+                "justification": "The abstract focuses on electric mobility; the EVs shown reinforce the main subject visually."
+            },
+            {
+                "information": "Embedded Road Charging Infrastructure (induction strips on road)",
+                "justification": "The abstract discusses roadway energy harvesting and contactless charging; the visual shows embedded road systems for that."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Use of Trees/Greenery for Environmental Symbolism",
+                "justification": "The image contains trees suggesting sustainability, not explicitly mentioned in the abstract but thematically connected."
+            },
+            {
+                "information": "Futuristic, Minimalistic Design Aesthetic",
+                "justification": "The clean, futuristic rendering style adds an emotional/symbolic layer about \"Future Sustainable Roads,\" enhancing perception."
+            }
+        ]
+    },
+    {
+        "paper": "Paper26",
+        "headlines": [
+            "Decoding Ginseng\u2019s Immuno-Metabolic Effects: A Network-Based Serum Analysis",
+            "Forest, Garden, or Wild? Understanding Ginseng\u2019s Differential Impact on Immune Metabolism",
+            "Mapping the Cross-talk: How Ginseng Shapes Cytokine and Metabolic Networks",
+            "Immune Boosting Through Metabolism: New Insights from Ginseng Consumption",
+            "A Systems Biology Approach to Ginseng and Human Health: Linking Cytokines, Metabolism, and Dosage"
+        ],
+        "abstract": "Ginseng has high medicinal value. Different ginseng have different benefits, but how they work in the body's immune metabolism is unclear. In this study, different types of ginseng were ingested and serum cytokines, some metabolite concentrations and metabolic enzyme expression levels were measured. Intercellular communication networks and metabolic networks were constructed and analyzed for correlation. The results show that the effect of wild ginseng on cytokine secretion and metabolic pathway fluxes was greater. An intake of garden ginseng activated aerobic glycolysis to enhance immunity, while an intake of forest ginseng and wild ginseng increased pentose phosphate pathway, tricarboxylic acid cycle, and oxidative phosphorylation activity to promote immunity. Therefore, the intake of 500 mg/person of forest ginseng or 100 mg/person of wild ginseng was beneficial to health. The study of cytokines and metabolic networks may also provide new ideas for exploring the effects of ginseng and others on the body.",
+        "supplementary_details": [
+            {
+                "information": "Ginseng-to-Human Consumption Flow",
+                "justification": "The graphic clearly visualizes the flow from ginseng intake to human biological sampling, already discussed in the abstract."
+            },
+            {
+                "information": "Cytokine Network Diagram (Immune cells + cytokines)",
+                "justification": "The text mentions cytokine secretion and immune cell interactions; the image provides a direct network-style visualization."
+            },
+            {
+                "information": "Metabolic Network Pathways (Glycolysis, TCA, PPP)",
+                "justification": "The image highlights key metabolic pathways like glycolysis, pentose phosphate pathway, TCA cycle, mentioned in text."
+            },
+            {
+                "information": "Correlation Network Panel between Metabolism and Cytokines",
+                "justification": "Shows the analytical part: how cellular communication (cytokines) and metabolic network interlink, discussed in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual depiction of Enzyme roles in the correlation box",
+                "justification": "The text mentions metabolic enzyme expression, but the image explicitly labels enzyme-mediated linkages visually."
+            }
+        ]
+    },
+    {
+        "paper": "Paper27",
+        "headlines": [
+            "Wireless FPGA Reconfiguration for IoT Sensor Networks: Speed and Simplicity Redefined",
+            "Reprogramming the IoT: A Wireless Protocol for Remote FPGA Sensor Updates",
+            "Low-power, Remote, and Fast: FPGA-Based Sensor Nodes Get Fully Wireless Updates",
+            "Rewriting Sensor Logic Remotely: A Breakthrough in FPGA-based WSN Reconfiguration",
+            "Scalable IoT Device Management Through Wireless FPGA Bitstream Uploads"
+        ],
+        "abstract": "Recently, sensor nodes in Wireless Sensor Networks (WSNs) have been using Field Programmable Gate Arrays (FPGA) for high-speed, low-power processing and reconfigurability. Reconfigurability enables adaptation of functionality and performance to changing requirements. This paper presents an efficient architecture for full remote reconfiguration of FPGA-based wireless sensors. The novelty of the work includes the ability to wirelessly upload new configuration bitstreams to remote sensor nodes using a protocol developed to provide full remote access to the flash memory of the sensor nodes. Results show that the FPGA can be remotely reconfigured in 1.35 s using a bitstream stored in the flash memory. The proposed scheme uses negligible amount of FPGA logic and does not require a dedicated microcontroller or softcore processor. It can help develop truly flexible IoT, where the FPGAs on thousands of sensor nodes can be reprogrammed or new configuration bitstreams uploaded without requiring physical access to the nodes.",
+        "supplementary_details": [
+            {
+                "information": "Wireless architecture for uploading new bitstreams to nodes (Gateway \u2192 Node)",
+                "justification": "The image visually explains the \"wirelessly upload new configuration bitstreams\" process described in the text."
+            },
+            {
+                "information": "Timeline showing FPGA reconfiguration speed (1.35 s)",
+                "justification": "Supports the performance metric (reconfiguration time) that is quantitatively stated in the abstract."
+            },
+            {
+                "information": "Negligible FPGA resource usage representation (Self-contained reconfiguration logic)",
+                "justification": "Reinforces the textual claim about low FPGA logic utilization for the reconfiguration task."
+            },
+            {
+                "information": "Wireless Access Protocol commands list (bitstream fetch, erase, etc.)",
+                "justification": "Provides details on the command types, supporting the mention of \"protocol developed\" in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Diagram showing multi-node network topology",
+                "justification": "The visual topology explains the scalability and IoT-wide deployment potential, which is only lightly touched in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper28",
+        "headlines": [
+            "Radial Bias Meets Seeker Optimization: Boosting Energy-Efficient Target Localization in WSNs",
+            "Energy-Aware, Fast, and Accurate: RadB_SOA Algorithm Revolutionizes Target Tracking",
+            "Dynamic WSN Localization: From RSSI Estimation to Real-time Tracking using RadB_SOA",
+            "Cutting Errors, Saving Energy: New Particle-Tuned RadB_SOA Method for Smart Sensor Networks",
+            "Optimizing Every Bit: Wireless Sensor Networks Achieve 98% Coverage with RadB_SOA Algorithm"
+        ],
+        "abstract": "The standard localization approach is characterized by a fixed position distribution of the anchor nodes, which cannot be dynamically modified based on the deployment environment. This paper proposes a novel approach combining Radial Bias (RB) with the Seeker Optimization Algorithm (SOA) to address the challenges of energy-constrained target localization and tracking. The RB technique enhances localization accuracy by refining the position estimates of the target, while the SOA optimizes sensor deployment and data transmission paths to minimize energy consumption. By integrating these two methodologies, ensures a balance between precision in tracking and energy efficiency. Extensive simulations shown this technique surpasses existing methods in terms of both accuracy in determining the location and the duration of network operation. This makes it attractive option for applications of energy-constrained WSNs. The investigation examines the outcome of the particle count in the RBSO algorithm, specifically for values of 5, 10, 15, 20, and 25. The simulation results show that the recommended strategy decreases particles, speeds up positioning and tracking, and maintains target localization and tracking accuracy. It is seen that the proposed RadB_SOA achieves 12.4 % of transmission error, 14.6 % of ranging error, 96.3 % of localization coverage, 98.65 % of PDR, and 21.56 % of energy consumption.\n\u2022\nThe Radial Bias-Seeker Optimization Algorithm (RadB_SOA) suggested enhances the precision in target localization and optimizes energy usage in wireless sensor networks.\n\u2022\nSimulation outcomes reveal improved tracking accuracy, minimized transmission and ranging errors, as well as increased localization coverage over current techniques.\n\u2022\nThe research presents an extensive evaluation of particle count fluctuations in RBSO, demonstrating enhanced positioning speed and precision with network efficiency.",
+        "supplementary_details": [
+            {
+                "information": "Flow diagram showing steps: RSSI estimation, distance calculation, parameter initiation, evaluation of fitness, etc.",
+                "justification": "Directly illustrates the key steps of the proposed RadB_SOA method mentioned in the text."
+            },
+            {
+                "information": "Energy-aware adaptive localization loop flow",
+                "justification": "Visualizes the energy efficiency and adaptive positioning process discussed in the textual abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Stepwise algorithmic flow with decision points and feedback loops",
+                "justification": "Gives clearer visual insight into the sequential nature and iterative optimization process, which is implied but not explicitly shown in the text."
+            },
+            {
+                "information": "RSSI Channel Modeling inclusion in flow",
+                "justification": "Provides a detailed view of the underlying channel modeling aspect, which was only briefly mentioned in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper29",
+        "headlines": [
+            "Graphene Wearables: The Future of Non-Invasive Health Monitoring from Sweat to Saliva",
+            "Flexible, Wireless, and Biocompatible: Graphene Biosensors for Real-Time Disease Detection",
+            "Graphene-Enabled Health Tracking: Unlocking Biomarker Monitoring from Human Biofluids",
+            "Next-Gen Biosensors: Graphene-Based Devices for Sweat, Tear, and Breath Diagnostics",
+            "Revolutionizing Remote Healthcare: The Rise of Graphene Biosensors for Continuous Monitoring"
+        ],
+        "abstract": "Given the huge economic burden caused by chronic and acute diseases on human beings, it is an urgent requirement of a cost-effective diagnosis and monitoring process to treat and cure the disease in their preliminary stage to avoid severe complications. Wearable biosensors have been developed by using numerous materials for non-invasive, wireless, and consistent human health monitoring. Graphene, a 2D nanomaterial, has received considerable attention for the development of wearable biosensors due to its outstanding physical, chemical, and structural properties. Moreover, the extremely flexible, foldable, and biocompatible nature of graphene provide a wide scope for developing wearable biosensor devices. Therefore, graphene and its derivatives could be trending materials to fabricate wearable biosensor devices for remote human health management in the near future. Various biofluids and exhaled breath contain many relevant biomarkers which can be exploited by wearable biosensors non-invasively to identify diseases. In this article, we have discussed various methodologies and strategies for synthesizing and pattering graphene. Furthermore, general sensing mechanism of biosensors, and graphene-based biosensing devices for tear, sweat, interstitial fluid (ISF), saliva, and exhaled breath have also been explored and discussed thoroughly. Finally, current challenges and future prospective of graphene-based wearable biosensors have been evaluated with conclusion.",
+        "supplementary_details": [
+            {
+                "information": "Biofluid types: Sweat, Tear, ISF, Saliva, Breath",
+                "justification": "These biofluids are already mentioned in the textual abstract and shown visually in the diagram."
+            },
+            {
+                "information": "Visual Representation of Human-Centered Monitoring",
+                "justification": "The human figure in the center directly connects to the text\u2019s focus on human health monitoring."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Specific sensing platforms shown: wearable patches, soft contact lenses, smartphone interfaces, strips, etc.",
+                "justification": "The textual abstract talks broadly about wearable biosensors, but the diagram visually showcases specific device forms."
+            },
+            {
+                "information": "Graphene Layer Visualization as Sensing Substrate",
+                "justification": "The visual representation of a graphene network provides a clearer understanding of the material platform referenced in the text."
+            },
+            {
+                "information": "Application Scenarios for Different Biofluids",
+                "justification": "Multiple application modes like sweat monitoring patches, breath analyzers, tear-based sensors (contacts), shown graphically but not deeply explained in text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper30",
+        "headlines": [
+            "Energy-Optimized UAV Base Stations for Rural and Emergency Network Connectivity",
+            "Smart Charging and Flight Coordination: Extending UAV Network Uptime through Joint Optimization",
+            "From Ground to Sky: Coordinating UAV Energy, Trajectories, and Communication for Future Networks",
+            "MILP-Powered Strategy: Reducing UAV Energy Use while Maximizing Aerial Coverage",
+            "Supercharged Connectivity: Leveraging UAV Mobility and Smart Charging for Disaster-Resilient Networks"
+        ],
+        "abstract": "Unmanned Aerial Vehicles (UAVs) offer a strategic solution to address the increasing demand for cellular connectivity in rural, remote, and disaster-hit regions lacking traditional infrastructure. However, UAVs\u2019 limited onboard energy storage necessitates optimized, energy-efficient communication strategies and intelligent energy expenditure to maximize productivity. This work proposes a novel joint optimization model to coordinate charging operations across multiple UAVs functioning as aerial base stations. The model optimizes charging station assignments and trajectories to maximize UAV flight time and minimize overall energy expenditure. By leveraging both static ground base stations and mobile supercharging stations for opportunistic charging while considering battery chemistry constraints, the mixed integer linear programming approach reduces energy usage by 9.1 \u200b% versus conventional greedy heuristics. The key results provide insights into separating charging strategies based on UAV mobility patterns, fully utilizing all available infrastructure through balanced distribution, and strategically leveraging existing base stations before deploying dedicated charging assets. Compared to myopic localized decisions, the globally optimized solution extends battery life and enhances productivity. Overall, this work marks a significant advance in UAV energy management by consolidating multiple improvements within a unified coordination framework focused on joint charging optimization across UAV fleets. The model lays a critical foundation for energy-efficient aerial network deployments to serve the connectivity needs of the future.",
+        "supplementary_details": [
+            {
+                "information": "Battery status levels of UAVs (Color-coded: >30%, 10-30%, <10%)",
+                "justification": "The text mentions energy constraints, and the visual adds clarity by showing battery status visually."
+            },
+            {
+                "information": "UAVs and Base Stations interactions",
+                "justification": "The text discusses UAV coordination with base stations; the diagram visually shows these links."
+            },
+            {
+                "information": "Supercharging station presence",
+                "justification": "Charging infrastructure is mentioned in the text, and visually represented in the graphic."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Geospatial deployment and UAV-BS-satellite relation",
+                "justification": "The graphical abstract introduces spatial positioning of UAVs, base stations, and satellites which the text does not graphically explain."
+            },
+            {
+                "information": "Different link types: backhaul, measurement triggers",
+                "justification": "The text broadly talks about coordination and optimization, but the image gives a specific breakdown of link types and triggers (such as battery thresholds triggering distance measurements)."
+            },
+            {
+                "information": "UAV Mobility states (stationary vs. moving)",
+                "justification": "Not explicitly mentioned in the text; the diagram distinguishes between stationary and moving UAVs which adds clarity on their operational modes."
+            }
+        ]
+    },
+    {
+        "paper": "Paper31",
+        "headlines": [
+            "Cloud-Connected LoRa Sensor Network for Real-Time Air Quality Monitoring in Mining Sites",
+            "From Dust to Data: Low-Cost Wireless System for PM Monitoring in Hazardous Environments",
+            "LoRa-Based Air Pollution Monitoring: Real-Time Alerts for Mining Community Safety",
+            "Field-Tested Smart Sensor Network for Mining Air Quality: Cloud Analysis and Early Warnings",
+            "Energy-Efficient PM Detection in Mines Using LoRa-Enabled Wireless Nodes and Cloud Processing"
+        ],
+        "abstract": "Poor air quality can provoke severe impacts on health, necessitating environmental monitoring of atmospheric particulate matter (PM) to assess potential threats to human well-being. However, traditional continuous air quality monitoring systems are often costly and time-consuming in data treatment. Lately, there is a growing trend towards the use of low-cost wireless PM sensors, providing more detailed information than standard systems. This paper presents a system designed to measure air quality, specifically, a wireless sensor network composed of a distributed sensor network linked to a cloud system. The proposed system can efficiently measure air quality as it is cost-effective, small-sized, and consumes little power. Sensor nodes based on low-power long range (LoRa) motes transmit field measurement data to the cloud via a gateway, and a cloud computing system is implemented to store, monitor, process, and visualise the data. Advanced techniques were included in our cloud for data processing and analysis to optimise the detection of PM. Laboratory and field tests in the historic Riotinto mine validate the system's viability, offering real-time air quality information for nearby populations. Once calibrated, sensors demonstrate high accuracy, presenting mean error of \u22120.3% and low deviation (R2 = 0.96) when compared to regulatory systems for both low (<10 \u03bcgPM10/m3) and hazardous concentrations (300 \u03bcgPM10/m3), which makes them perfect as early warning systems for atmospheric pollution in mining.",
+        "supplementary_details": [
+            {
+                "information": "Field Test at Mining Environment (graph on right-bottom)",
+                "justification": "Text talks about field testing at Riotinto mine; the image supplements by showing sample field data results (concentration graphs)."
+            },
+            {
+                "information": "PM10 and PM2.5 as target pollutants (top-right)",
+                "justification": "The text explains monitoring particulate matter; the image visually highlights the target PM types."
+            },
+            {
+                "information": "System implementation photo (hardware image bottom-left)",
+                "justification": "The paper describes low-power sensor nodes; the hardware image visually supplements this description."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Cloud-based architecture diagram (middle-top and center)",
+                "justification": "The abstract mentions cloud use but doesn't detail the architecture, which the diagram explains (sensor \u2192 gateway \u2192 server \u2192 cloud \u2192 monitoring apps)."
+            },
+            {
+                "information": "System block diagram showing LoRa, microcontroller, and sensor modules (middle-bottom)",
+                "justification": "The diagram gives technical component-level flow (e.g., LoRa module, ATmega328p, voltage regulators), which is not detailed in the textual abstract."
+            },
+            {
+                "information": "Control interface and data processing blocks",
+                "justification": "The image introduces control flow and data processing stages which are missing from the abstract text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper32",
+        "headlines": [
+            "Integrating CI, Blockchain, and 5G for Future IoT Security Architectures",
+            "Towards Zero-Trust IoT: Computational Intelligence Approaches for Next-Gen Connectivity",
+            "Massive Secure Access in IoT: CI-Driven Solutions for FIoT Networks",
+            "Bridging AI and IoT Security: Role of Computational Intelligence in FIoT Ecosystems",
+            "Next-Gen IoT Security: From Blockchain Authentication to Computational Intelligence Defense"
+        ],
+        "abstract": "The emerging techniques, such as the fifth-generation communications (5G), Internet of Things (IoT), blockchain, artificial intelligence, etc., are operating in unison will drive the transformation of global business forward. The 5G technology is expected to unleash a massive IoT ecosystems by providing massive connectivity for huge number of IoT devices with faster data rate, ultra-low latency, and low-cost access. The 5G networks will be designed to bring the level of performance needed for massive IoT and will enable a perceived fully ubiquitous connected world. Meanwhile, the blockchain being promoted as the fundamental for new business model in Future IoT (FIoT). This paper attempts to provide a set of new directions and ideas for research in 5G/6G enabled IoT and new technique trends in IoT. The current IoT are facing a number of challenges, such as massive IoT devices access, network performances, security, standardization, and critical applications. This paper investigates new technologies, such as 5G, zero-trust, and blockchain will catalyse the innovation in IoT. Specifically, a zero-trust security architecture for FIoT is proposed and a blockchain-based device authentication in IoT environment (BasIoT) is proposed that can provide massive secure device access in FIoT.\n",
+        "supplementary_details": [
+            {
+                "information": "List of IoT Security Concerns (bottom row: Users & Applications, IoT Identity, Cybersecurity Features, etc.)",
+                "justification": "These categories of security concerns are broadly implied in the text when mentioning IoT security and access control issues, but the graphical abstract visually categorizes them in detail."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Computational Intelligence (CI) Approaches: ANN, Swarm Intelligence, Fuzzy Logic, Immune System, etc. (Top section of the image)",
+                "justification": "The textual abstract discusses 5G, blockchain, zero-trust, and IoT security in general, but it does not mention Computational Intelligence methods (such as ANN, Swarm, Fuzzy Logic, etc.) The graphical abstract introduces this new dimension of CI algorithms for IoT Security."
+            },
+            {
+                "information": "CI-enabled IoT Security Solutions (Center connector graphic)",
+                "justification": "The abstract broadly talks about security architectures, but does not explicitly reference CI-enabled solution frameworks. This visual adds conceptual clarity."
+            }
+        ]
+    },
+    {
+        "paper": "Paper33",
+        "headlines": [
+            "Emerging Applications of 2D Nanomaterials in Wearable Electronics: From Energy to Healthcare",
+            "2D Materials Powering Next-Gen Wearables: Design, Functionality, and Application Domains",
+            "Flexible, Functional, and Future-Ready: Role of 2D Nanomaterials in Wearable Technologies",
+            "Material Engineering for Smart Wearables: Unveiling the Structure\u2013Property Landscape of 2D Nanomaterials",
+            "Bridging Energy, Display, and Health: Multifunctional Applications of 2D Nanomaterials in Wearables"
+        ],
+        "abstract": "The widespread adoption of smart terminals has significantly boosted the market potential for wearable electronic devices. Two-dimensional (2D) nanomaterials show great promise for flexible, wearable electronics of next-generation electronic materials and have potential in energy, optoelectronics, and electronics. First, this review focuses on the importance of functionalization/defects in 2D nanomaterials, a discussion of different kinds of 2D materials for wearable devices, and the overall structure\u2013property relationship of 2D materials. Then, in this comprehensive review, we delve into the burgeoning realm of emerging applications for 2D nanomaterial-based flexible wearable electronics, spanning diverse domains such as energy, medical health, and displays. A meticulous exploration is presented, elucidating the intricate processes involved in tailoring material properties for specific applications. Each research direction is dissected, offering insightful perspectives and dialectical evaluations that illuminate future trajectories and inspire fruitful investigations in this rapidly evolving field.",
+        "supplementary_details": [
+            {
+                "information": "Application categories: Energy, Medical Health, Display (as shown in the 3 divisions of the graphic)",
+                "justification": "These three application domains (energy, health, display) are mentioned broadly in the text, but the graphic explicitly organizes and highlights them visually."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Representative devices for each category (e.g., wearable sensors, AR glasses, prosthetics)",
+                "justification": "The graphic visually introduces specific product-like examples (AR glasses, prosthetic hands, health monitors, etc.), which are not explicitly listed in the abstract text."
+            },
+            {
+                "information": "Visual division by human body zones (for health monitoring applications)",
+                "justification": "The figure shows target body zones for medical health applications (like wrist, arm, chest), not explicitly detailed in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper34",
+        "headlines": [
+            "Sensor-Assisted Soil Monitoring for Strawberry Production: Insights from Real-Time Farm Data",
+            "Bridging Field Sensors and Food Chemistry: A Multi-Stage Data Workflow for Strawberry Yield Analysis",
+            "Exploring Soil-Quality Relationships with Strawberry Harvest Metrics: A Data-Driven Approach",
+            "From Soil Sensors to Statistical Models: Preliminary Results from a Commercial Strawberry Farm Study",
+            "Dataset Release on Strawberry Production Monitoring: Integrating Sensors, Lab Analysis, and Statistics"
+        ],
+        "abstract": "The paper presents a complete collection of data and its preliminary statistical analysis obtained from the first phase of a large soil study on how to improve strawberry production and achieve sustainable and high-quality harvests through sensor-assisted real-time field monitoring. Six real-time loggers were placed in an operational commercial strawberry farm in Central Florida for the entirety of a harvest season from soil preparation to planting to harvesting. Along with temporally high-resolution soil sensory measurements including water content, electrical conductivity, and temperature, strawberries were harvested from each of the six locations on three separate occasions for their objective physicochemical characteristics to be monitored and recorded in a food chemistry lab. The primary goal of this paper is to introduce the dataset to the food science and engineering research community and present the results of its preliminary statistical analysis in identifying which factors correlate with one another. Based on the findings of this paper, while there exists a weak correlation between the quality of the harvest and the water content of the soil immediately preceding it, there were several cases where statistically significant differences exist between the soil sensory measurements from different locations which did not replicate the same differences in their corresponding harvest qualities.",
+        "supplementary_details": [
+            {
+                "information": "Data flow from farm sensors \u2192 physicochemical analysis \u2192 pre-processing \u2192 statistical tests (ANOVA, Kruskal-Wallis H-test)",
+                "justification": "The graphical abstract visually breaks down the workflow that the textual abstract describes, showing the phases of data collection and statistical analysis clearly."
+            },
+            {
+                "information": "Mention of weather stations and fertigation control",
+                "justification": "While the textual abstract talks about soil monitoring, the graphical abstract visually highlights weather station and water-fertilizer control systems, supporting the sensor-assisted monitoring part mentioned in the text."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Data types visually categorized (Physicochemical Data, Sensory Data, Pre-processing Data)",
+                "justification": "The graphical abstract introduces a clearer classification of the types of data, which isn\u2019t explicitly categorized like this in the text."
+            },
+            {
+                "information": "Explicit use of ANOVA and Kruskal-Wallis H test in the workflow",
+                "justification": "While statistical analysis is broadly mentioned in the text, the exact statistical tests used (ANOVA and Kruskal-Wallis) are only named in the graphic."
+            }
+        ]
+    },
+    {
+        "paper": "Paper35",
+        "headlines": [
+            "CFRP-Reinforced Piezoelectric Energy Harvesters: Powering Battery-Less IoT Sensors with KNN Nanoparticles",
+            "Self-Powered IoT Communication via Novel Piezoelectric Harvesters: Finite Element and Experimental Validation",
+            "High-Efficiency Piezoelectric Vibration Energy Harvesters for Wireless IoT Applications: A Battery-Free Approach",
+            "KNN-Based Nanogenerators with CFRP Electrodes: Advancing Vibration Energy Harvesting for Space and IoT",
+            "Finite Element Insights and Wireless Performance of CFRP-KNN Energy Harvesters for Battery-less Sensor Networks"
+        ],
+        "abstract": "Piezoelectric Internet of Things (IoT) sensors with energy-harvesting capabilities, which can convert mechanical energy into electrical energy, promote battery-less systems. Such sensors can harness the vibration generated by spacecraft and other moving objects, eliminating the need for external power sources or battery replacements, thereby improving the autonomy and reliability of the system. This study investigates the features of a novel piezoelectric vibration energy harvester (PVEH) that comprises a carbon fiber-reinforced polymer (CFRP) electrode. The CFRP electrode provides outstanding electrical conductivity (7190 S/m) and enhances the mechanical characteristics of the energy collector, thereby ensuring a steady electrical energy yield during resonance. The piezoelectric composite consists of potassium sodium niobate (KNN) nanoparticles mixed with epoxy resin. Results show that when the KNN content is about 30 vol%, the piezoelectric properties of d33 and d31 are 15.21 pC/N and \u2212\u20095.68 pC/N, respectively. Under an applied displacement of 0.05\u2009mm, the CFRP-reinforced PVEH (C-PVEH) provides an impressive output energy volume density of 89.61 \u03bcW/cm3, which is capable of lighting LED bulbs with ease. Notably, this technology shows great application potential for powering wireless communication systems, indicating a remarkable advancement in the field of self-powered IoT sensors. This study provides valuable insights into the potential application of this groundbreaking technology.",
+        "supplementary_details": [
+            {
+                "information": "C-PVEH structural design (layered CFRP electrode + KNN composite)",
+                "justification": "The graphical abstract visually supports the text by showing the multi-layered C-PVEH structure that was described in text."
+            },
+            {
+                "information": "Finite Element Analysis (FEA) stress, potential, and frequency plots",
+                "justification": "The graphical abstract shows FEA results, supporting the textual mention of mechanical and electrical performance analysis."
+            },
+            {
+                "information": "Battery-less wireless communication block diagram",
+                "justification": "The block diagram shows how harvested energy powers wireless communication, as discussed in the text (lighting LEDs, wireless systems)."
+            },
+            {
+                "information": "SEM image of KNN nanoparticles",
+                "justification": "The text mentions KNN nanoparticles mixed with epoxy, and the graphical abstract visually shows the material's nanostructure."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Specific visualization of communication system (transmitter/receiver/sensors block)",
+                "justification": "While the abstract broadly mentions powering wireless systems, the graphic introduces new visual info about transmitter/receiver architecture."
+            },
+            {
+                "information": "Detailed FEA visualization (stress and electric potential fields)",
+                "justification": "The graphical abstract visually conveys spatial stress and potential distributions inside the harvester, which is not detailed in text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper36",
+        "headlines": [
+            "Unveiling the Carbon Footprint of Expanding 4G LTE Access",
+            "End-User Devices: The Hidden Carbon Giants in 4G Networks",
+            "When Connectivity Costs the Earth: Sustainability Challenges in Rural ICT Deployment",
+            "From Raw Materials to Data Transmission: Mapping Emissions in 4G Networks",
+            "Dynamic Modeling Reveals Carbon Hotspots in Developing ICT Infrastructure"
+        ],
+        "abstract": "The aim of this work is to quantify, assess, and identify hotspots in the environmental sustainability of newly constructed ICT networks designed to provide internet access (4 G LTE mobile technology) to regions still lacking this service. The analysis has been carried out on six demographic areas, from high-density urban and peri\u2011urban to remote rural, using ISO 14,040. A Dynamic Inventory Model (DIM) relating demographic/connectivity features with foreground material and energy inventories was validated using real data from Peru. The results showed carbon footprints between 81 and 103 kg CO2 eq./subscription/year, equivalent to 1.35 \u2013 1.73 kg CO2 eq./Gb. Most of this (between 68 and 86%) correspond to end user devices, primarily in the form of embodied emissions. Operational emissions account for about one-third of the total and derive primarily from the electricity consumed by end user devices, and to a lower extent by access networks and data centers. Linear correlations were observed between operational - embodied carbon emissions and the number of subscribers. This trend was overturned in very small ICT networks designed to serve sparsely populated rural areas, due to higher energy consumption and carbon emissions per functional unit generated by access and IP network components. The robustness of these results was studied through sensitivity and uncertainty analyses.",
+        "supplementary_details": [
+            {
+                "information": "GHG emissions during phases like manufacturing, transport, usage",
+                "justification": "The text mentions embodied and operational emissions, and the graphic visually reinforces this breakdown across lifecycle stages."
+            },
+            {
+                "information": "Data transmission, data centers, and user devices as emission contributors",
+                "justification": "These elements are listed in the text as sources of operational emissions; the image supplements by visualizing the components."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Lifecycle flow (from raw materials to final disposal)",
+                "justification": "This circular lifecycle is not described in full in the text but adds a new dimension to understanding the system boundaries."
+            },
+            {
+                "information": "Visual separation of life cycle phases and data flow (upload/download)",
+                "justification": "The visual shows directional flows (data vs. lifecycle) which enhance conceptual clarity beyond the text description."
+            },
+            {
+                "information": "Inclusion of icons for each component (access network, IP network, etc.)",
+                "justification": "These visual cues aid quick comprehension of complex systems, which is not directly described in the textual abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper37",
+        "headlines": [
+            "TEVA: A Self-Powered Sensor That Turns Railway Vibrations into Data and Power",
+            "Charging from Shaking: Railway Vibrations Power Wireless Sensor Networks",
+            "From Motion to Monitoring: Nano Accelerometers Enable Smart Railways",
+            "Linear Response, Real Impact: Low-Frequency Vibration Energy Transformed",
+            "ZigBee-Powered by TEVA: Real-Time Rail Health Monitoring Without Batteries"
+        ],
+        "abstract": "Vibration exists everywhere especially in the public railway operation system. The vibration acceleration is the key factor to monitor and evaluate the structure health of the railway equipment. In this paper, a kind of self-powered triboelectric nano vibration accelerometer (TEVA) is presented. A low frequency spring mass vibration model is built to calculate the vibration sensitive performance and the electric output of the TEVA. The prototype of the TEVA is demonstrated and characterized through the railway vibration simulation platform. It has been testified that TEVA can successfully harvest the low frequency vibration energy and convert it to electrical power to achieve the self-powered vibration acceleration monitoring system. The output current and voltage of TEVA are also sensitive to the vibration acceleration from 1.07 m/s2 to 1.25 m/s2 linearly. Hence it can be used as a self-powered nano vibration accelerator for the fault diagnosis. In addition, the generated electricity is used for charging the lithium battery (from 1.5V to 3.1 V) which supplies power to the ZigBee module. The experiment shows that the charged battery through TEVA can support the wireless communication between ZigBee modules, with temperature and humidity sensors embedded on it. The temperature and humidity on the train are 22 \u00b0C and 35%RH respectively. Therefore, the vibration energy can be harvested and stored for the power supply of wireless sensor network nodes in the near future.",
+        "supplementary_details": [
+            {
+                "information": "Spring-mass vibration model diagram",
+                "justification": "This matches the textual mention of a \u201clow frequency spring mass vibration model\u201d and supports understanding of the physics."
+            },
+            {
+                "information": "Experimental voltage-time and acceleration-response plots",
+                "justification": "These graphs validate the text\u2019s claims about linear sensitivity and charging capability."
+            },
+            {
+                "information": "Charging from 1.5V to 3.1V shown in graph",
+                "justification": "Supports the statement that TEVA charges a lithium battery within this range."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "System block diagram including sensors, ZigBee, and data flow",
+                "justification": "Enhances the text by visually showing the data flow and full system integration not described in detail in the abstract."
+            },
+            {
+                "information": "Image of physical prototype setup with labeled parts",
+                "justification": "Provides new insights into how the TEVA is physically implemented, aiding comprehension beyond the written description."
+            }
+        ]
+    },
+    {
+        "paper": "Paper38",
+        "headlines": [
+            "Speeding Up Pyrolysis: New Device Unlocks Faster Tire-to-Chemical Conversion",
+            "Fast Lane to Trimer Isoprene: Lower Energy Barriers via Rapid Pyrolysis",
+            "From Reaction Order to Nucleation: How Pyrolysis Heats Up Chemical Kinetics",
+            "Reimagining Tire Recycling: Fast Pyrolysis Reveals Efficient Chemical Yields",
+            "Breaking Barriers: Fast Pyrolysis Enhances Kinetics and Volatile Product Yields"
+        ],
+        "abstract": "Fast pyrolysis is commonly used in industrial reactors to convert waste tires into fine chemicals and fuels. However, current thermogravimetric analyzers are facing limitations that prevent the acquisition of kinetic information. To better understand the reaction kinetics, we designed a novel thermo-balance device that was capable of in-situ weight measurement during rapid heating. The results showed that the reaction rate substantially increased, with significant reductions in reaction time and apparent activation energy compared to slow pyrolysis. The change of reaction mechanism from the reaction order model to the nucleation and growth model was responsible for the increase in the degradation rate. Fast pyrolysis led to the generation of more trimers of isoprene as primary pyrolytic volatiles, which we further supported through density functional theory calculations. The findings suggested that fast pyrolysis has a higher chance of overcoming the high energy barrier to form trimers of isoprene. This comprehensive and in-depth understanding of fast pyrolysis kinetics and product distribution could reveal a more realistic process of waste pyrolysis, which benefited the industry.",
+        "supplementary_details": [
+            {
+                "information": "Fixed-bed reactor (10 \u00b0C/min) vs. Thermo-balance (4500\u201313800 \u00b0C/min)",
+                "justification": "These are the heating rates discussed in the abstract for slow and fast pyrolysis."
+            },
+            {
+                "information": "\"Lower energy barrier\" and \"more trimer isoprene\" labels",
+                "justification": "These align with the textual claims that fast pyrolysis reduces activation energy and yields more trimer isoprene."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual transition from slow to fast pyrolysis (left to right arrow)",
+                "justification": "This visual flow enhances the understanding of the heating rate's role in the reaction process, which is described narratively in the text."
+            },
+            {
+                "information": "Highlighting material structure changes in the zoomed-in sections",
+                "justification": "The graphical differences in structure help visualize the molecular and kinetic differences, not explicitly described in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper39",
+        "headlines": [
+            "HEA Breakthrough: Powering Wireless Charging with Stronger, Smarter Alloys",
+            "From Heat to High Efficiency: Magnetic Materials That Keep Their Cool",
+            "High-Entropy Alloys Redefine Wireless Energy Transfer",
+            "Better Than FeMnZn: New Alloy Boosts Charging Speed by 19%",
+            "Smarter Shielding, Faster Charging: HEAs Lead the Way"
+        ],
+        "abstract": "Soft magnetic materials are required to exhibit high saturation magnetization and low coercivity. Iron-based metal alloys, such as FeMnZn, are commonly used commercial soft magnetic materials with electromagnetic shielding functions. However, these alloys generally exhibit low saturation magnetization, poor high-temperature stability, and significant magnetic losses. In recent years, many research groups have highlighted the excellent soft magnetic properties of high-entropy alloys (HEAs). This study develops new HEA powders with superior soft magnetic characteristics for applications in low-frequency magnetic shielding components. The research found that the FeCoNiSiCuNb HEA, under appropriate ball-milling and annealing conditions, exhibits high saturation magnetization and excellent high-temperature properties, retaining over 50 % of its magnetism even at 700K. At an operating frequency of 100 kHz, compared to FeMnZn, the real permeability of the FeCoNiSiCuNb HEA is increased by 2.25 times. Preparing this HEA material as a magnetic shielding material can lead to higher inductance, a coupling coefficient increased to 0.84, and a transmission efficiency improvement of 19 %, demonstrating the potential of high-entropy alloys in wireless charging applications.",
+        "supplementary_details": [
+            {
+                "information": "Efficiency comparison bar graph (FeMnZn vs. This work)",
+                "justification": "Supports the text\u2019s claim of a 19% improvement in transmission efficiency using the HEA."
+            },
+            {
+                "information": "Saturation magnetization vs. temperature graph",
+                "justification": "Confirms the textual claim that FeCoNiSiCuNb retains >50% magnetism at 700K."
+            },
+            {
+                "information": "Composition chart for FeCoNiSiCuNb HEA",
+                "justification": "Matches textual details of the alloy composition used in the study."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Coil setup and magnetic shielding design visualization",
+                "justification": "Adds clarity to the system architecture (transmitter/receiver coil) which is not described in detail in the text."
+            },
+            {
+                "information": "Wireless charging illustration with phone and power transfer",
+                "justification": "Visually conveys the real-world application of HEA in wireless charging scenarios not deeply detailed in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper40",
+        "headlines": [
+            "Smart Threads: Self-Powered Textile Networks Transform Wearable Tech",
+            "No Chips, No Wires\u2014Just Fabric: The Future of Body Networks",
+            "From Motion to Communication: Fibres That Feel, Sense, and Transmit",
+            "Clothes That Compute: Gesture, Sweat, and Touch Sensing via Fibre-WBANs",
+            "Washable Wearables: Electronic Fibres Powering the Next Gen of Smart Clothing"
+        ],
+        "abstract": "Textile-based wireless body area networks (WBANs) show great potential in clinical diagnosis, human\u2013computer interaction and posture monitoring. However, existing textile-based WBANs rely on silicon-based processors and modular electronic components, which fail to meet the requirements of comfortable and practical human wear. Here, we have developed single-fibre-enabled, self-powered WBANs (Fibre-WBANs), which seamlessly integrate electronic fibres into clothing without the need for electronic components. Utilising a tribo-electromagnetic induction coupling mechanism, the fibres achieve three key functions, namely, self-powering, multi-node sensing and wireless transmission, all while ensuring wearer comfort and compatibility with daily washing. We demonstrate multiple applications of this network, including wireless fabric keyboards, wireless human body sensing networks and sweat detection. This work represents a prototype of wireless electronic clothing, offering an innovative approach to wearable technology.",
+        "supplementary_details": [
+            {
+                "information": "Magnetic field and triboelectric field depiction",
+                "justification": "These fields are mentioned in the text via the \u201ctribo-electromagnetic induction coupling mechanism.\u201d"
+            },
+            {
+                "information": "Applications (wireless keyboard, gesture sensing, sweat sensing)",
+                "justification": "These are directly listed as use cases in the abstract and are visually represented by waveforms."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Detailed visualization of triboelectric charge transfer on textile fibres",
+                "justification": "The abstract discusses the mechanism briefly, but this visual offers a deeper look at how charge transfer occurs on a fibre level."
+            },
+            {
+                "information": "Structure of electronic fibre showing layers (C1, C2, etc.)",
+                "justification": "This layered depiction of fibres adds clarity to the material-level construction, not described in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper41",
+        "headlines": [
+            "Ultrasound-Powered Wearables: Flexible Piezo Devices for the Human Body",
+            "From Flat to Flexible: Ultrasonic Harvesters for Curved and Implantable Surfaces",
+            "PUEH: A Soft Solution for Hard Problems in Wireless Implant Power",
+            "Ultrasound in Motion: Energy Harvesting Goes Flexible and Bio-Friendly",
+            "Next-Gen Charging for Bio-Implants: Soft, Smart, and Ultrasonic"
+        ],
+        "abstract": "Ultrasonic driven wireless charging technology has recently attracted much attention in the next generation bio-implantable systems; however, most developed ultrasonic energy harvesters are bulky and rigid and cannot be applied to general complex surfaces. Here, a flexible piezoelectric ultrasonic energy harvester (PUEH) array was designed and fabricated by integrating a large number of piezoelectric active elements with multilayered flexible electrodes in an elastomer membrane. The developed flexible PUEH device can be driven by the ultrasonic wave to produce continuous voltage and current outputs on both planar and curved surfaces, reaching output signals of more than 2 Vpp and 4\u202f\u00b5A, respectively. Potential applications of using the flexible PUEH to charge energy-storage devices and power commercial electronics were demonstrated. Its low attenuation performance was also evaluated using the in vitro test of transmitting power through pork tissue, demonstrating its potential use in the next generation of wirelessly powered bio-implantable micro-devices.",
+        "supplementary_details": [
+            {
+                "information": "Exploded view of the PUEH structure",
+                "justification": "Directly aligns with the textual mention of multilayered flexible electrodes and piezoelectric elements."
+            },
+            {
+                "information": "Voltage output graph (>2 Vpp)",
+                "justification": "Supports the statement that the device generates >2 V peak-to-peak output under ultrasonic stimulation."
+            },
+            {
+                "information": "Image of the flexible device bent over 30\u00b0",
+                "justification": "Matches the text claim of conformability to complex/curved surfaces."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Color-coded signal responses from multiple electrodes",
+                "justification": "This visual enhances understanding of the sensor array\u2019s spatial responsiveness, not detailed in the text."
+            },
+            {
+                "information": "Placement on skin-like curved surface",
+                "justification": "Demonstrates real-world application with physical flexibility, which adds depth to the text description."
+            }
+        ]
+    },
+    {
+        "paper": "Paper42",
+        "headlines": [
+            "MXene-Enhanced Nanofibers Power Smarter Wearables with Motion Sensing and Energy Harvesting",
+            "Aligned to Perform: Spatially Confined Fibers Amplify Piezoelectric Power",
+            "Running on Nanofibers: Human Motion Now Powers Your Devices",
+            "From Fibers to Function: Dual-Purpose Piezo Devices Track and Charge",
+            "10x Power Boost with MXene-Confined Nanofibers for Next-Gen Electronics"
+        ],
+        "abstract": "Piezoelectric nanofibers have received extensive attention in the field of electronic devices, but they are still restricted for further development, due to their limited dipole arrangement. Herein, we propose spatially confined MXene/polyvinylidene fluoride (PVDF) nanofibers for piezoelectric application, with dual functions of pressure sensing and energy harvesting. The spatial confinement of MXene/PVDF nanofibers can actively induce the optimally aligned \u2013CH2\u2013/\u2013CF2\u2013 dipoles of PVDF and dramatically boost spontaneous polarization for piezoelectric enhancement. The voltage and current generated by fabricated MXene/PVDF (0.8 wt%) nanofiber piezoelectric electronic devices  are respectively 3.97 times and 10.1 times higher than those generated by pure PVDF nanofibers. Based on these results, the developed bifunctional electronic devices are applied to monitor various human movements and to harvest energy. Notably, the results of this work allow for the development of nanofibers with excellent piezoelectric performance using a spatial confinement mechanism.",
+        "supplementary_details": [
+            {
+                "information": "Visualization of spatially confined nanofiber mesh",
+                "justification": "Supports the idea of structural confinement discussed in the text."
+            },
+            {
+                "information": "PVDF/MXene molecular structure",
+                "justification": "Illustrates the dipole alignment mechanism, which is mentioned as key to enhanced piezoelectricity."
+            },
+            {
+                "information": "Application in human motion tracking and energy harvesting",
+                "justification": "Matches the use cases cited in the abstract: human motion monitoring and energy harvesting."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Athletic figure wearing tech gear",
+                "justification": "Provides a visual metaphor for the real-world application potential in wearables and fitness tracking."
+            },
+            {
+                "information": "Wireless signal depiction",
+                "justification": "Implies potential for wireless communication or signal transmission, not explicitly mentioned in the abstract but relevant for smart wearables."
+            }
+        ]
+    },
+    {
+        "paper": "Paper43",
+        "headlines": [
+            "Rehab Goes Wireless: Smart Magnetic Sensor Tracks Every Move",
+            "FWMCS: A Flexible Leap Toward Smarter Muscle Monitoring",
+            "From Bladder Pulses to Finger Bends: One Sensor Monitors It All",
+            "No Wires, No Limits: Magnetic Clasp Sensor Enables Home Rehab",
+            "Biocompatible, Wearable, and Smart: Redefining Movement Sensing in Real Time"
+        ],
+        "abstract": "Traditional sensors face significant challenges in applications such as rehabilitation training and intraoperative monitoring. These challenges include limited operational flexibility due to wired connections, insufficient conformity of rigid designs to dynamically deforming regions, difficulty in observing and quantifying organ muscle movements, and poor performance in real-time monitoring of muscle coordination patterns. To address these limitations, this study developed a flexible wireless magnetic closure sensor (FWMCS) based on the principle of electromagnetic induction. Inspired by magnetic clasp in daily life, this sensor combines real-time monitoring, wireless operation, flexible adaptability, cost-effective manufacturing, and biocompatibility, enhancing its adaptability and reliability in complex dynamic environments, including rehabilitation training and intraoperative monitoring. Experimental results demonstrated that the FWMCS performed excellently in scenarios such as joint rehabilitation training and physiological displacement monitoring. It accurately captured dynamic motion signals and enabled efficient functional assessments, showing compatibility with various rehabilitation programs. Its lightweight, modular design and elimination of the need for professional technical requirements make it suitable for home rehabilitation.",
+        "supplementary_details": [
+            {
+                "information": "Working principle with magnetic block and electromagnetic induction",
+                "justification": "Clearly supports the abstract's explanation of the FWMCS functioning mechanism."
+            },
+            {
+                "information": "Depiction of finger extension, flexion, and range of motion",
+                "justification": "Directly reflects text references to rehabilitation monitoring and joint motion tracking."
+            },
+            {
+                "information": "Illustration of signal generation and output to computer",
+                "justification": "Aligns with the abstract\u2019s claim of real-time signal monitoring and data recording."
+            },
+            {
+                "information": "Sensor placement on muscles and bladder",
+                "justification": "Matches text examples of intraoperative monitoring and physiological displacement detection."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Human anatomical overlay showing sensor location",
+                "justification": "Visually contextualizes usage on different body parts not described in anatomical terms in the text."
+            },
+            {
+                "information": "Artistic representation of motion cues (arrows showing movement)",
+                "justification": "Adds clarity to how the sensor captures movement direction\u2014an enhanced interpretation over the textual content."
+            }
+        ]
+    },
+    {
+        "paper": "Paper44",
+        "headlines": [
+            "How a Strap Alters the Stride: Rethinking Knee Muscle Control in Runners",
+            "Infrapatellar Straps Shift Muscle Synergy Without Changing Control Modularity",
+            "From EMG to Simulation: Decoding the Impact of Knee Straps on Gait",
+            "Strapping for Relief: A Biomechanical Insight into Patellar Load Reduction",
+            "Knee Bracing and Neural Patterns: Muscle Timing Tweaked by Infrapatellar Support"
+        ],
+        "abstract": "Infrapatellar straps are commonly recommended for treating and preventing running-related knee injuries, and their effects have been investigated at the level of individual muscles. However, the use of straps may influence the neuromuscular control strategies of the knee, and the nervous system controls numerous muscles modularly through muscle synergy. This study aimed to investigate the effects of infrapatellar straps on muscle synergies during running. Kinematic, kinetic, and electromyography data from seventeen participants were recorded during running at self-selected speeds, both with and without infrapatellar straps. Muscle synergies were extracted from electromyography data using non-negative matrix factorization, including the number of modules, dynamic motor control index (DMC), muscle activation combinations, and temporal activation coefficients. Knee flexion angles and extension moments were estimated using OpenSim. Although wearing infrapatellar straps did not affect the number of modules or DMC, knee extensor weightings in the modules associated with the stance phase were reduced with the straps. Additionally, peak temporal activation in the propulsion phase was delayed when wearing the straps. Knee extension moments during the stance phase decreased significantly. While infrapatellar straps did not affect muscle synergy modularity, they altered activation patterns and weightings, suggesting that straps may help reduce quadriceps muscle forces.",
+        "supplementary_details": [
+            {
+                "information": "Visualization of infrapatellar strap placement",
+                "justification": "Directly supports the abstract\u2019s description of the strap being used during running trials."
+            },
+            {
+                "information": "EMG signal processing, NMF, spatial/temporal pattern extraction",
+                "justification": "Matches the method section where non-negative matrix factorization (NMF) is used to extract muscle synergies."
+            },
+            {
+                "information": "OpenSim modeling with kinematics and kinetics",
+                "justification": "Reflects the simulation method used to estimate knee flexion angles and extension moments."
+            },
+            {
+                "information": "Charts showing joint angles and joint moments",
+                "justification": "Matches the textual findings, especially on changes in knee extension moments across gait cycles."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Labels showing medical conditions (e.g., Patellar Tendinopathy)",
+                "justification": "These provide context to why infrapatellar straps are used but are not directly discussed in the abstract."
+            },
+            {
+                "information": "Bar graphs comparing multiple muscle groups during running with and without strap",
+                "justification": "Adds a clear visual understanding of how activation differs\u2014enhancing but not explicitly described at this visual granularity in the text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper45",
+        "headlines": [
+            "Woven Intelligence: Real-Time Glucose Monitoring from Headband to Hand",
+            "PB-RGO Films Enable Flexible, Accurate, and Wireless Glucose Sensing",
+            "From Oil-Water Interfaces to Smart Wearables: The pH-Driven Sensing Revolution",
+            "Smart Fabrics That Talk: Glucose Monitoring with a Swipe of a Glove",
+            "Bend It, Twist It, Wear It: A Rugged Biosensor for Real-Time Health Tracking"
+        ],
+        "abstract": "Wearable film-based smart biosensors have been developed for real-time biomolecules detection. Particularly, interfacial co-assembly of reduced graphene oxide-prussian blue (PB-RGO) film through electrostatic interaction has been systematically studied by controllable pH values, achieving optimal PB-RGO nanofilms at oil/water (O/W) phase interface driven by minimization of interfacial free energy for wearable biosensors. As a result, as-prepared wearable biosensors of PB-RGO film could be easily woven into fabrics, exhibiting excellent glucose sensing performance in amperometric detection with a sensitivity of 27.78 \u00b5A mM\u22121 cm\u22122 and a detection limit of 7.94 \u03bcM, as well as impressive mechanical robustness of continuously undergoing thousands of bending or twist. Moreover, integrated wearable smartsensing system could realize remotely real-time detection of biomarkers in actual samples of beverages or human sweat via cellphones. Prospectively, interfacial co-assembly engineering driven by pH-induced electrostatic interaction would provide a simple and efficient approach for acquiring functional graphene composites films, and further fabricate wearable smartsensing devices in health monitoring fields.",
+        "supplementary_details": [
+            {
+                "information": "Headband and glove sensors",
+                "justification": "These visuals support the text's claim of wearable integration into fabrics or accessories."
+            },
+            {
+                "information": "Smartphone-based real-time glucose detection",
+                "justification": "Matches the abstract's note on remote real-time detection via mobile phones."
+            },
+            {
+                "information": "Interface showing glucose levels pre-meal vs post-meal",
+                "justification": "Reflects the wearable\u2019s ability to monitor dynamic biomarker changes."
+            },
+            {
+                "information": "Use of PB-RGO film in wearable formats",
+                "justification": "Directly supports the discussion of film-based biosensor integration in textiles and accessories."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Oil/water interface depiction with pH adjustment",
+                "justification": "Illustrates the interfacial co-assembly concept that is not deeply visualized in the abstract but critical to understanding the fabrication."
+            },
+            {
+                "information": "Minimization of interfacial free energy visual",
+                "justification": "Enhances understanding of the scientific basis behind film formation\u2014a concept described but not visualized in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper46",
+        "headlines": [
+            "Green Graphene Ink Powers the Future of Printable Electronics",
+            "Recycled Cyrene Enables Clean, Conductive Graphene for RFID Tags",
+            "From Flake to Tag: Screen-Printed Graphene Inks Made Sustainable",
+            "High-Performance, Low-Toxicity Graphene Ink Revolutionizes Wireless Sensing",
+            "Circular Solvents and Flexible Tech: A Blueprint for Scalable Printed Sensors"
+        ],
+        "abstract": "Graphene-based printable inks are advanced and promising candidates for flexible printed electronic devices. To develop large-scale graphene-based highly conductive electronics based on existing printing approaches of the material, it is imperative to scale up its ink production methods and optimize the electrical properties of the printed films. Here, a sustainable approach is reported for preparing high-conductive screen-printing graphene ink by recycling cellulose solvents. The ink uses Cyrene solvent in circulation and produces highly concentrated and conductive graphene ink to conquer the limitation of graphene inks in massive industrial production brought by the high cost of the cellulose solvents. A systematic study of the sheet resistance variation with the number of cycles has been carried out. The average conductivity of the ink can exceed 3 \u00d7 104 S m\u22121, with only a 2-h shear exfoliation process, which exhibits about the same conductivity of recent works (using toxic NMP solvent, complex centrifugation, ultrasonication, etc.) but with much more straightforward and cost-effective fabrication process. The formulation of graphene inks allows flexible metal-free far-field tag antenna to be screen-printed and integrated with an off-the-shelf sensory chip to achieve battery-free wireless UHF RFID far-field temperature sensing. The high responsiveness, accuracy, and sensitivity of the RFID sensing tag were observed with instantaneous detection of accurate and reliable wireless data transmission.",
+        "supplementary_details": [
+            {
+                "information": "Shear mixing of graphite and Cyrene",
+                "justification": "Visualizes the process described in the abstract for creating graphene dispersion using Cyrene."
+            },
+            {
+                "information": "Centrifuge and drop analysis",
+                "justification": "Represents real lab steps corresponding to processing and concentrating the ink, as described in the abstract."
+            },
+            {
+                "information": "Cyrene recycling loop",
+                "justification": "Aligns with the sustainable, circular solvent use mentioned in the abstract."
+            },
+            {
+                "information": "Screen printing of RFID tag",
+                "justification": "Supports the statement that the ink enables screen-printed RFID tags."
+            },
+            {
+                "information": "RFID application integration",
+                "justification": "Matches the text\u2019s claim of sensor integration and wireless communication demonstration."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual flow diagram from raw material to application",
+                "justification": "Offers a holistic, step-by-step visual summary not presented in the text explicitly, aiding conceptual understanding."
+            },
+            {
+                "information": "Recyclability highlighted through visual loop",
+                "justification": "The cyclic arrow reinforces the eco-friendly narrative, although not deeply elaborated visually in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper47",
+        "headlines": [
+            "Hybrid Nanogenerator Enables High-Efficiency Vibration Energy Harvesting for Smart IoT Devices",
+            "From Desk to Dashboard: Self-Powered Wireless Sensors Get a Boost with Magnetic Levitation",
+            "One Device, Three Modes: TENG, PEG, and EMG Unite to Power Next-Gen Wireless Monitoring",
+            "Monitoring in Motion: Hybrid Generator Powers Real-Time Vibration and Temperature Sensors",
+            "Smarter Sensing Starts Here: High Output Nanogenerators for Wireless, Maintenance-Free Monitoring"
+        ],
+        "abstract": "Energy harvesting is a key technology for the self-powered mode of wireless sensor nods and mobile terminals. A large number of devices have been developed to convert mechanical energy into electrical energy. Whereas great efforts have been made to improve the output performance, problems like energy dissipation, device life and response range still need to be addressed. Herein, we report a hybridized triboelectric-piezoelectric-electromagnetic nanogenerator efficiently harvesting vibration energy. Three harvest modes are integrated into a single device, whose core component is a magnetic levitation structure. On the one hand, it presents higher sensitivity than conventional spring or cantilever designs due to low energy loss, which favors the tiny energy harvesting like the slapping desk vibration and the running car vibration. On the other hand, the mechanical fatigue or damage can be avoided by the special structure design. Under 20 Hz, triboelectric nanogenerator (TENG) can deliver a peak output power of 78.4 \u03bcW, while the top (EMG2) and the bottom (EMG1) electromagnetic generator can provide a peak output power of 36 mW and 38.4 mW, respectively. Piezoelectric generator located at top (PEG2) and bottom (PEG1) can contribute a peak output power of 122 mW and 105 mW, respectively. The capacitor charge measurement reveals that unit combination performance is remarkably stronger than individual performance, and the combination of TENG+EMG1+EMG2+PEG1+PEG2 has the highest energy harvesting capacity. Finally, this device has been integrated into a wireless sensor system. Results show that the wireless sensor system can be activated and transmit temperature and vibration signal to control computer. This work has a vital significance to the development and application of the internet of things.",
+        "supplementary_details": [
+            {
+                "information": "Exploded view of the hybrid nanogenerator showing TENG, PEG, and EMG components",
+                "justification": "The visual directly supports the text\u2019s mention of hybrid TENG+PEG+EMG integrated in one device."
+            },
+            {
+                "information": "Graph showing output power vs time for multiple energy harvesting components (TENG, EMG, PEG)",
+                "justification": "Matches the textual output power values mentioned (e.g., PEG1: 105 mW, EMG1: 36 mW, etc.)."
+            },
+            {
+                "information": "Monitoring interface showing real-time transmission of temperature and vibration signals",
+                "justification": "Supports the statement: \u201ctransmit temperature and vibration signal to control computer.\u201d"
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visuals of control dashboard with toggle options and signal plotting",
+                "justification": "The control interface visualization adds clarity about how data transmission looks in real application."
+            },
+            {
+                "information": "Clear annotation of signal curves from multiple generators over time",
+                "justification": "Enhances understanding of performance behavior over time, not explicitly detailed in text."
+            }
+        ]
+    },
+    {
+        "paper": "Paper48",
+        "headlines": [
+            "Wearable Tattoo and Textile Sensors Offer Real-Time Detection of Nerve Agents",
+            "Flexible OPH-Based Biosensors Deliver Instant Chemical Warnings to Mobile Devices",
+            "Next-Gen Wearables Combat Chemical Threats with On-Skin and On-Fabric Sensors",
+            "Wireless Tattoo Sensor Detects Toxic Vapors\u2014Before It\u2019s Too Late",
+            "Smart Inks and Skin Sensors: A New Frontline for Personal Chemical Safety"
+        ],
+        "abstract": "Flexible epidermal tattoo and textile-based electrochemical biosensors have been developed for vapor-phase detection of organophosphorus (OP) nerve agents. These new wearable sensors, based on stretchable organophosphorus hydrolase (OPH) enzyme electrodes, are coupled with a fully integrated conformal flexible electronic interface that offers rapid and selective square-wave voltammetric detection of OP vapor threats and wireless data transmission to a mobile device. The epidermal tattoo and textile sensors display a good reproducibility (with RSD of 2.5% and 4.2%, respectively), along with good discrimination against potential interferences and linearity over the 90\u2013300 mg/L range, with a sensitivity of 10.7 \u00b5A\u2219cm3\u2219mg\u22121 (R2 = 0.983) and detection limit of 12 mg/L in terms of OP air density. Stress-enduring inks, used for printing the electrode transducers, ensure resilience against mechanical deformations associated with textile and skin-based on-body sensing operations. Theoretical simulations are used to estimate the OP air density over the sensor surface. These fully integrated wearable wireless tattoo and textile-based nerve-agent vapor biosensor systems offer considerable promise for rapid warning regarding personal exposure to OP nerve-agent vapors in variety of decentralized security applications.",
+        "supplementary_details": [
+            {
+                "information": "Tattoo and textile sensors detecting p-nitrophenol",
+                "justification": "Visual supports the abstract\u2019s mention of wearable sensors on both skin (tattoo) and textile."
+            },
+            {
+                "information": "Warning signal on mobile device",
+                "justification": "Reinforces abstract\u2019s point about wireless data transmission and mobile alerts."
+            },
+            {
+                "information": "Use of OPH enzyme and response to OP vapors",
+                "justification": "Graphical elements clearly visualize the abstract's chemical sensing mechanism (OP \u2192 p-nitrophenol)."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Visual representation of enzyme action",
+                "justification": "Abstract discusses OPH enzymes, but graphical abstract enhances understanding by showing its chemical reaction output."
+            },
+            {
+                "information": "Use of wireless communication symbol",
+                "justification": "Adds clarity on how the signal is transmitted, not explicitly shown in textual details."
+            }
+        ]
+    },
+    {
+        "paper": "Paper49",
+        "headlines": [
+            "Integrated Solar-Supercapacitor Power Pack Achieves 72% Storage Efficiency",
+            "Next-Gen Self-Charging Power Devices Combine Solar Conversion with Energy Storage",
+            "Wireless, Lightweight Self-Charging Power Packs Developed Using Tandem Solar Cells",
+            "Solution-Processed Hybrid Devices Reach 12.4% Efficiency in Energy Conversion",
+            "Perovskite Meets Polymer: Solar-to-Storage Integration for Portable Electronics"
+        ],
+        "abstract": "Self-charging power packs possess great potential applications in the micro-systems, but these electric circuits are required to be portable, light-weight and even wireless connected for practical applications, in particular, in the wearable and portable electronics. In this study, we report wireless portable light-weight solution-processed self-charging power packs by tandem solar cells integrated with solid-state asymmetric supercapacitors through solution-processed electrical conductive polymeric thin film. Towards the end, we first develop solution-processed tandem solar cells by perovskite solar cells (PSCs) combined with ternary organic solar cells (OSCs) for achieving large operational voltage. We then develop solid-state asymmetric supercapacitors by both novel positive electrode and solid-state polymeric electrolytes for enhancing the energy density and cycling stability. After that, we integrate PSCs\u2013OSCs tandem solar cells with solid-state asymmetric supercapacitors through solution-processed electrical conductive polymeric thin film to build wireless portable light-weight solution-processed self-charging power packs. This novel self-charging power packs not only possess advanced features such as portable, light-weight and wireless connection, but also exhibit excellent electric-circuit device performance, such as with an overall efficiency of 12.43% and an energy storage efficiency of 72.4% under white light illumination. All these results demonstrate that the wireless portable light-weight self-charging power packs through utilization of tandem solar cells as the renewable energy source and solid-state asymmetric supercapacitors as the energy storage device connected with solution-processed electrical conductive polymeric thin film, for the first time, are developed.",
+        "supplementary_details": [
+            {
+                "information": "Layered structure (Tandem solar cells + Supercapacitors)",
+                "justification": "Matches with the abstract description of the integrated solar cell\u2013supercapacitor power pack."
+            },
+            {
+                "information": "Mention of energy conversion/output processes",
+                "justification": "Reinforces textual content describing dual function of solar energy harvesting and storage."
+            },
+            {
+                "information": "Efficiency values (12.43%, 72.4%)",
+                "justification": "Directly visualizes the key performance metrics already mentioned in the textual abstract."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Color-coded component materials (e.g., ITO glass, carbon cloth, thin films)",
+                "justification": "Enhances understanding of material composition and stack structure, which is only described broadly in the abstract."
+            }
+        ]
+    },
+    {
+        "paper": "Paper50",
+        "headlines": [
+            "\u201cSmart Neck Sensors Detect Concussions via Wireless Self-Powered System\u201d",
+            "\u201cTwo-Sensor Flexible System Tracks Head Impact Direction and Force\u201d",
+            "\u201cWireless Head Impact Monitoring Using Piezoelectric-Like Thin Sensors\u201d",
+            "\u201cReal-Time Head Collision Detection Enabled by Self-Powered Smart Sensors\u201d",
+            "\u201cBluetooth-Integrated Thin Sensors Monitor Head Trauma in Sports\u201d"
+        ],
+        "abstract": "This work presents a prototype of a wireless, flexible, self-powered sensor used to analyze head impact kinematics relevant to concussions, which are frequent in high-contact sports. Two untethered, paper-thin, and flexible sensing devices with piezoelectric-like behavior are placed around the neck of a human head substitute and used to monitor stress/strain in this region during an impact. The mechanical energy exerted by an impact force --varied in locations and magnitudes-- is converted to pulses of electric energy which are transmitted wirelessly to a smart device for storage and analysis. The wireless prototype system is presented using a microcontroller with an integrated Bluetooth Low Energy module. The static and dynamic characteristics of the transmitted signal are then compared to signals from accelerometers embedded in a head substitute, to map the sensor\u2019s output to the angular velocity and acceleration during impacts. It is demonstrated that using only two sensors is enough to detect impacts coming from any direction; and that placing multiple external sensors around the neck region could provide accurate information on the dynamics of the head, during a collision, which other sensors fail to capture.",
+        "supplementary_details": [
+            {
+                "information": "Head impact setup with dummy and applied force",
+                "justification": "This directly supports the textual description of testing with varied force locations and magnitudes."
+            },
+            {
+                "information": "Wireless data transmission to a tablet",
+                "justification": "Matches the text\u2019s mention of Bluetooth Low Energy-based wireless transmission to smart devices."
+            }
+        ],
+        "complementary_details": [
+            {
+                "information": "Graphical depiction of angular velocity/acceleration measurement",
+                "justification": "Enhances understanding of how sensor data correlates to biomechanical kinematics of the head, visually implying signal patterns."
+            },
+            {
+                "information": "Simplicity of system setup (only 2 sensors shown)",
+                "justification": "Visually reinforces the idea that only two sensors are needed to capture impact from all directions, which helps interpret the claim more intuitively."
+            }
+        ]
+    }
+]
